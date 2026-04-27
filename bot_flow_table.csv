@@ -1,0 +1,13 @@
+block_id,location_name,expected_answer,accepted_answer_variants,success_fragment,next_block_id,teacher_note
+START,Intro,START,"start; Start; START",,RULES,Students begin the story.
+RULES,Safety,I AGREE,"i agree; agree; yes; ok",,L1,Students accept safety rules.
+L1,GES-2 Source,energy,"energy; power; electricity; electric energy",KEEP,L2,Real infrastructure behind the digital world.
+L2,GES-2 Roofline,pipes,"pipes; pipe; chimneys; chimney; tubes; tube; stacks; stack; columns; column",THE,L3,Accept several terms for visible vertical industrial elements.
+L3,Waterline,reflection,"reflection; a reflection; mirror image; reflected image; reflections",CITY,L4,Copy versus original.
+L4,Patriarchal Bridge,bridge,"bridge; a bridge; pedestrian bridge; the bridge",REAL,L5,Physical crossing versus digital skipping.
+L5,Large Monument View,ship,"ship; a ship; boat; a boat; vessel; sailing ship",BEFORE,L6,Slow observation instead of instant reaction.
+L6,Krymskaya Embankment,two,"two; 2; two routes; two paths; two levels; 2 routes; 2 paths; 2 levels",THE,L7,Needs field verification for two visible routes/levels.
+L7,Muzeon Sculptures,sculpture,"sculpture; sculptures; statue; statues; monument; monuments",FEED,L8,Three-dimensional art versus flat image.
+L8,Muzeon Map,map,"map; a map; plan; navigation map; park map; scheme; board; sign",MAKES,L9,Offline guide versus tracked app.
+L9,New Tretyakov Gallery,gallery,"gallery; art gallery; galereya; галерея; the gallery",IT,L10,Curated memory versus algorithmic feed.
+L10,Gorky Park Final,flat,"flat; flattened; 2d; 2-d; two-dimensional; two dimensional",FLAT,FINISH,Final metaphor: city without depth.

@@ -1,0 +1,34 @@
+{
+  "bot_title": "New Quest Title",
+  "final_phrase": "YOUR FINAL PHRASE HERE.",
+  "start_message": "Quest intro message. Type START when your team is ready.",
+  "safety_message": "Safety rules. Type I AGREE to continue.",
+  "finish_message": "Final message shown after the last location.",
+  "locations": [
+    {
+      "id": "L1",
+      "title": "Frame 1: Example",
+      "location_name": "Example Location",
+      "address": "Example address or meeting point",
+      "coordinates": "55.0000, 37.0000",
+      "map_link": "https://www.google.com/maps/search/?api=1&query=55.0000,37.0000",
+      "expected_answer": "example",
+      "accepted_answers": [
+        "example",
+        "an example"
+      ],
+      "skip_code": "SKIP1",
+      "fragment": "WORD",
+      "message": "Student-facing story text for this location.",
+      "question": "Student-facing question.",
+      "hints": [
+        "First hint.",
+        "Second hint."
+      ],
+      "wrong_reply": "Wrong answer reply.",
+      "success_reply": "Correct. Fragment unlocked: WORD",
+      "speaking_task": "Short speaking task.",
+      "next_directions": "Directions to the next location. Type ARRIVED when your team is ready."
+    }
+  ]
+}
