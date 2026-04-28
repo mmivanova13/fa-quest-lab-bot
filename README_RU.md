@@ -293,3 +293,76 @@ assets/missing_reel_cover.png
 ```
 
 Чтобы добавить обложку к новому квесту, положите файл в папку `assets/` и добавьте путь в соответствующий блок кода в `quest_catalog.json`.
+
+---
+
+# Webhook-версия для бесплатного web-хостинга
+
+Эта версия проекта умеет работать не только через polling (`bot.py`), но и через webhook (`webhook_bot.py`). Webhook лучше подходит для бесплатных web-hosting платформ, потому что хостинг видит обычное веб-приложение с HTTP endpoint.
+
+## Какие файлы важны
+
+```text
+webhook_bot.py      — webhook entry point
+Dockerfile          — сборка контейнера для хостинга
+requirements.txt    — зависимости, включая FastAPI и Uvicorn
+bot.py              — основная логика квеста, используется webhook_bot.py
+```
+
+## Переменные окружения на хостинге
+
+Добавьте в настройках хостинга:
+
+```text
+TELEGRAM_BOT_TOKEN = ваш токен от BotFather
+WEBHOOK_URL = публичный URL вашего приложения, например https://your-app.example.com
+```
+
+Опционально:
+
+```text
+WEBHOOK_PATH = /telegram-webhook
+WEBHOOK_SECRET_TOKEN = любая длинная случайная строка
+```
+
+`WEBHOOK_URL` должен быть именно публичным адресом приложения без слэша в конце. Пример:
+
+```text
+https://fa-quest-lab-bot.example.com
+```
+
+Бот сам поставит webhook Telegram на адрес:
+
+```text
+https://fa-quest-lab-bot.example.com/telegram-webhook
+```
+
+## Команда запуска без Docker
+
+Если платформа не использует Dockerfile, укажите Start Command:
+
+```bash
+uvicorn webhook_bot:web_app --host 0.0.0.0 --port $PORT
+```
+
+Если `$PORT` не поддерживается, используйте порт, который требует ваша платформа.
+
+## Команда установки зависимостей
+
+```bash
+pip install -r requirements.txt
+```
+
+## Проверка
+
+После запуска откройте в браузере публичный URL приложения. Должен появиться JSON примерно такого вида:
+
+```json
+{"status":"ok","bot":"FA Quest Lab","mode":"webhook"}
+```
+
+Потом откройте Telegram и отправьте боту `/start`.
+
+## Важно
+
+Не запускайте одновременно polling-версию (`python bot.py`) и webhook-версию на хостинге. У одного Telegram-бота должен быть один активный способ получения обновлений.
