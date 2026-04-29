@@ -204,16 +204,65 @@ def safety_keyboard() -> ReplyKeyboardMarkup:
     return ReplyKeyboardMarkup([["I AGREE"], ["CHANGE QUEST"]], resize_keyboard=True, one_time_keyboard=True)
 
 
-def format_location_intro(location: Dict[str, Any]) -> str:
-    return (
-        f"📍 {location['title']}\n"
-        f"{location['location_name']}\n\n"
-        f"Address / point: {location['address']}\n"
-        f"Map: {location['map_link']}\n\n"
-        f"{location['message']}\n\n"
-        f"❓ Question\n{location['question']}\n\n"
-        f"Type your answer, or type HINT if you need help."
-    )
+def format_destination_intro(location: Dict[str, Any]) -> str:
+    parts = ["NEXT DESTINATION"]
+
+    title = location.get("title", "")
+    location_name = location.get("location_name", "")
+    address = location.get("address", "")
+    map_link = location.get("map_link", "")
+    next_directions = location.get("next_directions", "")
+
+    if title:
+        parts.append(title)
+
+    if location_name:
+        parts.append("Location: " + location_name)
+
+    if address:
+        parts.append("Address / point: " + address)
+
+    if map_link:
+        parts.append("Yandex Maps:")
+        parts.append(map_link)
+
+    if next_directions:
+        parts.append("Route note:")
+        parts.append(next_directions)
+
+    parts.append("When your team arrives at the point, press ARRIVED or type ARRIVED.")
+
+    return "
+
+".join(parts)
+
+
+def format_location_task(location: Dict[str, Any]) -> str:
+    parts = []
+
+    title = location.get("title", "")
+    location_name = location.get("location_name", "")
+    message = location.get("message", "")
+    question = location.get("question", "")
+
+    if title:
+        parts.append(title)
+
+    if location_name:
+        parts.append(location_name)
+
+    if message:
+        parts.append(message)
+
+    if question:
+        parts.append("? Question")
+        parts.append(question)
+
+    parts.append("Type your answer, or type HINT if you need help.")
+
+    return "
+
+".join(parts)
 
 
 async def ask_for_code(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -357,25 +406,61 @@ async def progress_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -
     )
 
 
-async def send_location(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+async def send_destination(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     progress = get_progress(context.chat_data)
     locations = get_locations(context.chat_data)
     quest = get_current_quest(context.chat_data)
+
     if not quest:
         await ask_for_code(update, context)
         return
 
     index = progress["location_index"]
+
     if index >= len(locations):
         progress["phase"] = FINISHED
-        await update.effective_message.reply_text(quest["finish_message"], reply_markup=ReplyKeyboardRemove())
+        await update.effective_message.reply_text(
+            quest["finish_message"],
+            reply_markup=ReplyKeyboardRemove(),
+        )
+        return
+
+    location = locations[index]
+    progress["phase"] = BETWEEN
+    progress["hints_used"] = 0
+
+    await update.effective_message.reply_text(
+        format_destination_intro(location),
+        reply_markup=between_keyboard(),
+        disable_web_page_preview=True,
+    )
+
+
+async def send_location_task(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    progress = get_progress(context.chat_data)
+    locations = get_locations(context.chat_data)
+    quest = get_current_quest(context.chat_data)
+
+    if not quest:
+        await ask_for_code(update, context)
+        return
+
+    index = progress["location_index"]
+
+    if index >= len(locations):
+        progress["phase"] = FINISHED
+        await update.effective_message.reply_text(
+            quest["finish_message"],
+            reply_markup=ReplyKeyboardRemove(),
+        )
         return
 
     location = locations[index]
     progress["phase"] = ANSWERING
     progress["hints_used"] = 0
+
     await update.effective_message.reply_text(
-        format_location_intro(location),
+        format_location_task(location),
         reply_markup=command_keyboard(),
         disable_web_page_preview=True,
     )
@@ -469,12 +554,7 @@ async def handle_correct_answer(update: Update, context: ContextTypes.DEFAULT_TY
         await update.effective_message.reply_text(quest["finish_message"], reply_markup=ReplyKeyboardRemove())
         return
 
-    progress["phase"] = BETWEEN
-    await update.effective_message.reply_text(
-        location["next_directions"],
-        reply_markup=between_keyboard(),
-        disable_web_page_preview=True,
-    )
+    await send_destination(update, context)
 
 
 async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -519,14 +599,14 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
 
     if phase == SAFETY:
         if normalized in {"i agree", "agree", "yes", "ok"}:
-            await send_location(update, context)
+            await send_destination(update, context)
         else:
             await message.reply_text("Please type I AGREE to continue.", reply_markup=safety_keyboard())
         return
 
     if phase == BETWEEN:
         if normalized in {"arrived", "next", "ready", "continue"}:
-            await send_location(update, context)
+        await send_location_task(update, context)
         else:
             await message.reply_text("Type ARRIVED when your team is at the next location.", reply_markup=between_keyboard())
         return
