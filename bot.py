@@ -232,9 +232,7 @@ def format_destination_intro(location: Dict[str, Any]) -> str:
 
     parts.append("When your team arrives at the point, press ARRIVED or type ARRIVED.")
 
-    return "
-
-".join(parts)
+    return "\n\n".join(parts)
 
 
 def format_location_task(location: Dict[str, Any]) -> str:
@@ -260,9 +258,7 @@ def format_location_task(location: Dict[str, Any]) -> str:
 
     parts.append("Type your answer, or type HINT if you need help.")
 
-    return "
-
-".join(parts)
+    return "\n\n".join(parts)
 
 
 async def ask_for_code(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -606,7 +602,7 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
 
     if phase == BETWEEN:
         if normalized in {"arrived", "next", "ready", "continue"}:
-        await send_location_task(update, context)
+            await send_location_task(update, context)
         else:
             await message.reply_text("Type ARRIVED when your team is at the next location.", reply_markup=between_keyboard())
         return
