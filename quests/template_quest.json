@@ -11,7 +11,7 @@
       "location_name": "Example Location",
       "address": "Example address or meeting point",
       "coordinates": "55.0000, 37.0000",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=55.0000,37.0000",
+      "map_link": "https://yandex.ru/maps/?text=Example%20Location%2C%20Example%20address%20or%20meeting%20point%2C%20Frame%201%3A%20Example",
       "expected_answer": "example",
       "accepted_answers": [
         "example",

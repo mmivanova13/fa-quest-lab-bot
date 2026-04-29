@@ -11,7 +11,7 @@
       "location_name": "GES-2 House of Culture",
       "address": "Bolotnaya Embankment, 15",
       "coordinates": "55.7419, 37.6097",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=55.7419,37.6097",
+      "map_link": "https://yandex.ru/maps/?text=GES-2%20House%20of%20Culture%2C%20Bolotnaya%20Embankment%2C%2015%2C%20Frame%201%3A%20The%20Source",
       "expected_answer": "energy",
       "accepted_answers": [
         "energy",
@@ -38,7 +38,7 @@
       "location_name": "GES-2 Roofline / Industrial Elements",
       "address": "Area near GES-2, where the vertical elements are visible",
       "coordinates": "55.7419, 37.6097",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=55.7419,37.6097",
+      "map_link": "https://yandex.ru/maps/?text=GES-2%20Roofline%20/%20Industrial%20Elements%2C%20Area%20near%20GES-2%2C%20where%20the%20vertical%20elements%20are%20visible%2C%20Frame%202%3A%20The%20Vertical%20Memory",
       "expected_answer": "pipes",
       "accepted_answers": [
         "pipes",
@@ -71,7 +71,7 @@
       "location_name": "Embankment / Waterline near GES-2",
       "address": "Waterline near GES-2",
       "coordinates": "55.7415, 37.6104",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=55.7415,37.6104",
+      "map_link": "https://yandex.ru/maps/?text=Embankment%20/%20Waterline%20near%20GES-2%2C%20Waterline%20near%20GES-2%2C%20Frame%203%3A%20The%20Broken%20Copy",
       "expected_answer": "reflection",
       "accepted_answers": [
         "reflection",
@@ -99,7 +99,7 @@
       "location_name": "Patriarchal Bridge",
       "address": "Patriarchal Bridge",
       "coordinates": "55.7446, 37.6068",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=55.7446,37.6068",
+      "map_link": "https://yandex.ru/maps/?text=Patriarchal%20Bridge%2C%20Patriarchal%20Bridge%2C%20Frame%204%3A%20The%20Crossing",
       "expected_answer": "bridge",
       "accepted_answers": [
         "bridge",
@@ -126,7 +126,7 @@
       "location_name": "View toward the Large Monument on the River",
       "address": "Safe viewing point toward the Peter the Great monument",
       "coordinates": "55.7397, 37.6096",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=55.7397,37.6096",
+      "map_link": "https://yandex.ru/maps/?text=View%20toward%20the%20Large%20Monument%20on%20the%20River%2C%20Safe%20viewing%20point%20toward%20the%20Peter%20the%20Great%20monument%2C%20Frame%205%3A%20The%20Giant",
       "expected_answer": "ship",
       "accepted_answers": [
         "ship",
@@ -155,7 +155,7 @@
       "location_name": "Krymskaya Embankment",
       "address": "Krymskaya Embankment, select a point with visible pedestrian levels/routes",
       "coordinates": "55.7367, 37.6066",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=55.7367,37.6066",
+      "map_link": "https://yandex.ru/maps/?text=Krymskaya%20Embankment%2C%20Krymskaya%20Embankment%2C%20select%20a%20point%20with%20visible%20pedestrian%20levels/routes%2C%20Frame%206%3A%20The%20Route%20Splits",
       "expected_answer": "two",
       "accepted_answers": [
         "two",
@@ -186,7 +186,7 @@
       "location_name": "Muzeon Park of Arts / Sculptures",
       "address": "Muzeon Park of Arts",
       "coordinates": "55.7355, 37.6050",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=55.7355,37.6050",
+      "map_link": "https://yandex.ru/maps/?text=Muzeon%20Park%20of%20Arts%20/%20Sculptures%2C%20Muzeon%20Park%20of%20Arts%2C%20Frame%207%3A%20The%20Open-Air%20Museum",
       "expected_answer": "sculpture",
       "accepted_answers": [
         "sculpture",
@@ -215,7 +215,7 @@
       "location_name": "Muzeon Map / Navigation Board",
       "address": "Physical map, board or navigation sign in Muzeon",
       "coordinates": "55.7355, 37.6050",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=55.7355,37.6050",
+      "map_link": "https://yandex.ru/maps/?text=Muzeon%20Map%20/%20Navigation%20Board%2C%20Physical%20map%2C%20board%20or%20navigation%20sign%20in%20Muzeon%2C%20Frame%208%3A%20The%20Offline%20Guide",
       "expected_answer": "map",
       "accepted_answers": [
         "map",
@@ -246,7 +246,7 @@
       "location_name": "New Tretyakov Gallery",
       "address": "Krymsky Val, 10",
       "coordinates": "55.7351, 37.6055",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=55.7351,37.6055",
+      "map_link": "https://yandex.ru/maps/?text=New%20Tretyakov%20Gallery%2C%20Krymsky%20Val%2C%2010%2C%20Frame%209%3A%20The%20Curated%20Memory",
       "expected_answer": "gallery",
       "accepted_answers": [
         "gallery",
@@ -274,7 +274,7 @@
       "location_name": "Gorky Park / Final Point",
       "address": "Gorky Park area, Krymsky Val, 9",
       "coordinates": "55.7316, 37.6034",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=55.7316,37.6034",
+      "map_link": "https://yandex.ru/maps/?text=Gorky%20Park%20/%20Final%20Point%2C%20Gorky%20Park%20area%2C%20Krymsky%20Val%2C%209%2C%20Frame%2010%3A%20The%20Final%20Cut",
       "expected_answer": "flat",
       "accepted_answers": [
         "flat",

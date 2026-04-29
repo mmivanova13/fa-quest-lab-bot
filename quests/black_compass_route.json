@@ -259,7 +259,7 @@
       "title": "Stage 1: The Wind of the Broken Ledger",
       "location_name": "Vorobyovy Gory Observation Deck",
       "address": "Vorobyovy Gory observation deck, Moscow",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=Vorobyovy%20Gory%20Observation%20Deck%2C%20Moscow",
+      "map_link": "https://yandex.ru/maps/?text=Vorobyovy%20Gory%20Observation%20Deck%2C%20Vorobyovy%20Gory%20observation%20deck%2C%20Moscow%2C%20Stage%201%3A%20The%20Wind%20of%20the%20Broken%20Ledger",
       "message": "Ship’s Log, April 3rd, Year of Our Lord 1724\nLatitude: 55°42'N | Longitude: 37°33'E\nEntry I: The Crow’s Nest of Moscow\n\nAvast, crew, for our voyage begins not at dockside among barrels and ropes, but high above the river, where any worthy lookout would plant his boots, narrow his eyes against the wind and read the city as if it were a sea chart.\n\nFrom this height Moscow appears calm, yet the Logbook trembles in my hands, and a violent wind rises from nowhere to tear at its pages. This is no honest weather. It is the Wind of the Broken Ledger, a cursed gust that scatters records, confuses counts and turns a well-supplied ship into a floating argument.\n\nA captain who cannot account for what lies in the hold is defeated before the anchor is raised. He may have courage, a sharp blade and a crew willing to sing through a storm, but if he cannot say how many barrels, bolts, crates, tools and rations are aboard, then the voyage belongs not to him, but to chance.\n\nTASK FOR THE CREW:\nWhat one-word term means the stock of goods that a business counts, keeps and manages before sale or shipment?",
       "question": "Send your answer as one word.",
       "accepted_answers": [
@@ -282,7 +282,7 @@
       "title": "Stage 2: The Hourglass Curse",
       "location_name": "Upper Cable Car Station / Viewpoint Area",
       "address": "Viewpoint area near the Moscow cable car, Vorobyovy Gory side",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=Moscow%20Cable%20Car%20Vorobyovy%20Gory%20station",
+      "map_link": "https://yandex.ru/maps/?text=Upper%20Cable%20Car%20Station%20/%20Viewpoint%20Area%2C%20Viewpoint%20area%20near%20the%20Moscow%20cable%20car%2C%20Vorobyovy%20Gory%20side%2C%20Stage%202%3A%20The%20Hourglass%20Curse",
       "message": "Ship’s Log, April 3rd, Year of Our Lord 1724\nLatitude: 55°42'N | Longitude: 37°33'E\nEntry II: The Hourglass in the Sky\n\nAbove the river, the cables stretch like rigging from an invisible ship, and every carriage that crosses the air seems to mock the crew with the same cruel lesson: movement is never instant, and every promise of arrival must pass through time.\n\nA cursed hourglass swings somewhere beyond sight, and with each grain that falls the voyage grows heavier. Orders are placed, but goods do not arrive. Merchants swear the cargo is coming, customers grow restless, and the captain learns that delay can sink trust as surely as a cannonball sinks wood.\n\nCaptain Flint once wrote that distance did not ruin merchants half so often as waiting did, for a cargo delayed too long may arrive technically correct and commercially useless.\n\nTASK FOR THE CREW:\nWhat supply-chain term means the time between placing an order and receiving it?\n\nSend it as one word: LEADTIME.",
       "question": "Send your answer as one word.",
       "accepted_answers": [
@@ -306,7 +306,7 @@
       "title": "Stage 3: Attack of the Ghost Barges",
       "location_name": "Andreevskaya Embankment",
       "address": "Andreevskaya Embankment, along the Moscow River",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=Andreevskaya%20Embankment%2C%20Moscow",
+      "map_link": "https://yandex.ru/maps/?text=Andreevskaya%20Embankment%2C%20Andreevskaya%20Embankment%2C%20along%20the%20Moscow%20River%2C%20Stage%203%3A%20Attack%20of%20the%20Ghost%20Barges",
       "message": "Ship’s Log, April 3rd, Year of Our Lord 1724\nLatitude: 55°42'N | Longitude: 37°33'E\nEntry III: The Cargo on Black Water\n\nThe river appears below the path, wide and silver under the uncertain sky, carrying reflections the way old trade routes carry secrets.\n\nOut of the mist come barges so low in the water that they seem to carry not passengers, but every unpaid debt the river has ever refused to drown. No sailor waves from the deck. No lantern swings in welcome. These are merchant vessels of the damned, burdened with crates, barrels and goods whose stories were erased before they reached the quay.\n\nA passenger carries luggage, but a merchant moves something larger, heavier and more accountable. To misunderstand that difference is to let the ghost fleet board us.\n\nTASK FOR THE CREW:\nWhat one-word term means goods transported in bulk by ship, road, rail or air?",
       "question": "Send your answer as one word.",
       "accepted_answers": [
@@ -331,7 +331,7 @@
       "title": "Stage 4: The Chokepoint Ambush",
       "location_name": "Andreevsky / Pushkinsky Pedestrian Bridge",
       "address": "Pedestrian bridge across the Moscow River between Frunzenskaya and Pushkinskaya embankments",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=Pushkinsky%20Andreevsky%20Pedestrian%20Bridge%2C%20Moscow",
+      "map_link": "https://yandex.ru/maps/?text=Andreevsky%20/%20Pushkinsky%20Pedestrian%20Bridge%2C%20Pedestrian%20bridge%20across%20the%20Moscow%20River%20between%20Frunzenskaya%20and%20Pushkinskaya%20embankments%2C%20Stage%204%3A%20The%20Chokepoint%20Ambush",
       "message": "Ship’s Log, April 3rd, Year of Our Lord 1724\nLatitude: 55°42'N | Longitude: 37°34'E\nEntry IV: The Narrow Passage\n\nWe have reached a crossing where the city narrows itself into a single path, and the river below watches like a patient beast waiting for one careless step.\n\nNo pirate fears the open sea half so much as a narrow channel. In open water a ship may turn, flee, fight or vanish into weather, but in a chokepoint every vessel must wait its turn, and the fastest ship becomes no faster than the slowest passage.\n\nSo it is with supply chains. One overloaded port, one missing document, one slow supplier, one broken crane or one cursed customs desk can make the whole route groan like a mast under storm wind.\n\nTASK FOR THE CREW:\nWhat one-word term means the point in a process that slows down the entire flow because capacity is limited?",
       "question": "Send your answer as one word.",
       "accepted_answers": [
@@ -356,7 +356,7 @@
       "title": "Stage 5: The Cursed Quartermaster",
       "location_name": "Neskuchny Garden, Hunting Lodge Area",
       "address": "Hunting Lodge area in Neskuchny Garden",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=Neskuchny%20Garden%20Hunting%20Lodge%2C%20Moscow",
+      "map_link": "https://yandex.ru/maps/?text=Neskuchny%20Garden%2C%20Hunting%20Lodge%20Area%2C%20Hunting%20Lodge%20area%20in%20Neskuchny%20Garden%2C%20Stage%205%3A%20The%20Cursed%20Quartermaster",
       "message": "Ship’s Log, April 3rd, Year of Our Lord 1724\nLatitude: 55°43'N | Longitude: 37°35'E\nEntry V: The Quartermaster’s Bargain\n\nThe path slips into older greenery, where the city softens its voice and even the wind seems to walk more carefully between the trees.\n\nHere waits the ghost of a quartermaster with a ledger chained to his wrist and a face as pale as sailcloth left too long in moonlight. He blocks the crew’s passage not with a blade, but with a question older than piracy itself: how shall a ship sail if no one has obtained what the voyage requires?\n\nRope, powder, biscuit, canvas, lamp oil, spare timber, medicine, tools and water do not appear because a captain shouts for them. They must be sourced, selected, purchased and secured before the voyage begins.\n\nTASK FOR THE CREW:\nWhat one-word term means the organised process of obtaining goods or services for an organisation?",
       "question": "Send your answer as one word.",
       "accepted_answers": [
@@ -380,7 +380,7 @@
       "title": "Stage 6: The False Merchant",
       "location_name": "Neskuchny Garden Paths",
       "address": "Public paths in Neskuchny Garden",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=Neskuchny%20Garden%2C%20Moscow",
+      "map_link": "https://yandex.ru/maps/?text=Neskuchny%20Garden%20Paths%2C%20Public%20paths%20in%20Neskuchny%20Garden%2C%20Stage%206%3A%20The%20False%20Merchant",
       "message": "Ship’s Log, April 3rd, Year of Our Lord 1724\nLatitude: 55°43'N | Longitude: 37°35'E\nEntry VI: The False Merchant of the Garden\n\nA merchant waits among the trees, smiling with the polished ease of a man who has sold the same lie in twelve ports and been thanked for it in eleven.\n\nHis crates are clean, his seals are fresh, and his promises are sweeter than Caribbean rum. Yet Captain Flint warned every clever pirate that goods are only as trustworthy as the party standing behind them, and a bargain without a known provider may become a curse wrapped in canvas.\n\nDo not name the captain. Do not name the customer. Do not name the final shop where the goods may one day appear beneath flattering light. Name the one who provides the goods.\n\nTASK FOR THE CREW:\nWhat one-word term means a person or company that provides goods or materials to another business?",
       "question": "Send your answer as one word.",
       "accepted_answers": [
@@ -404,7 +404,7 @@
       "title": "Stage 7: The Stormhold",
       "location_name": "Pushkinskaya Embankment / River Pier Area",
       "address": "Pushkinskaya Embankment near river pier area",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=Pushkinskaya%20Embankment%2C%20Moscow",
+      "map_link": "https://yandex.ru/maps/?text=Pushkinskaya%20Embankment%20/%20River%20Pier%20Area%2C%20Pushkinskaya%20Embankment%20near%20river%20pier%20area%2C%20Stage%207%3A%20The%20Stormhold",
       "message": "Ship’s Log, April 3rd, Year of Our Lord 1724\nLatitude: 55°43'N | Longitude: 37°35'E\nEntry VII: The Stormhold\n\nA black squall gathers over the water, and the river begins to wear the colour of old iron.\n\nNo captain with sense sends loaded cargo into such weather. The waves lash the quay, gulls cry like souls denied passage, and even the cursed compass shivers as if it knows that movement at the wrong time is not courage, but waste.\n\nWhen goods cannot yet move onward, they must wait somewhere secure. Not in the market, where buyers may confuse storage with sale. Not loose upon the dock, where rain, theft and chaos rule. They must be placed under a roof, recorded, protected and held until the next stage of the route can begin.\n\nTASK FOR THE CREW:\nWhat one-word term means a building where goods are stored before they are sold, shipped or distributed?",
       "question": "Send your answer as one word.",
       "accepted_answers": [
@@ -428,7 +428,7 @@
       "title": "Stage 8: The Splitting Current",
       "location_name": "Golitsyn Pond, Gorky Park",
       "address": "Golitsyn Pond in Gorky Park",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=Golitsyn%20Pond%20Gorky%20Park%2C%20Moscow",
+      "map_link": "https://yandex.ru/maps/?text=Golitsyn%20Pond%2C%20Gorky%20Park%2C%20Golitsyn%20Pond%20in%20Gorky%20Park%2C%20Stage%208%3A%20The%20Splitting%20Current",
       "message": "Ship’s Log, April 3rd, Year of Our Lord 1724\nLatitude: 55°43'N | Longitude: 37°36'E\nEntry VIII: The Splitting Current\n\nThe water here does not command like the river; it circles, reflects and divides, as though the map has been folded into a quiet pond and left for the crew to interpret.\n\nA chest of goods has no true value if it remains in one place forever. Rum locked in the captain’s cabin does not warm a tavern. Silk sealed in a hold does not clothe a merchant’s daughter. Medicine kept in a warehouse does not save the sick.\n\nTrade becomes trade only when goods move outward through channels, routes and decisions until they reach customers, retailers or final destinations. The Splitting Current will drag the cargo apart unless ye name the process that gives movement its purpose.\n\nTASK FOR THE CREW:\nWhat one-word term means the process of moving goods to customers, retailers or final destinations?",
       "question": "Send your answer as one word.",
       "accepted_answers": [
@@ -452,7 +452,7 @@
       "title": "Stage 9: The Flying Dutchman’s Chart",
       "location_name": "Krymskaya Embankment / Muzeon Waterfront",
       "address": "Krymskaya Embankment and Muzeon waterfront area",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=Muzeon%20Park%20Krymskaya%20Embankment%2C%20Moscow",
+      "map_link": "https://yandex.ru/maps/?text=Krymskaya%20Embankment%20/%20Muzeon%20Waterfront%2C%20Krymskaya%20Embankment%20and%20Muzeon%20waterfront%20area%2C%20Stage%209%3A%20The%20Flying%20Dutchman%E2%80%99s%20Chart",
       "message": "Ship’s Log, April 3rd, Year of Our Lord 1724\nLatitude: 55°44'N | Longitude: 37°36'E\nEntry IX: The Flying Dutchman’s Chart\n\nA map unfurls along the waterfront, though no mortal hand holds it, and its edges curl like sails scorched by ghostly fire.\n\nIt belongs to the Flying Dutchman, cursed to wander every route and yet arrive nowhere. Upon the chart are marked missed deliveries, broken storage points, wasted voyages, wrong turns, overloaded paths, lost crates, idle crews and customers waiting at harbours where no ship appears.\n\nThis is the great trial of the voyage, for no single word already restored is enough. Not inventory alone. Not freight alone. Not procurement, supplier, warehouse, bottleneck or distribution alone.\n\nThe crew must name the larger art that plans and manages how goods, storage, transport and information move together through the entire supply chain.\n\nTASK FOR THE CREW:\nWhat one-word term names the planning and management of the movement of goods, storage, transport and information through a supply chain?",
       "question": "Send your answer as one word.",
       "accepted_answers": [
@@ -476,7 +476,7 @@
       "title": "Stage 10: The Admiral’s Toll",
       "location_name": "Monument to Peter I",
       "address": "Monument to Peter I, Moscow River / Krymskaya Embankment area",
-      "map_link": "https://www.google.com/maps/search/?api=1&query=Monument%20to%20Peter%20I%2C%20Moscow",
+      "map_link": "https://yandex.ru/maps/?text=Monument%20to%20Peter%20I%2C%20Monument%20to%20Peter%20I%2C%20Moscow%20River%20/%20Krymskaya%20Embankment%20area%2C%20Stage%2010%3A%20The%20Admiral%E2%80%99s%20Toll",
       "message": "Ship’s Log, April 3rd, Year of Our Lord 1724\nLatitude: 55°44'N | Longitude: 37°36'E\nEntry X: The Admiral’s Toll\n\nAt last, crew, the river has delivered us to the stone ship, where mast, sail and command rise above the water as if some admiral from a forgotten age had chosen Moscow itself for his final harbour.\n\nThis is no common quay, no tavern corner and no merchant’s stall where a careless captain might bargain his way past trouble with a wink and a pouch of doubloons. Here the route ends before a monument of power, navigation and empire, and the Logbook warns that no cargo may pass its final judgement without answering for the price of crossing borders.\n\nFrom the mist below the hull, the Customs Dead begin to climb. Their coats are stiff with river salt, their ledgers are chained to their wrists, and their ink, though drowned for centuries, still knows how to write a debt.\n\nCaptain Mordecai Flint cheated merchants, governors, admirals and kings, yet even he feared the toll gate, because a false name on a cargo can turn a costly passage into a profitable lie.\n\nTASK FOR THE CREW:\nWhat one-word term means taxes or duties placed on imported or exported goods?",
       "question": "Send your answer as one word.",
       "accepted_answers": [
