@@ -261,6 +261,15 @@ def format_location_task(location: Dict[str, Any]) -> str:
     return "\n\n".join(parts)
 
 
+
+def retry_code_keyboard() -> ReplyKeyboardMarkup:
+    return ReplyKeyboardMarkup(
+        [["/code", "/reset"]],
+        resize_keyboard=True,
+        one_time_keyboard=False,
+    )
+
+
 async def ask_for_code(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     set_waiting_for_code(context.chat_data)
     await update.effective_message.reply_text(CATALOG["welcome_message"], reply_markup=code_keyboard())
@@ -271,20 +280,30 @@ async def unlock_quest_by_code(update: Update, context: ContextTypes.DEFAULT_TYP
     code = catalog_code_lookup(raw_code)
 
     if not code:
-        await message.reply_text(CATALOG.get("invalid_code_message", "Unknown quest code. Try again."))
+        set_waiting_for_code(context.chat_data)
+        await message.reply_text(
+            CATALOG.get("invalid_code_message", "Unknown quest code. Try again."),
+            reply_markup=retry_code_keyboard(),
+        )
         return False
 
     entry = CATALOG["quests"][code]
     if not entry.get("active", False):
-        await message.reply_text(CATALOG.get("inactive_code_message", "This quest is not active right now."))
+        set_waiting_for_code(context.chat_data)
+        await message.reply_text(
+            CATALOG.get("inactive_code_message", "This quest is not active right now."),
+            reply_markup=retry_code_keyboard(),
+        )
         return False
 
     try:
         quest = load_quest_for_code(code)
     except FileNotFoundError:
+        set_waiting_for_code(context.chat_data)
         await message.reply_text(
             "This quest code exists, but its JSON file was not found.\n\n"
-            "Ask the teacher to check quest_catalog.json."
+            "Ask the teacher to check quest_catalog.json.",
+            reply_markup=retry_code_keyboard(),
         )
         return False
     except json.JSONDecodeError as exc:
