@@ -1,4 +1,4 @@
-﻿{
+{
     "bot_title":  "FA Quest Lab",
     "welcome_message":  "Welcome to FA Quest Lab.\n\nThis bot can run different walking quests.\nEnter the quest code from your teacher to begin.",
     "invalid_code_message":  "I canвЂ™t find this quest code.\n\nCheck the code from your teacher and try again.",
