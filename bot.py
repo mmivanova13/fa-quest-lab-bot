@@ -602,8 +602,7 @@ async def handle_correct_answer(update: Update, context: ContextTypes.DEFAULT_TY
     progress["hints_used"] = 0
 
     if progress["location_index"] >= len(locations):
-        progress["phase"] = FINISHED
-        await update.effective_message.reply_text(quest["finish_message"], reply_markup=ReplyKeyboardRemove())
+        await send_finish(update, context)
         return
 
     await send_destination(update, context)
