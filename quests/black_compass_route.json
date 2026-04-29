@@ -283,21 +283,22 @@
       "location_name": "Upper Cable Car Station / Viewpoint Area",
       "address": "Viewpoint area near the Moscow cable car, Vorobyovy Gory side",
       "map_link": "https://yandex.ru/maps/?text=Upper%20Cable%20Car%20Station%20/%20Viewpoint%20Area%2C%20Viewpoint%20area%20near%20the%20Moscow%20cable%20car%2C%20Vorobyovy%20Gory%20side%2C%20Stage%202%3A%20The%20Hourglass%20Curse",
-      "message": "Ship’s Log, April 3rd, Year of Our Lord 1724\nLatitude: 55°42'N | Longitude: 37°33'E\nEntry II: The Hourglass in the Sky\n\nAbove the river, the cables stretch like rigging from an invisible ship, and every carriage that crosses the air seems to mock the crew with the same cruel lesson: movement is never instant, and every promise of arrival must pass through time.\n\nA cursed hourglass swings somewhere beyond sight, and with each grain that falls the voyage grows heavier. Orders are placed, but goods do not arrive. Merchants swear the cargo is coming, customers grow restless, and the captain learns that delay can sink trust as surely as a cannonball sinks wood.\n\nCaptain Flint once wrote that distance did not ruin merchants half so often as waiting did, for a cargo delayed too long may arrive technically correct and commercially useless.\n\nTASK FOR THE CREW:\nWhat supply-chain term means the time between placing an order and receiving it?\n\nSend it as one word: LEADTIME.",
+      "message": "Ship?s Log, April 3rd, Year of Our Lord 1724\nLatitude: 55?42'N | Longitude: 37?33'E\nEntry II: The Hourglass in the Sky\n\nAbove the river, the cables stretch like rigging from an invisible ship, and every carriage that crosses the air seems to mock the crew with the same cruel lesson: movement is never instant, and every promise of arrival must pass through time.\n\nA cursed hourglass swings somewhere beyond sight, and with each grain that falls the voyage grows heavier. Orders are placed, but goods do not arrive. Merchants swear the cargo is coming, customers grow restless, and the captain learns that time, when mismanaged, can become as dangerous as a storm.\n\nCaptain Flint once wrote that distance did not ruin merchants half so often as waiting did, for a cargo that arrives too late may be technically correct and commercially useless.\n\nTASK FOR THE CREW:\n\nWhat one-word term means a situation in which goods, orders or deliveries arrive later than expected?",
       "question": "Send your answer as one word.",
       "accepted_answers": [
-        "leadtime",
-        "lead time",
-        "lead-time"
+        "delay",
+        "delays",
+        "waiting",
+        "wait"
       ],
       "hints": [
-        "It measures waiting, not distance.",
-        "It begins when the order is placed and ends when the goods arrive."
+        "It means being late or not arriving on time.",
+        "A supply chain tries to reduce this because customers hate waiting."
       ],
-      "wrong_reply": "The cursed hourglass turns again, and more sand falls into the sea. Ye have measured movement, perhaps, but not the full waiting time between order and arrival.",
-      "success_reply": "The cursed hourglass cracks, and its sand spills upward into the wind as if time itself has remembered how to sail.\n\nRecovered word: LEADTIME.\n\nThe delay is named, and therefore it can be managed. Make for the riverbank now, for ghost barges have been sighted in the mist, and their holds ride low with commercial cargo.",
+      "wrong_reply": "The Logbook rejects the answer.\n\nYe have named time perhaps, but not the word for what happens when goods arrive later than promised.",
+      "success_reply": "The cursed hourglass cracks, and its sand spills upward into the wind as if time itself has remembered how to sail.\n\nRecovered word:\nDELAY.\n\nThe lateness is named, and therefore it can be fought. Make for the riverbank now, for ghost barges have been sighted in the mist, and their holds ride low with commercial cargo.",
       "next_directions": "Go down toward Andreevskaya Embankment and find the river path.",
-      "fragment": "LEADTIME",
+      "fragment": "DELAY",
       "skip_code": "SKIP02",
       "speaking_task": ""
     },
