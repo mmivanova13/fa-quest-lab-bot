@@ -264,6 +264,15 @@ def format_location_task(location: Dict[str, Any]) -> str:
 
 
 
+
+def finished_keyboard() -> ReplyKeyboardMarkup:
+    return ReplyKeyboardMarkup(
+        [["CHANGE QUEST", "RESET"]],
+        resize_keyboard=True,
+        one_time_keyboard=False,
+    )
+
+
 def final_profile_keyboard() -> ReplyKeyboardMarkup:
     return ReplyKeyboardMarkup(
         [["SHARE", "SELL"], ["DESTROY", "HIDE"]],
@@ -453,7 +462,7 @@ async def send_finish(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
     progress["phase"] = FINISHED
     await update.effective_message.reply_text(
         quest.get("finish_message", "The quest is complete."),
-        reply_markup=ReplyKeyboardRemove(),
+        reply_markup=finished_keyboard(),
     )
 
 
@@ -648,6 +657,12 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
         await reset_command(update, context)
         return
 
+    if normalized in {"change quest", "changequest"}:
+        await ask_for_code(update, context)
+        return
+
+
+
 
 
     if phase == SAFETY:
@@ -674,7 +689,7 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
             progress["phase"] = FINISHED
             await message.reply_text(
                 final_profiles[choice],
-                reply_markup=ReplyKeyboardRemove(),
+                reply_markup=finished_keyboard(),
             )
         else:
             await message.reply_text(
