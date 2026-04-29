@@ -1,40 +1,48 @@
-{
-  "bot_title": "FA Quest Lab",
-  "welcome_message": "Welcome to FA Quest Lab.\n\nThis bot can run different walking quests.\nEnter the quest code from your teacher to begin.",
-  "invalid_code_message": "I can’t find this quest code.\n\nCheck the code from your teacher and try again.",
-  "inactive_code_message": "This quest code exists, but it is not active right now.\n\nAsk your teacher whether the quest has already started.",
-  "quests": {
-    "MISSING2026": {
-      "title": "The Missing Reel",
-      "file": "quests/missing_reel.json",
-      "active": true,
-      "description": "Digital world vs real city walking quest.",
-      "cover_image": "assets/missing_reel_cover.png",
-      "cover_caption": "Quest unlocked: The Missing Reel\n\nThe city kept the backup.\nNow find it."
-    },
-    "MR2026FA": {
-      "title": "The Missing Reel",
-      "file": "quests/missing_reel.json",
-      "active": true,
-      "description": "Alias code for Financial University groups.",
-      "cover_image": "assets/missing_reel_cover.png",
-      "cover_caption": "Quest unlocked: The Missing Reel\n\nThe city kept the backup.\nNow find it."
-    },
-    "COORDINATE2026": {
-      "title": "The Lost Coordinate",
-      "file": "quests/lost_coordinate.json",
-      "active": true,
-      "description": "The past is fading. The city still knows the way.",
-      "cover_image": "assets/lost_coordinate_cover.png",
-      "cover_caption": "Quest unlocked: The Lost Coordinate\n\nThe past is fading.\nThe city still knows the way.\n\nA time-travel mystery through old Moscow."
-    },
-    "BALANCE2026": {
-      "title": "Crisis Protocol: Balance",
-      "file": "quests/crisis_protocol_balance.json",
-      "active": true,
-      "description": "The crash will not look like an attack.",
-      "cover_image": "assets/crisis_protocol_balance_cover.png",
-      "cover_caption": "CRISIS PROTOCOL: BALANCE\n\nThe crash will not look like an attack.\n\nEcho-Zero detected. Human analysts required."
-    }
-  }
+﻿{
+    "bot_title":  "FA Quest Lab",
+    "welcome_message":  "Welcome to FA Quest Lab.\n\nThis bot can run different walking quests.\nEnter the quest code from your teacher to begin.",
+    "invalid_code_message":  "I canвЂ™t find this quest code.\n\nCheck the code from your teacher and try again.",
+    "inactive_code_message":  "This quest code exists, but it is not active right now.\n\nAsk your teacher whether the quest has already started.",
+    "quests":  {
+                   "MISSING2026":  {
+                                       "title":  "The Missing Reel",
+                                       "file":  "quests/missing_reel.json",
+                                       "active":  true,
+                                       "description":  "Digital world vs real city walking quest.",
+                                       "cover_image":  "assets/missing_reel_cover.png",
+                                       "cover_caption":  "Quest unlocked: The Missing Reel\n\nThe city kept the backup.\nNow find it."
+                                   },
+                   "MR2026FA":  {
+                                    "title":  "The Missing Reel",
+                                    "file":  "quests/missing_reel.json",
+                                    "active":  true,
+                                    "description":  "Alias code for Financial University groups.",
+                                    "cover_image":  "assets/missing_reel_cover.png",
+                                    "cover_caption":  "Quest unlocked: The Missing Reel\n\nThe city kept the backup.\nNow find it."
+                                },
+                   "COORDINATE2026":  {
+                                          "title":  "The Lost Coordinate",
+                                          "file":  "quests/lost_coordinate.json",
+                                          "active":  true,
+                                          "description":  "The past is fading. The city still knows the way.",
+                                          "cover_image":  "assets/lost_coordinate_cover.png",
+                                          "cover_caption":  "Quest unlocked: The Lost Coordinate\n\nThe past is fading.\nThe city still knows the way.\n\nA time-travel mystery through old Moscow."
+                                      },
+                   "BALANCE2026":  {
+                                       "title":  "Crisis Protocol: Balance",
+                                       "file":  "quests/crisis_protocol_balance.json",
+                                       "active":  true,
+                                       "description":  "The crash will not look like an attack.",
+                                       "cover_image":  "assets/crisis_protocol_balance_cover.png",
+                                       "cover_caption":  "CRISIS PROTOCOL: BALANCE\n\nThe crash will not look like an attack.\n\nEcho-Zero detected. Human analysts required."
+                                   }
+               },
+    "COMPASS2026":  {
+                        "title":  "The Black Compass Route",
+                        "file":  "quests/black_compass_route.json",
+                        "active":  true,
+                        "description":  "Trace the cargo before the river swallows the route.",
+                        "cover_image":  "assets/black_compass_route_cover.png",
+                        "cover_caption":  "THE BLACK COMPASS ROUTE\n\nTrace the cargo before the river swallows the route.\n\nA pirate adventure in supply chains and trade"
+                    }
 }
