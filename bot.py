@@ -44,6 +44,7 @@ SAFETY = "safety"
 ANSWERING = "answering"
 BETWEEN = "between"
 FINISHED = "finished"
+FINAL_CHOICE = "final_choice"
 
 _QUEST_CACHE: Dict[str, Dict[str, Any]] = {}
 
@@ -262,6 +263,15 @@ def format_location_task(location: Dict[str, Any]) -> str:
 
 
 
+
+def final_profile_keyboard() -> ReplyKeyboardMarkup:
+    return ReplyKeyboardMarkup(
+        [["SHARE", "SELL"], ["DESTROY", "HIDE"]],
+        resize_keyboard=True,
+        one_time_keyboard=False,
+    )
+
+
 def retry_code_keyboard() -> ReplyKeyboardMarkup:
     return ReplyKeyboardMarkup(
         [["RESET"]],
@@ -421,6 +431,32 @@ async def progress_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -
     )
 
 
+
+async def send_finish(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    progress = get_progress(context.chat_data)
+    quest = get_current_quest(context.chat_data)
+
+    if not quest:
+        await ask_for_code(update, context)
+        return
+
+    final_profiles = quest.get("final_profiles", {})
+
+    if final_profiles:
+        progress["phase"] = FINAL_CHOICE
+        await update.effective_message.reply_text(
+            quest.get("final_choice_message", "Choose your final profile."),
+            reply_markup=final_profile_keyboard(),
+        )
+        return
+
+    progress["phase"] = FINISHED
+    await update.effective_message.reply_text(
+        quest.get("finish_message", "The quest is complete."),
+        reply_markup=ReplyKeyboardRemove(),
+    )
+
+
 async def send_destination(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     progress = get_progress(context.chat_data)
     locations = get_locations(context.chat_data)
@@ -433,11 +469,7 @@ async def send_destination(update: Update, context: ContextTypes.DEFAULT_TYPE) -
     index = progress["location_index"]
 
     if index >= len(locations):
-        progress["phase"] = FINISHED
-        await update.effective_message.reply_text(
-            quest["finish_message"],
-            reply_markup=ReplyKeyboardRemove(),
-        )
+        await send_finish(update, context)
         return
 
     location = locations[index]
@@ -463,11 +495,7 @@ async def send_location_task(update: Update, context: ContextTypes.DEFAULT_TYPE)
     index = progress["location_index"]
 
     if index >= len(locations):
-        progress["phase"] = FINISHED
-        await update.effective_message.reply_text(
-            quest["finish_message"],
-            reply_markup=ReplyKeyboardRemove(),
-        )
+        await send_finish(update, context)
         return
 
     location = locations[index]
@@ -634,6 +662,25 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
             await send_location_task(update, context)
         else:
             await message.reply_text("Type ARRIVED when your team is at the next location.", reply_markup=between_keyboard())
+        return
+
+
+    if phase == FINAL_CHOICE:
+        quest = get_current_quest(context.chat_data)
+        final_profiles = quest.get("final_profiles", {}) if quest else {}
+        choice = normalized.upper()
+
+        if choice in final_profiles:
+            progress["phase"] = FINISHED
+            await message.reply_text(
+                final_profiles[choice],
+                reply_markup=ReplyKeyboardRemove(),
+            )
+        else:
+            await message.reply_text(
+                "Choose one of the final options: SHARE, SELL, DESTROY or HIDE.",
+                reply_markup=final_profile_keyboard(),
+            )
         return
 
     if phase == FINISHED:
