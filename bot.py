@@ -264,7 +264,7 @@ def format_location_task(location: Dict[str, Any]) -> str:
 
 def retry_code_keyboard() -> ReplyKeyboardMarkup:
     return ReplyKeyboardMarkup(
-        [["/code", "/reset"]],
+        [["CODE", "RESET"]],
         resize_keyboard=True,
         one_time_keyboard=False,
     )
@@ -579,10 +579,10 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
     progress = get_progress(context.chat_data)
     phase = progress.get("phase", WAITING_CODE)
 
-    if normalized in {"reset", "/reset"}:
+    if normalized in {"reset", "RESET"}:
         await reset(update, context)
         return
-    if normalized in {"change quest", "new quest", "code", "quest code", "/code"}:
+    if normalized in {"change quest", "new quest", "code", "quest code", "CODE"}:
         await ask_for_code(update, context)
         return
     if normalized in {"hint", "/hint"}:
@@ -611,6 +611,16 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
         else:
             await message.reply_text("Type START when your team is ready.", reply_markup=intro_keyboard())
         return
+
+    if normalized in {"code", "change quest", "change quest code"}:
+        await ask_for_code(update, context)
+        return
+
+    if normalized == "reset":
+        await reset_command(update, context)
+        return
+
+
 
     if phase == SAFETY:
         if normalized in {"i agree", "agree", "yes", "ok"}:
