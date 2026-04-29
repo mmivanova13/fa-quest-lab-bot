@@ -217,13 +217,13 @@ def format_destination_intro(location: Dict[str, Any]) -> str:
         parts.append(title)
 
     if location_name:
-        parts.append("Location: " + location_name)
+        parts.append("?? Location: " + location_name)
 
     if address:
-        parts.append("Address / point: " + address)
+        parts.append("?? Address / point: " + address)
 
     if map_link:
-        parts.append("Yandex Maps:")
+        parts.append("??? Yandex Maps:")
         parts.append(map_link)
 
     if next_directions:
@@ -253,7 +253,7 @@ def format_location_task(location: Dict[str, Any]) -> str:
         parts.append(message)
 
     if question:
-        parts.append("? Question")
+        parts.append("?")
         parts.append(question)
 
     parts.append("Type your answer, or type HINT if you need help.")
@@ -486,9 +486,9 @@ async def whereami(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     location = locations[index]
     await update.effective_message.reply_text(
         f"Current frame: {location['id']} — {location['title']}\n"
-        f"Location: {location['location_name']}\n"
-        f"Address / point: {location['address']}\n"
-        f"Map: {location['map_link']}\n"
+        f"?? Location: {location['location_name']}\n"
+        f"?? Address / point: {location['address']}\n"
+        f"??? Map: {location['map_link']}\n"
         f"Phase: {phase}\n\n"
         f"Unlocked fragments: {' '.join(progress.get('fragments', [])) or 'none yet'}",
         disable_web_page_preview=True,
