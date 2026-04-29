@@ -19,6 +19,14 @@
       "description": "Alias code for Financial University groups.",
       "cover_image": "assets/missing_reel_cover.png",
       "cover_caption": "Quest unlocked: The Missing Reel\n\nThe city kept the backup.\nNow find it."
+    },
+    "COORDINATE2026": {
+      "title": "The Lost Coordinate",
+      "file": "quests/lost_coordinate.json",
+      "active": true,
+      "description": "The past is fading. The city still knows the way.",
+      "cover_image": "assets/lost_coordinate_cover.png",
+      "cover_caption": "Quest unlocked: The Lost Coordinate\n\nThe past is fading.\nThe city still knows the way.\n\nA time-travel mystery through old Moscow."
     }
   }
 }
