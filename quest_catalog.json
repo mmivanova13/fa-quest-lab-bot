@@ -27,6 +27,14 @@
       "description": "The past is fading. The city still knows the way.",
       "cover_image": "assets/lost_coordinate_cover.png",
       "cover_caption": "Quest unlocked: The Lost Coordinate\n\nThe past is fading.\nThe city still knows the way.\n\nA time-travel mystery through old Moscow."
+    },
+    "BALANCE2026": {
+      "title": "Crisis Protocol: Balance",
+      "file": "quests/crisis_protocol_balance.json",
+      "active": true,
+      "description": "The crash will not look like an attack.",
+      "cover_image": "assets/crisis_protocol_balance_cover.png",
+      "cover_caption": "CRISIS PROTOCOL: BALANCE\n\nThe crash will not look like an attack.\n\nEcho-Zero detected. Human analysts required."
     }
   }
 }
