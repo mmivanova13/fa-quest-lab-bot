@@ -264,7 +264,7 @@ def format_location_task(location: Dict[str, Any]) -> str:
 
 def retry_code_keyboard() -> ReplyKeyboardMarkup:
     return ReplyKeyboardMarkup(
-        [["CODE", "RESET"]],
+        [["RESET"]],
         resize_keyboard=True,
         one_time_keyboard=False,
     )
