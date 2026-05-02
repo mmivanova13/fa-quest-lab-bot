@@ -39,8 +39,8 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%90%D0%BB%D0%BB%D0%B5%D1%8F%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%BE%D0%B2%20%D0%B1%D1%8E%D1%81%D1%82%20%D0%A2%D0%B5%D1%80%D0%B5%D1%88%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "skip_code": "SKIP-PREREQUISITE",
       "hints": [
-        "Hint 1: DELTA is looking for a required condition that must exist before the mission can begin.",
-        "Hint 2: The word starts with PRE- and means “something needed before something else can happen”."
+        "DELTA is looking for a required condition that must exist before the mission can begin.",
+        "The word starts with PRE- and means “something needed before something else can happen”."
       ],
       "map_emoji": "🗺️",
       "map_label": "Yandex Maps"
@@ -69,8 +69,8 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%D0%9F%D0%BE%D0%BA%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC%20%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B0%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "skip_code": "SKIP-CHAIKA",
       "hints": [
-        "Hint 1: Look for Valentina Tereshkova. The answer is not the spacecraft name, but her call sign.",
-        "Hint 2: It is the Russian word for “seagull”, written in English letters."
+        "Look for Valentina Tereshkova. The answer is not the spacecraft name, but her call sign.",
+        "It is the Russian word for “seagull”, written in English letters."
       ],
       "map_emoji": "🗺️",
       "map_label": "Yandex Maps"
@@ -99,8 +99,8 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9%20%D0%B2%D1%85%D0%BE%D0%B4%20%D0%92%D0%94%D0%9D%D0%A5%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "skip_code": "SKIP-TRAJECTORY",
       "hints": [
-        "Hint 1: DELTA is not asking for a destination. It is asking for the path an object follows through space.",
-        "Hint 2: The word starts with T and is often used for rockets, projectiles and future movement models."
+        "DELTA is not asking for a destination. It is asking for the path an object follows through space.",
+        "The word starts with T and is often used for rockets, projectiles and future movement models."
       ],
       "map_emoji": "🗺️",
       "map_label": "Yandex Maps"
@@ -128,8 +128,8 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD%20%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B%20%D0%92%D0%94%D0%9D%D0%A5%20%D0%A1%D0%B8%D1%80%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F%20%D0%B0%D0%BB%D0%BB%D0%B5%D1%8F",
       "skip_code": "SKIP-EXPOSURE",
       "hints": [
-        "Hint 1: The answer means being open or vulnerable to a risk, force or unknown factor.",
-        "Hint 2: In finance, people say “risk exposure”. Here, the ship is exposed to the Third Body."
+        "The answer means being open or vulnerable to a risk, force or unknown factor.",
+        "In finance, people say “risk exposure”. Here, the ship is exposed to the Third Body."
       ],
       "map_emoji": "🗺️",
       "map_label": "Yandex Maps"
@@ -156,8 +156,8 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%20%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%86%D0%B2%D0%B5%D1%82%D0%BE%D0%BA%20%D0%92%D0%94%D0%9D%D0%A5",
       "skip_code": "SKIP-LIQUIDITY",
       "hints": [
-        "Hint 1: DELTA is not asking whether resources exist. It is asking whether they can be accessed quickly.",
-        "Hint 2: In finance, this word describes how easily assets can be converted into cash."
+        "DELTA is not asking whether resources exist. It is asking whether they can be accessed quickly.",
+        "In finance, this word describes how easily assets can be converted into cash."
       ],
       "map_emoji": "🗺️",
       "map_label": "Yandex Maps"
@@ -184,8 +184,8 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD%20%D0%90%D1%82%D0%BE%D0%BC%20%D0%92%D0%94%D0%9D%D0%A5",
       "skip_code": "SKIP-VOLATILITY",
       "hints": [
-        "Hint 1: Think of readings that change rapidly and unpredictably: oxygen, fuel, signal, pulse.",
-        "Hint 2: In finance, this word often describes unstable markets. It starts with V."
+        "Think of readings that change rapidly and unpredictably: oxygen, fuel, signal, pulse.",
+        "In finance, this word often describes unstable markets. It starts with V."
       ],
       "map_emoji": "🗺️",
       "map_label": "Yandex Maps"
@@ -214,8 +214,8 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81%20%D0%92%D0%94%D0%9D%D0%A5%2034",
       "skip_code": "SKIP-THRESHOLD",
       "hints": [
-        "Hint 1: The answer means a critical line or limit after which the system begins to change.",
-        "Hint 2: It starts with TH. You cross it when one state becomes another."
+        "The answer means a critical line or limit after which the system begins to change.",
+        "It starts with TH. You cross it when one state becomes another."
       ],
       "map_emoji": "🗺️",
       "map_label": "Yandex Maps"
@@ -243,8 +243,8 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%20%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F%20%D0%91%D1%83%D1%80%D0%B0%D0%BD%20%D0%92%D0%94%D0%9D%D0%A5",
       "skip_code": "SKIP-EQUILIBRIUM",
       "hints": [
-        "Hint 1: DELTA is describing opposing forces that hold each other in balance.",
-        "Hint 2: In physics and economics, this E-word means a state of balance."
+        "DELTA is describing opposing forces that hold each other in balance.",
+        "In physics and economics, this E-word means a state of balance."
       ],
       "map_emoji": "🗺️",
       "map_label": "Yandex Maps"
@@ -273,8 +273,8 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%20%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B%20%D0%92%D0%BE%D1%81%D1%82%D0%BE%D0%BA%20%D0%92%D0%94%D0%9D%D0%A5",
       "skip_code": "SKIP-ANOMALY",
       "hints": [
-        "Hint 1: The camera file shows something that does not fit the model.",
-        "Hint 2: Scientists use this A-word for an unusual result, deviation or outlier."
+        "The camera file shows something that does not fit the model.",
+        "Scientists use this A-word for an unusual result, deviation or outlier."
       ],
       "map_emoji": "🗺️",
       "map_label": "Yandex Maps"
@@ -301,8 +301,8 @@
       "memory_bar": "[■■■■■■■■■■]",
       "skip_code": "SKIP-CONTAINMENT",
       "hints": [
-        "Hint 1: The answer means keeping a dangerous thing under control so it cannot spread.",
-        "Hint 2: It starts with C. Think of a sealed zone, quarantine boundary or controlled threat."
+        "The answer means keeping a dangerous thing under control so it cannot spread.",
+        "It starts with C. Think of a sealed zone, quarantine boundary or controlled threat."
       ],
       "map_emoji": "🗺️",
       "map_label": "Yandex Maps"
