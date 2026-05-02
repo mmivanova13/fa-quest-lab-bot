@@ -273,9 +273,23 @@ def finished_keyboard() -> ReplyKeyboardMarkup:
     )
 
 
-def final_profile_keyboard() -> ReplyKeyboardMarkup:
+def final_profile_keyboard(quest: Optional[Dict[str, Any]] = None) -> ReplyKeyboardMarkup:
+    default_buttons = ["SHARE", "SELL", "DESTROY", "HIDE"]
+    buttons = default_buttons
+
+    if quest:
+        final_buttons = quest.get("final_buttons")
+        final_profiles = quest.get("final_profiles", {})
+
+        if isinstance(final_buttons, list) and final_buttons:
+            buttons = [str(button).upper() for button in final_buttons]
+        elif isinstance(final_profiles, dict) and final_profiles:
+            buttons = [str(button).upper() for button in final_profiles.keys()]
+
+    rows = [buttons[i:i + 2] for i in range(0, len(buttons), 2)]
+
     return ReplyKeyboardMarkup(
-        [["SHARE", "SELL"], ["DESTROY", "HIDE"]],
+        rows,
         resize_keyboard=True,
         one_time_keyboard=False,
     )
@@ -455,7 +469,7 @@ async def send_finish(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
         progress["phase"] = FINAL_CHOICE
         await update.effective_message.reply_text(
             quest.get("final_choice_message", "Choose your final profile."),
-            reply_markup=final_profile_keyboard(),
+            reply_markup=final_profile_keyboard(quest),
         )
         return
 
@@ -683,17 +697,30 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
         quest = get_current_quest(context.chat_data)
         final_profiles = quest.get("final_profiles", {}) if quest else {}
         choice = normalized.upper()
+        profile_key = None
 
-        if choice in final_profiles:
+        if isinstance(final_profiles, dict):
+            for key in final_profiles.keys():
+                key_text = str(key)
+                if normalize(key_text) == normalized or key_text.upper() == choice:
+                    profile_key = key
+                    break
+
+        if profile_key is not None:
             progress["phase"] = FINISHED
             await message.reply_text(
-                final_profiles[choice],
+                final_profiles[profile_key],
                 reply_markup=finished_keyboard(),
             )
         else:
+            if isinstance(final_profiles, dict) and final_profiles:
+                options_text = ", ".join(str(key).upper() for key in final_profiles.keys())
+            else:
+                options_text = "SHARE, SELL, DESTROY or HIDE"
+
             await message.reply_text(
-                "Choose one of the final options: SHARE, SELL, DESTROY or HIDE.",
-                reply_markup=final_profile_keyboard(),
+                f"Choose one of the final options: {options_text}.",
+                reply_markup=final_profile_keyboard(quest),
             )
         return
 
