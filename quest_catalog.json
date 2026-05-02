@@ -49,7 +49,11 @@
       "subtitle": "Three bodies entered the system. Only one answered.",
       "description": "A sci-fi quest about EQUINOX-13, a missing ship, silent gravity, and the final decision about what comes home.",
       "file": "quests/silent_gravity.json",
-      "cover_image": "covers/silent_gravity_cover.png"
+      "cover_image": "covers/silent_gravity_cover.png",
+      "active": true,
+      "is_active": true,
+      "enabled": true,
+      "status": "active"
     }
   }
 }
