@@ -499,11 +499,48 @@ async def send_destination(update: Update, context: ContextTypes.DEFAULT_TYPE) -
     progress["phase"] = BETWEEN
     progress["hints_used"] = 0
 
+    destination_text = location.get("destination_message")
+
+    if not destination_text:
+        location_name = (
+            location.get("name")
+            or location.get("location_name")
+            or location.get("title")
+            or location.get("id")
+            or "Next location"
+        )
+        map_url = location.get("yandex_maps_url") or location.get("map_url")
+
+        parts = [
+            "NEXT DESTINATION",
+            "",
+            f"📍 Location: {location_name}",
+        ]
+
+        if map_url:
+            parts.extend([
+                "",
+                "🗺️ Yandex Maps:",
+                "",
+                map_url,
+            ])
+
+        parts.extend([
+            "",
+            "Route note:",
+            "",
+            "Move to the point shown on the map. When your team arrives, press ARRIVED.",
+        ])
+
+        destination_text = "
+".join(parts)
+
     await update.effective_message.reply_text(
-        format_destination_intro(location),
+        destination_text,
         reply_markup=between_keyboard(),
         disable_web_page_preview=True,
     )
+
 
 
 async def send_location_task(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
