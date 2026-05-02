@@ -514,13 +514,13 @@ async def send_destination(update: Update, context: ContextTypes.DEFAULT_TYPE) -
         parts = [
             "NEXT DESTINATION",
             "",
-            f"📍 Location: {location_name}",
+            f"?? Location: {location_name}",
         ]
 
         if map_url:
             parts.extend([
                 "",
-                "🗺️ Yandex Maps:",
+                "??? Yandex Maps:",
                 "",
                 map_url,
             ])
@@ -532,16 +532,13 @@ async def send_destination(update: Update, context: ContextTypes.DEFAULT_TYPE) -
             "Move to the point shown on the map. When your team arrives, press ARRIVED.",
         ])
 
-        destination_text = "
-".join(parts)
+        destination_text = "\\n".join(parts)
 
     await update.effective_message.reply_text(
         destination_text,
         reply_markup=between_keyboard(),
         disable_web_page_preview=True,
     )
-
-
 
 async def send_location_task(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     progress = get_progress(context.chat_data)
