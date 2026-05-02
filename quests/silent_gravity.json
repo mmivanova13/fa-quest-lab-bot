@@ -43,7 +43,10 @@
         "The word starts with PRE- and means “something needed before something else can happen”."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps"
+      "map_label": "Yandex Maps",
+      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nBefore starting a risky project, what prerequisites should a team check? Name at least three conditions that must be in place before launch.",
+      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nBefore starting a risky project, what prerequisites should a team check? Name at least three conditions that must be in place before launch.",
+      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nBefore starting a risky project, what prerequisites should a team check? Name at least three conditions that must be in place before launch."
     },
     {
       "id": "stage_02_chaika",
@@ -73,7 +76,10 @@
         "It is the Russian word for “seagull”, written in English letters."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps"
+      "map_label": "Yandex Maps",
+      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nIn a crisis, why is a clear signal or call sign important? What can happen if a team cannot identify who is speaking or sending information?",
+      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nIn a crisis, why is a clear signal or call sign important? What can happen if a team cannot identify who is speaking or sending information?",
+      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nIn a crisis, why is a clear signal or call sign important? What can happen if a team cannot identify who is speaking or sending information?"
     },
     {
       "id": "stage_03_trajectory",
@@ -103,7 +109,10 @@
         "The word starts with T and is often used for rockets, projectiles and future movement models."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps"
+      "map_label": "Yandex Maps",
+      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nA plan can look correct at the start but fail later. What signs show that a project, company or mission has changed trajectory?",
+      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nA plan can look correct at the start but fail later. What signs show that a project, company or mission has changed trajectory?",
+      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nA plan can look correct at the start but fail later. What signs show that a project, company or mission has changed trajectory?"
     },
     {
       "id": "stage_04_exposure",
@@ -132,7 +141,10 @@
         "In finance, people say “risk exposure”. Here, the ship is exposed to the Third Body."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps"
+      "map_label": "Yandex Maps",
+      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nWhat types of exposure can an organization face? Think about financial, technological, reputational or operational risks.",
+      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nWhat types of exposure can an organization face? Think about financial, technological, reputational or operational risks.",
+      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nWhat types of exposure can an organization face? Think about financial, technological, reputational or operational risks."
     },
     {
       "id": "stage_05_liquidity",
@@ -160,7 +172,10 @@
         "In finance, this word describes how easily assets can be converted into cash."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps"
+      "map_label": "Yandex Maps",
+      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nWhy is it dangerous to have resources that exist but cannot be used quickly? Give examples from business, finance, emergency response or daily life.",
+      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nWhy is it dangerous to have resources that exist but cannot be used quickly? Give examples from business, finance, emergency response or daily life.",
+      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nWhy is it dangerous to have resources that exist but cannot be used quickly? Give examples from business, finance, emergency response or daily life."
     },
     {
       "id": "stage_06_volatility",
@@ -188,7 +203,10 @@
         "In finance, this word often describes unstable markets. It starts with V."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps"
+      "map_label": "Yandex Maps",
+      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nHow should a team behave when the situation becomes volatile? What is better: fast action, waiting for more data, or preparing several options?",
+      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nHow should a team behave when the situation becomes volatile? What is better: fast action, waiting for more data, or preparing several options?",
+      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nHow should a team behave when the situation becomes volatile? What is better: fast action, waiting for more data, or preparing several options?"
     },
     {
       "id": "stage_07_threshold",
@@ -218,7 +236,10 @@
         "It starts with TH. You cross it when one state becomes another."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps"
+      "map_label": "Yandex Maps",
+      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nEvery risk has a point where it becomes unacceptable. How can managers decide where the threshold is? Give one real-world example.",
+      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nEvery risk has a point where it becomes unacceptable. How can managers decide where the threshold is? Give one real-world example.",
+      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nEvery risk has a point where it becomes unacceptable. How can managers decide where the threshold is? Give one real-world example."
     },
     {
       "id": "stage_08_equilibrium",
@@ -247,7 +268,10 @@
         "In physics and economics, this E-word means a state of balance."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps"
+      "map_label": "Yandex Maps",
+      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nWhat does equilibrium mean in a complex system? Can balance be dangerous if everyone assumes the system is stable?",
+      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nWhat does equilibrium mean in a complex system? Can balance be dangerous if everyone assumes the system is stable?",
+      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nWhat does equilibrium mean in a complex system? Can balance be dangerous if everyone assumes the system is stable?"
     },
     {
       "id": "stage_09_anomaly",
@@ -277,7 +301,10 @@
         "Scientists use this A-word for an unusual result, deviation or outlier."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps"
+      "map_label": "Yandex Maps",
+      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nWhen data shows an anomaly, should a team ignore it, investigate it, or stop the whole operation? Explain your decision.",
+      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nWhen data shows an anomaly, should a team ignore it, investigate it, or stop the whole operation? Explain your decision.",
+      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nWhen data shows an anomaly, should a team ignore it, investigate it, or stop the whole operation? Explain your decision."
     },
     {
       "id": "stage_10_containment",
@@ -305,7 +332,10 @@
         "It starts with C. Think of a sealed zone, quarantine boundary or controlled threat."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps"
+      "map_label": "Yandex Maps",
+      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nIn risk management, when is containment better than solving the whole problem immediately? Give an example of a risk that should first be isolated.",
+      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nIn risk management, when is containment better than solving the whole problem immediately? Give an example of a risk that should first be isolated.",
+      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nIn risk management, when is containment better than solving the whole problem immediately? Give an example of a risk that should first be isolated."
     }
   ],
   "finish_message": "[DELTA // MISSION COMPLETE]\n\nMemory reconstruction complete. Final command authority has been transferred to the recovery team.",
