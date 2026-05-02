@@ -43,6 +43,13 @@
       "description": "Trace the cargo before the river swallows the route.",
       "cover_image": "assets/black_compass_route_cover.png",
       "cover_caption": "THE BLACK COMPASS ROUTE\n\nTrace the cargo before the river swallows the route.\n\nA pirate adventure in supply chains and trade"
+    },
+    "GRAVITY2026": {
+      "title": "The Silent Gravity",
+      "subtitle": "Three bodies entered the system. Only one answered.",
+      "description": "A sci-fi quest about EQUINOX-13, a missing ship, silent gravity, and the final decision about what comes home.",
+      "file": "quests/silent_gravity.json",
+      "cover_image": "covers/silent_gravity_cover.png"
     }
   }
 }
