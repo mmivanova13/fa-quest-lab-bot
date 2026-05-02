@@ -31,9 +31,9 @@
       "success_reply": "Correct.\n\nFrame 1 restored: SOURCE.\n\nThe Feed depends on this force, but it wants you to forget the real infrastructure behind the screen.\n\nFragment 1 unlocked:\n\nKEEP",
       "speaking_task": "Discuss in English:\n\nWhat real-world systems does the digital world depend on? Name at least three.",
       "next_directions": "Next frame: stay near GES-2. Move to a point where you can see the roofline and the vertical industrial elements of the building. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=GES-2+House+of+Culture%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=GES-2+House+of+Culture%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nGES-2 House of Culture\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=GES-2+House+of+Culture%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%94%D0%BE%D0%BC+%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B+%D0%93%D0%AD%D0%A1-2+%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%94%D0%BE%D0%BC+%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B+%D0%93%D0%AD%D0%A1-2+%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nFrame 1: The Source\n\n📍 Location: GES-2 House of Culture\n\n📌 Address / point: Дом культуры ГЭС-2\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%94%D0%BE%D0%BC+%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B+%D0%93%D0%AD%D0%A1-2+%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L2",
@@ -67,9 +67,9 @@
       "success_reply": "Correct.\n\nFrame 2 restored: MEMORY.\n\nThe Feed cuts off the top of the picture. You looked up and found what the image usually hides.\n\nFragment 2 unlocked:\n\nTHE",
       "speaking_task": "Describe what people usually miss when they look at buildings only through a phone camera.",
       "next_directions": "Next frame: move to the embankment / waterline near GES-2, where you can see the building and the water. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=GES-2+Roofline+%2F+Industrial+Elements%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=GES-2+Roofline+%2F+Industrial+Elements%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nGES-2 Roofline / Industrial Elements\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=GES-2+Roofline+%2F+Industrial+Elements%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%93%D0%AD%D0%A1-2+%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%93%D0%AD%D0%A1-2+%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nFrame 2: The Vertical Memory\n\n📍 Location: GES-2 Roofline / Industrial Elements\n\n📌 Address / point: ГЭС-2 / индустриальные элементы здания\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%93%D0%AD%D0%A1-2+%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L3",
@@ -98,9 +98,9 @@
       "success_reply": "Correct.\n\nFrame 3 restored: COPY.\n\nThe Feed gives you copies. The real world gives you the source.\n\nFragment 3 unlocked:\n\nCITY",
       "speaking_task": "Discuss:\n\nCan an online image ever show the full reality of a place? Why or why not?",
       "next_directions": "Next frame: go to the Patriarchal Bridge, the pedestrian bridge over the river. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=Embankment+%2F+Waterline+near+GES-2%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Embankment+%2F+Waterline+near+GES-2%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nEmbankment / Waterline near GES-2\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Embankment+%2F+Waterline+near+GES-2%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nFrame 3: The Broken Copy\n\n📍 Location: Embankment / Waterline near GES-2\n\n📌 Address / point: Болотная набережная у ГЭС-2\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L4",
@@ -128,9 +128,9 @@
       "success_reply": "Correct.\n\nFrame 4 restored: CONNECTION.\n\nThe Feed skips distance. You crossed it.\n\nFragment 4 unlocked:\n\nREAL",
       "speaking_task": "Explain the difference between “skipping” and “crossing” using this place as an example.",
       "next_directions": "Next frame: move to a safe viewing point where you can see the large monument rising above the river. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=Patriarchal+Bridge%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Patriarchal+Bridge%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nPatriarchal Bridge\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Patriarchal+Bridge%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%88%D0%B8%D0%B9+%D0%BC%D0%BE%D1%81%D1%82+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%88%D0%B8%D0%B9+%D0%BC%D0%BE%D1%81%D1%82+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nFrame 4: The Crossing\n\n📍 Location: Patriarchal Bridge\n\n📌 Address / point: Патриарший мост\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%88%D0%B8%D0%B9+%D0%BC%D0%BE%D1%81%D1%82+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L5",
@@ -160,9 +160,9 @@
       "success_reply": "Correct.\n\nFrame 5 restored: SCALE.\n\nThe Feed wants instant reaction. You gave careful attention.\n\nFragment 5 unlocked:\n\nBEFORE",
       "speaking_task": "Discuss:\n\nWhy do large public monuments often create arguments? Use the phrase “because they…”",
       "next_directions": "Next frame: continue toward Krymskaya Embankment until you can see different pedestrian routes or levels. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=View+toward+the+Large+Monument+on+the+River%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=View+toward+the+Large+Monument+on+the+River%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nView toward the Large Monument on the River\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=View+toward+the+Large+Monument+on+the+River%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9F%D0%B5%D1%82%D1%80%D1%83+I+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9F%D0%B5%D1%82%D1%80%D1%83+I+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nFrame 5: The Giant\n\n📍 Location: View toward the Large Monument on the River\n\n📌 Address / point: Вид на памятник Петру I\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9F%D0%B5%D1%82%D1%80%D1%83+I+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L6",
@@ -194,9 +194,9 @@
       "success_reply": "Correct.\n\nFrame 6 restored: CHOICE.\n\nThe Feed gives one endless path. The city gives alternatives.\n\nFragment 6 unlocked:\n\nTHE",
       "speaking_task": "Discuss:\n\nHow does your route change what you notice in a city? Give one example from this embankment.",
       "next_directions": "Next frame: enter Muzeon Park of Arts and find the area with sculptures. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=Krymskaya+Embankment%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Krymskaya+Embankment%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nKrymskaya Embankment\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Krymskaya+Embankment%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nFrame 6: The Route Splits\n\n📍 Location: Krymskaya Embankment\n\n📌 Address / point: Крымская набережная\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L7",
@@ -226,9 +226,9 @@
       "success_reply": "Correct.\n\nFrame 7 restored: PRESENCE.\n\nThe Feed gives flat images. The real world gives bodies, weight and space.\n\nFragment 7 unlocked:\n\nFEED",
       "speaking_task": "Choose one object nearby.\n\nDescribe it in three sentences:\n1. What do you see?\n2. How does it make you feel?\n3. Why would a photo of it be incomplete?",
       "next_directions": "Next frame: find a physical map, board or navigation sign in Muzeon. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=Muzeon+Park+of+Arts+%2F+Sculptures%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Muzeon+Park+of+Arts+%2F+Sculptures%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nMuzeon Park of Arts / Sculptures\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Muzeon+Park+of+Arts+%2F+Sculptures%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA+%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2+%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA+%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2+%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nFrame 7: The Open-Air Museum\n\n📍 Location: Muzeon Park of Arts / Sculptures\n\n📌 Address / point: Парк искусств Музеон / скульптуры\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA+%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2+%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L8",
@@ -260,9 +260,9 @@
       "success_reply": "Correct.\n\nFrame 8 restored: ORIENTATION.\n\nThe Feed tracks you. The city can guide you without watching you.\n\nFragment 8 unlocked:\n\nMAKES",
       "speaking_task": "Discuss:\n\nWhat is the difference between using a phone map and using a physical map? Mention privacy, attention and memory.",
       "next_directions": "Next frame: go to the New Tretyakov Gallery and stand where you can see the building name. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=Muzeon+Map+%2F+Navigation+Board%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Muzeon+Map+%2F+Navigation+Board%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nMuzeon Map / Navigation Board\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Muzeon+Map+%2F+Navigation+Board%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD+%D0%B2%D1%85%D0%BE%D0%B4+%D1%81%D0%BE+%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%BE%D0%B9+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D0%B9+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD+%D0%B2%D1%85%D0%BE%D0%B4+%D1%81%D0%BE+%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%BE%D0%B9+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D0%B9+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nFrame 8: The Offline Guide\n\n📍 Location: Muzeon Map / Navigation Board\n\n📌 Address / point: Музеон / навигационная карта или вход со стороны Крымской набережной\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD+%D0%B2%D1%85%D0%BE%D0%B4+%D1%81%D0%BE+%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%BE%D0%B9+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D0%B9+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L9",
@@ -291,9 +291,9 @@
       "success_reply": "Correct.\n\nFrame 9 restored: CURATED MEMORY.\n\nThe Feed remembers your reactions. A cultural institution remembers works, contexts and meanings.\n\nFragment 9 unlocked:\n\nIT",
       "speaking_task": "Discuss:\n\nWhat is the difference between an algorithmic feed and a curated collection? Use the words “attention” and “memory”.",
       "next_directions": "Next frame: move to the final point near Gorky Park. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=New+Tretyakov+Gallery%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=New+Tretyakov+Gallery%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nNew Tretyakov Gallery\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=New+Tretyakov+Gallery%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F+%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9+%D0%92%D0%B0%D0%BB+10+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F+%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9+%D0%92%D0%B0%D0%BB+10+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nFrame 9: The Curated Memory\n\n📍 Location: New Tretyakov Gallery\n\n📌 Address / point: Новая Третьяковка\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F+%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9+%D0%92%D0%B0%D0%BB+10+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L10",
@@ -324,9 +324,9 @@
       "success_reply": "You restored the missing reel.\n\nKEEP THE CITY REAL BEFORE THE FEED MAKES IT FLAT.\n\nThe Feed wanted the city to become content. You found depth, distance, weight, memory and space.\n\nYou did not just pass through the city. You read it as a real place.\n\nFinal voice task:\nRecord a 60-second team message in English.\n\nAnswer this question:\nWhat part of today’s route felt most real to you, and what would The Feed probably flatten, crop or hide?",
       "speaking_task": "Final team task:\nRecord a 60-second voice message in English answering the final question.",
       "next_directions": "The quest is complete.",
-      "map_url": "https://yandex.ru/maps/?text=Gorky+Park+%2F+Final+Point%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Gorky+Park+%2F+Final+Point%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nGorky Park / Final Point\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Gorky+Park+%2F+Final+Point%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA+%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE+%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9+%D0%B2%D1%85%D0%BE%D0%B4+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA+%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE+%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9+%D0%B2%D1%85%D0%BE%D0%B4+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nFrame 10: The Final Cut\n\n📍 Location: Gorky Park / Final Point\n\n📌 Address / point: Парк Горького / финальная точка\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA+%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE+%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9+%D0%B2%D1%85%D0%BE%D0%B4+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     }
   ],
   "quest_id": "missing_reel",

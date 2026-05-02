@@ -41,9 +41,9 @@
       "fragment": "INVENTORY",
       "skip_code": "SKIP01",
       "speaking_task": "",
-      "map_url": "https://yandex.ru/maps/?text=Vorobyovy+Gory+Observation+Deck%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Vorobyovy+Gory+Observation+Deck%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nVorobyovy Gory Observation Deck\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Vorobyovy+Gory+Observation+Deck%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%BA%D0%B0+%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D1%91%D0%B2%D1%8B+%D0%B3%D0%BE%D1%80%D1%8B%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%BA%D0%B0+%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D1%91%D0%B2%D1%8B+%D0%B3%D0%BE%D1%80%D1%8B%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStage 1: The Wind of the Broken Ledger\n\n📍 Location: Vorobyovy Gory Observation Deck\n\n📌 Address / point: Смотровая площадка Воробьёвы горы\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%BA%D0%B0+%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D1%91%D0%B2%D1%8B+%D0%B3%D0%BE%D1%80%D1%8B%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "stage_02_delay",
@@ -69,9 +69,9 @@
       "fragment": "DELAY",
       "skip_code": "SKIP02",
       "speaking_task": "",
-      "map_url": "https://yandex.ru/maps/?text=Upper+Cable+Car+Station+%2F+Viewpoint+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Upper+Cable+Car+Station+%2F+Viewpoint+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nUpper Cable Car Station / Viewpoint Area\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Upper+Cable+Car+Station+%2F+Viewpoint+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BA%D0%B0%D0%BD%D0%B0%D1%82%D0%BD%D0%B0%D1%8F+%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0+%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F+%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D1%91%D0%B2%D1%8B+%D0%B3%D0%BE%D1%80%D1%8B%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BA%D0%B0%D0%BD%D0%B0%D1%82%D0%BD%D0%B0%D1%8F+%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0+%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F+%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D1%91%D0%B2%D1%8B+%D0%B3%D0%BE%D1%80%D1%8B%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStage 2: The Hourglass Curse\n\n📍 Location: Upper Cable Car Station / Viewpoint Area\n\n📌 Address / point: Верхняя станция канатной дороги на Воробьёвых горах\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BA%D0%B0%D0%BD%D0%B0%D1%82%D0%BD%D0%B0%D1%8F+%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0+%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F+%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D1%91%D0%B2%D1%8B+%D0%B3%D0%BE%D1%80%D1%8B%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "stage_03_freight",
@@ -97,9 +97,9 @@
       "fragment": "FREIGHT",
       "skip_code": "SKIP03",
       "speaking_task": "",
-      "map_url": "https://yandex.ru/maps/?text=Andreevskaya+Embankment%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Andreevskaya+Embankment%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nAndreevskaya Embankment\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Andreevskaya+Embankment%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStage 3: Attack of the Ghost Barges\n\n📍 Location: Andreevskaya Embankment\n\n📌 Address / point: Андреевская набережная\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "stage_04_bottleneck",
@@ -125,9 +125,9 @@
       "fragment": "BOTTLENECK",
       "skip_code": "SKIP04",
       "speaking_task": "",
-      "map_url": "https://yandex.ru/maps/?text=Andreevsky+%2F+Pushkinsky+Pedestrian+Bridge%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Andreevsky+%2F+Pushkinsky+Pedestrian+Bridge%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nAndreevsky / Pushkinsky Pedestrian Bridge\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Andreevsky+%2F+Pushkinsky+Pedestrian+Bridge%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%B5%D1%88%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9+%D0%BC%D0%BE%D1%81%D1%82%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%B5%D1%88%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9+%D0%BC%D0%BE%D1%81%D1%82%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStage 4: The Chokepoint Ambush\n\n📍 Location: Andreevsky / Pushkinsky Pedestrian Bridge\n\n📌 Address / point: Пушкинский / Андреевский пешеходный мост\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%B5%D1%88%D0%B5%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9+%D0%BC%D0%BE%D1%81%D1%82%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "stage_05_procurement",
@@ -152,9 +152,9 @@
       "fragment": "PROCUREMENT",
       "skip_code": "SKIP05",
       "speaking_task": "",
-      "map_url": "https://yandex.ru/maps/?text=Neskuchny+Garden%2C+Hunting+Lodge+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Neskuchny+Garden%2C+Hunting+Lodge+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nNeskuchny Garden, Hunting Lodge Area\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Neskuchny+Garden%2C+Hunting+Lodge+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D1%87%D0%B8%D0%B9+%D0%B4%D0%BE%D0%BC%D0%B8%D0%BA+%D0%9D%D0%B5%D1%81%D0%BA%D1%83%D1%87%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D1%87%D0%B8%D0%B9+%D0%B4%D0%BE%D0%BC%D0%B8%D0%BA+%D0%9D%D0%B5%D1%81%D0%BA%D1%83%D1%87%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStage 5: The Cursed Quartermaster\n\n📍 Location: Neskuchny Garden, Hunting Lodge Area\n\n📌 Address / point: Охотничий домик, Нескучный сад\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D1%87%D0%B8%D0%B9+%D0%B4%D0%BE%D0%BC%D0%B8%D0%BA+%D0%9D%D0%B5%D1%81%D0%BA%D1%83%D1%87%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "stage_06_supplier",
@@ -179,9 +179,9 @@
       "fragment": "SUPPLIER",
       "skip_code": "SKIP06",
       "speaking_task": "",
-      "map_url": "https://yandex.ru/maps/?text=Neskuchny+Garden+Paths%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Neskuchny+Garden+Paths%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nNeskuchny Garden Paths\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Neskuchny+Garden+Paths%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9D%D0%B5%D1%81%D0%BA%D1%83%D1%87%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9D%D0%B5%D1%81%D0%BA%D1%83%D1%87%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStage 6: The False Merchant\n\n📍 Location: Neskuchny Garden Paths\n\n📌 Address / point: Дорожки Нескучного сада\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9D%D0%B5%D1%81%D0%BA%D1%83%D1%87%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "stage_07_warehouse",
@@ -206,9 +206,9 @@
       "fragment": "WAREHOUSE",
       "skip_code": "SKIP07",
       "speaking_task": "",
-      "map_url": "https://yandex.ru/maps/?text=Pushkinskaya+Embankment+%2F+River+Pier+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Pushkinskaya+Embankment+%2F+River+Pier+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nPushkinskaya Embankment / River Pier Area\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Pushkinskaya+Embankment+%2F+River+Pier+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStage 7: The Stormhold\n\n📍 Location: Pushkinskaya Embankment / River Pier Area\n\n📌 Address / point: Пушкинская набережная / зона причалов\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "stage_08_distribution",
@@ -233,9 +233,9 @@
       "fragment": "DISTRIBUTION",
       "skip_code": "SKIP08",
       "speaking_task": "",
-      "map_url": "https://yandex.ru/maps/?text=Golitsyn+Pond%2C+Gorky+Park%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Golitsyn+Pond%2C+Gorky+Park%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nGolitsyn Pond, Gorky Park\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Golitsyn+Pond%2C+Gorky+Park%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BB%D0%B8%D1%86%D1%8B%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D1%80%D1%83%D0%B4+%D0%9F%D0%B0%D1%80%D0%BA+%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BB%D0%B8%D1%86%D1%8B%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D1%80%D1%83%D0%B4+%D0%9F%D0%B0%D1%80%D0%BA+%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStage 8: The Splitting Current\n\n📍 Location: Golitsyn Pond, Gorky Park\n\n📌 Address / point: Голицынский пруд, Парк Горького\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%93%D0%BE%D0%BB%D0%B8%D1%86%D1%8B%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D1%80%D1%83%D0%B4+%D0%9F%D0%B0%D1%80%D0%BA+%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "stage_09_logistics",
@@ -260,9 +260,9 @@
       "fragment": "LOGISTICS",
       "skip_code": "SKIP09",
       "speaking_task": "",
-      "map_url": "https://yandex.ru/maps/?text=Krymskaya+Embankment+%2F+Muzeon+Waterfront%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Krymskaya+Embankment+%2F+Muzeon+Waterfront%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nKrymskaya Embankment / Muzeon Waterfront\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Krymskaya+Embankment+%2F+Muzeon+Waterfront%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStage 9: The Flying Dutchman’s Chart\n\n📍 Location: Krymskaya Embankment / Muzeon Waterfront\n\n📌 Address / point: Крымская набережная / Музеон\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "stage_10_tariffs",
@@ -290,9 +290,9 @@
       "fragment": "TARIFFS",
       "skip_code": "SKIP10",
       "speaking_task": "",
-      "map_url": "https://yandex.ru/maps/?text=Monument+to+Peter+I%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Monument+to+Peter+I%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nMonument to Peter I\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Monument+to+Peter+I%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9F%D0%B5%D1%82%D1%80%D1%83+I+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9F%D0%B5%D1%82%D1%80%D1%83+I+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStage 10: The Admiral’s Toll\n\n📍 Location: Monument to Peter I\n\n📌 Address / point: Памятник Петру I\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9F%D0%B5%D1%82%D1%80%D1%83+I+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     }
   ],
   "finish_message": "The route has been restored. Now choose what your crew will do with the Cargo of Eternity.",

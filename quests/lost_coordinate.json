@@ -32,9 +32,9 @@
       "success_reply": "Excellent.\n\nDEPARTURE is restored.\n\nEvery journey requires a proper departure, and my lost century has finally acquired a point from which to be approached.\n\nFragment 1 unlocked:\n\nWHEN\n\nA gentleman may now proceed.",
       "speaking_task": "Discuss while walking:\n\nWhy do stories often begin at gates, doors or borders?",
       "next_directions": "Next stop: Resurrection Gate. Walk a short distance to the red gate between Manezhnaya Square and Red Square. Stand where you can see the passage clearly. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=Zero+Kilometre+Marker%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Zero+Kilometre+Marker%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nZero Kilometre Marker\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Zero+Kilometre+Marker%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9D%D1%83%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9+%D0%BA%D0%B8%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80+%D0%9C%D0%B0%D0%BD%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9D%D1%83%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9+%D0%BA%D0%B8%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80+%D0%9C%D0%B0%D0%BD%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStop 1: A Proper Departure\n\n📍 Location: Zero Kilometre Marker\n\n📌 Address / point: Нулевой километр\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9D%D1%83%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9+%D0%BA%D0%B8%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80+%D0%9C%D0%B0%D0%BD%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L2",
@@ -64,9 +64,9 @@
       "success_reply": "Very good.\n\nThe THRESHOLD is restored.\n\nI can feel the passage stabilising. The Chronophage dislikes gates because they make people notice that they are entering another space.\n\nFragment 2 unlocked:\n\nTIME",
       "speaking_task": "Use the phrase “a threshold between…” and describe this gate in one sentence.",
       "next_directions": "Next stop: Kazan Cathedral. Walk into Red Square and approach the small cathedral near the corner with Nikolskaya Street. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=Resurrection+Gate%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Resurrection+Gate%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nResurrection Gate\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Resurrection+Gate%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStop 2: The Threshold\n\n📍 Location: Resurrection Gate\n\n📌 Address / point: Воскресенские ворота\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L3",
@@ -95,9 +95,9 @@
       "success_reply": "Splendid.\n\nThe ECHO is restored.\n\nA city hidden inside a name — that is precisely the kind of memory the Chronophage tries to flatten.\n\nFragment 3 unlocked:\n\nFORGETS",
       "speaking_task": "Discuss:\n\nCan a name carry memory even when people no longer think about its meaning?",
       "next_directions": "Next stop: GUM. Cross carefully toward the long historic facade on Red Square. If possible, enter briefly and look at the covered passage. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=Kazan+Cathedral%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Kazan+Cathedral%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nKazan Cathedral\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Kazan+Cathedral%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D1%81%D0%BE%D0%B1%D0%BE%D1%80+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D1%81%D0%BE%D0%B1%D0%BE%D1%80+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStop 3: The Echo of Another City\n\n📍 Location: Kazan Cathedral\n\n📌 Address / point: Казанский собор\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D1%81%D0%BE%D0%B1%D0%BE%D1%80+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L4",
@@ -128,9 +128,9 @@
       "success_reply": "Correct.\n\nThe ARCADE is restored.\n\nThe facade has held its name, and the passage has held its form. Names fixed in public space are small acts of resistance against forgetting.\n\nFragment 4 unlocked:\n\nTHE",
       "speaking_task": "Describe the space using the words “public”, “survive” and “attention”.",
       "next_directions": "Next stop: Monument to Minin and Pozharsky. Walk toward the monument in front of St Basil’s Cathedral. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=GUM%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=GUM%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nGUM\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=GUM%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%93%D0%A3%D0%9C+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+3+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%93%D0%A3%D0%9C+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+3+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStop 4: The Covered Passage\n\n📍 Location: GUM\n\n📌 Address / point: ГУМ\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%93%D0%A3%D0%9C+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+3+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L5",
@@ -159,9 +159,9 @@
       "success_reply": "Excellent work.\n\nThe PEDESTAL is restored.\n\nThe bronze witness has spoken. The Chronophage is weaker near monuments because people keep asking who is being remembered.\n\nFragment 5 unlocked:\n\nROAD",
       "speaking_task": "Discuss:\n\nWhy might a seated or still figure still look powerful?",
       "next_directions": "Next stop: Varvarka Street. Leave Red Square toward the beginning of Varvarka near the Church of St Barbara. Look for a street plaque. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=Monument+to+Minin+and+Pozharsky%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Monument+to+Minin+and+Pozharsky%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nMonument to Minin and Pozharsky\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Monument+to+Minin+and+Pozharsky%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD%D1%83+%D0%B8+%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%BC%D1%83+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD%D1%83+%D0%B8+%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%BC%D1%83+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStop 5: The Bronze Witnesses\n\n📍 Location: Monument to Minin and Pozharsky\n\n📌 Address / point: Памятник Минину и Пожарскому\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD%D1%83+%D0%B8+%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%BC%D1%83+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L6",
@@ -191,9 +191,9 @@
       "success_reply": "Precisely.\n\nThe PLAQUE is restored.\n\nVarvarka is not merely a street. It is a corridor of centuries, and the route is becoming clearer.\n\nFragment 6 unlocked:\n\nFOLLOW",
       "speaking_task": "While walking, describe the street atmosphere in two sentences: one factual, one emotional.",
       "next_directions": "Next stop: Romanov Boyars’ Chambers. Continue along Varvarka toward house 10 and find the museum sign. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=Varvarka+Street+%2F+Church+of+St+Barbara%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Varvarka+Street+%2F+Church+of+St+Barbara%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nVarvarka Street / Church of St Barbara\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Varvarka+Street+%2F+Church+of+St+Barbara%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D1%8B+%D0%BD%D0%B0+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D1%8B+%D0%BD%D0%B0+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStop 6: The Street’s Memory\n\n📍 Location: Varvarka Street / Church of St Barbara\n\n📌 Address / point: Варварка / церковь Варвары\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D1%8B+%D0%BD%D0%B0+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L7",
@@ -223,9 +223,9 @@
       "success_reply": "Very good.\n\nCHAMBERS is restored.\n\nFamily memory, state memory, city memory — all these layers make time harder to erase.\n\nFragment 7 unlocked:\n\nTHE",
       "speaking_task": "Discuss:\n\nHow can a family name become part of a country’s history?",
       "next_directions": "Next stop: Church of St Maximus the Blessed. Walk back toward Varvarka 4 and find the smaller church sign near the final area. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=Romanov+Boyars%E2%80%99+Chambers%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Romanov+Boyars%E2%80%99+Chambers%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nRomanov Boyars’ Chambers\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Romanov+Boyars%E2%80%99+Chambers%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BB%D0%B0%D1%82%D1%8B+%D0%B1%D0%BE%D1%8F%D1%80+%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B%D1%85+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BB%D0%B0%D1%82%D1%8B+%D0%B1%D0%BE%D1%8F%D1%80+%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B%D1%85+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStop 7: The House of Deep Time\n\n📍 Location: Romanov Boyars’ Chambers\n\n📌 Address / point: Палаты бояр Романовых\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BB%D0%B0%D1%82%D1%8B+%D0%B1%D0%BE%D1%8F%D1%80+%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B%D1%85+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L8",
@@ -256,9 +256,9 @@
       "success_reply": "Excellent.\n\nSAINT is restored.\n\nYour precision does you credit.\n\nThe chronometer is now pointing not to an object, but to an address. I had feared this possibility. The Meridian Key may be larger than I imagined.\n\nFragment 8 unlocked:\n\nADDRESS",
       "speaking_task": "Discuss:\n\nWhy might a small or quiet place be important in a mystery?",
       "next_directions": "Final stop: Old English Court. Walk a few steps toward Varvarka 4A. Look at the museum and its name. Type ARRIVED when your team is ready.",
-      "map_url": "https://yandex.ru/maps/?text=Church+of+St+Maximus+the+Blessed%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Church+of+St+Maximus+the+Blessed%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nChurch of St Maximus the Blessed\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Church+of+St+Maximus+the+Blessed%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B0+%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B0+%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStop 8: The Quiet Clue\n\n📍 Location: Church of St Maximus the Blessed\n\n📌 Address / point: Церковь Максима Блаженного\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B0+%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     },
     {
       "id": "L9",
@@ -288,9 +288,9 @@
       "success_reply": "You have found it.\n\nADDRESS.\n\nThe Meridian Key was never a pocket instrument. It was an address — the last English coordinate I could still trust in Moscow.\n\nThe Chronophage could not erase this place while someone was still able to read it.\n\nYou have read it.\n\nTherefore, you have restored it.\n\nFragment 9 unlocked:\n\nTHAT REMEMBERS\n\nFinal message restored:\n\nWHEN TIME FORGETS THE ROAD, FOLLOW THE ADDRESS THAT REMEMBERS.\n\nLondon is no longer lost.\nMoscow is no longer a labyrinth.\nAnd I, at last, may return to 1896.",
       "speaking_task": "Final team task:\n\nDiscuss or record a 60-second answer in English:\nWhy was the Meridian Key a place rather than an object?\nUse at least three of these words: address, memory, road, time, London, Moscow, evidence.",
       "next_directions": "This is the final stop. The case is complete.",
-      "map_url": "https://yandex.ru/maps/?text=Old+English+Court%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=Old+English+Court%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "Destination:\nOld English Court\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Old+English+Court%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_url": "https://yandex.ru/maps/?text=%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9+%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D0%B4%D0%B2%D0%BE%D1%80+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9+%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D0%B4%D0%B2%D0%BE%D1%80+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nStop 9: The Last English Address\n\n📍 Location: Old English Court\n\n📌 Address / point: Старый Английский двор\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9+%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D0%B4%D0%B2%D0%BE%D1%80+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
     }
   ]
 }
