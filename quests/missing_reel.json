@@ -33,7 +33,7 @@
       "next_directions": "Next frame: stay near GES-2. Move to a point where you can see the roofline and the vertical industrial elements of the building. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%94%D0%BE%D0%BC+%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B+%D0%93%D0%AD%D0%A1-2+%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%94%D0%BE%D0%BC+%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B+%D0%93%D0%AD%D0%A1-2+%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nFrame 1: The Source\n\n📍 Location: GES-2 House of Culture\n\n📌 Address / point: Дом культуры ГЭС-2\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%94%D0%BE%D0%BC+%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B+%D0%93%D0%AD%D0%A1-2+%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nFrame 01: House of Culture\n\n📍 Location: Дом культуры ГЭС-2\n\n📌 Address / point: Болотная набережная, 15\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%94%D0%BE%D0%BC+%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B+%D0%93%D0%AD%D0%A1-2+%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nStart at GES-2 House of Culture. When your team arrives, press ARRIVED."
     },
     {
       "id": "L2",
@@ -69,7 +69,7 @@
       "next_directions": "Next frame: move to the embankment / waterline near GES-2, where you can see the building and the water. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%93%D0%AD%D0%A1-2+%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%93%D0%AD%D0%A1-2+%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nFrame 2: The Vertical Memory\n\n📍 Location: GES-2 Roofline / Industrial Elements\n\n📌 Address / point: ГЭС-2 / индустриальные элементы здания\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%93%D0%AD%D0%A1-2+%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nFrame 02: Industrial Elements\n\n📍 Location: ГЭС-2 / индустриальные элементы\n\n📌 Address / point: Болотная набережная, 15\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%93%D0%AD%D0%A1-2+%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nLook at the industrial elements of the GES-2 building. When your team arrives, press ARRIVED."
     },
     {
       "id": "L3",
@@ -100,7 +100,7 @@
       "next_directions": "Next frame: go to the Patriarchal Bridge, the pedestrian bridge over the river. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nFrame 3: The Broken Copy\n\n📍 Location: Embankment / Waterline near GES-2\n\n📌 Address / point: Болотная набережная у ГЭС-2\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nFrame 03: Waterline\n\n📍 Location: Болотная набережная у ГЭС-2\n\n📌 Address / point: Болотная набережная, 15\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+15+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the waterline near GES-2. When your team arrives, press ARRIVED."
     },
     {
       "id": "L4",
@@ -130,7 +130,7 @@
       "next_directions": "Next frame: move to a safe viewing point where you can see the large monument rising above the river. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%88%D0%B8%D0%B9+%D0%BC%D0%BE%D1%81%D1%82+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%88%D0%B8%D0%B9+%D0%BC%D0%BE%D1%81%D1%82+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nFrame 4: The Crossing\n\n📍 Location: Patriarchal Bridge\n\n📌 Address / point: Патриарший мост\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%88%D0%B8%D0%B9+%D0%BC%D0%BE%D1%81%D1%82+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nFrame 04: Patriarchal Bridge\n\n📍 Location: Патриарший мост\n\n📌 Address / point: Патриарший мост\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%88%D0%B8%D0%B9+%D0%BC%D0%BE%D1%81%D1%82+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove toward Patriarchal Bridge. When your team arrives, press ARRIVED."
     },
     {
       "id": "L5",
@@ -162,7 +162,7 @@
       "next_directions": "Next frame: continue toward Krymskaya Embankment until you can see different pedestrian routes or levels. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9F%D0%B5%D1%82%D1%80%D1%83+I+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9F%D0%B5%D1%82%D1%80%D1%83+I+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nFrame 5: The Giant\n\n📍 Location: View toward the Large Monument on the River\n\n📌 Address / point: Вид на памятник Петру I\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9F%D0%B5%D1%82%D1%80%D1%83+I+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nFrame 05: River Monument View\n\n📍 Location: Вид на памятник Петру I\n\n📌 Address / point: Памятник Петру I\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9F%D0%B5%D1%82%D1%80%D1%83+I+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nFind the view toward the large monument on the river. When your team arrives, press ARRIVED."
     },
     {
       "id": "L6",
@@ -196,7 +196,7 @@
       "next_directions": "Next frame: enter Muzeon Park of Arts and find the area with sculptures. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nFrame 6: The Route Splits\n\n📍 Location: Krymskaya Embankment\n\n📌 Address / point: Крымская набережная\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nFrame 06: Krymskaya Embankment\n\n📍 Location: Крымская набережная\n\n📌 Address / point: Крымская набережная\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove along Krymskaya Embankment. When your team arrives, press ARRIVED."
     },
     {
       "id": "L7",
@@ -228,7 +228,7 @@
       "next_directions": "Next frame: find a physical map, board or navigation sign in Muzeon. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA+%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2+%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA+%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2+%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nFrame 7: The Open-Air Museum\n\n📍 Location: Muzeon Park of Arts / Sculptures\n\n📌 Address / point: Парк искусств Музеон / скульптуры\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA+%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2+%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nFrame 07: Muzeon Sculptures\n\n📍 Location: Парк искусств Музеон\n\n📌 Address / point: Парк искусств Музеон / скульптуры\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA+%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2+%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nGo into Muzeon Park of Arts and look for the sculpture area. When your team arrives, press ARRIVED."
     },
     {
       "id": "L8",
@@ -262,7 +262,7 @@
       "next_directions": "Next frame: go to the New Tretyakov Gallery and stand where you can see the building name. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD+%D0%B2%D1%85%D0%BE%D0%B4+%D1%81%D0%BE+%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%BE%D0%B9+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D0%B9+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD+%D0%B2%D1%85%D0%BE%D0%B4+%D1%81%D0%BE+%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%BE%D0%B9+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D0%B9+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nFrame 8: The Offline Guide\n\n📍 Location: Muzeon Map / Navigation Board\n\n📌 Address / point: Музеон / навигационная карта или вход со стороны Крымской набережной\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD+%D0%B2%D1%85%D0%BE%D0%B4+%D1%81%D0%BE+%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%BE%D0%B9+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D0%B9+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nFrame 08: Muzeon Navigation\n\n📍 Location: Музеон / навигационная карта\n\n📌 Address / point: Вход в Музеон со стороны Крымской набережной\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9C%D1%83%D0%B7%D0%B5%D0%BE%D0%BD+%D0%B2%D1%85%D0%BE%D0%B4+%D1%81%D0%BE+%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8B+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%BE%D0%B9+%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D0%B9+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nFind the navigation map or entrance zone of Muzeon. When your team arrives, press ARRIVED."
     },
     {
       "id": "L9",
@@ -293,7 +293,7 @@
       "next_directions": "Next frame: move to the final point near Gorky Park. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F+%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9+%D0%92%D0%B0%D0%BB+10+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F+%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9+%D0%92%D0%B0%D0%BB+10+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nFrame 9: The Curated Memory\n\n📍 Location: New Tretyakov Gallery\n\n📌 Address / point: Новая Третьяковка\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F+%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9+%D0%92%D0%B0%D0%BB+10+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nFrame 09: New Tretyakov Gallery\n\n📍 Location: Новая Третьяковка\n\n📌 Address / point: Крымский Вал, 10\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F+%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0+%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9+%D0%92%D0%B0%D0%BB+10+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove toward the New Tretyakov Gallery. When your team arrives, press ARRIVED."
     },
     {
       "id": "L10",
@@ -326,7 +326,7 @@
       "next_directions": "The quest is complete.",
       "map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA+%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE+%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9+%D0%B2%D1%85%D0%BE%D0%B4+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA+%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE+%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9+%D0%B2%D1%85%D0%BE%D0%B4+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nFrame 10: The Final Cut\n\n📍 Location: Gorky Park / Final Point\n\n📌 Address / point: Парк Горького / финальная точка\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA+%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE+%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9+%D0%B2%D1%85%D0%BE%D0%B4+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nFrame 10: Final Point\n\n📍 Location: Парк Горького\n\n📌 Address / point: Главный вход в Парк Горького\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D1%80%D0%BA+%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE+%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9+%D0%B2%D1%85%D0%BE%D0%B4+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove toward the main entrance of Gorky Park. This is the final route point. When your team arrives, press ARRIVED."
     }
   ],
   "quest_id": "missing_reel",

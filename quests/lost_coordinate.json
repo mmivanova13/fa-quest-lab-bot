@@ -34,7 +34,7 @@
       "next_directions": "Next stop: Resurrection Gate. Walk a short distance to the red gate between Manezhnaya Square and Red Square. Stand where you can see the passage clearly. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%9D%D1%83%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9+%D0%BA%D0%B8%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80+%D0%9C%D0%B0%D0%BD%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9D%D1%83%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9+%D0%BA%D0%B8%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80+%D0%9C%D0%B0%D0%BD%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nStop 1: A Proper Departure\n\n📍 Location: Zero Kilometre Marker\n\n📌 Address / point: Нулевой километр\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9D%D1%83%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9+%D0%BA%D0%B8%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80+%D0%9C%D0%B0%D0%BD%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nLocation 01: Zero Kilometre\n\n📍 Location: Нулевой километр\n\n📌 Address / point: Манежная площадь\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9D%D1%83%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9+%D0%BA%D0%B8%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80+%D0%9C%D0%B0%D0%BD%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nStart at the Zero Kilometre marker. When your team arrives, press ARRIVED."
     },
     {
       "id": "L2",
@@ -66,7 +66,7 @@
       "next_directions": "Next stop: Kazan Cathedral. Walk into Red Square and approach the small cathedral near the corner with Nikolskaya Street. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nStop 2: The Threshold\n\n📍 Location: Resurrection Gate\n\n📌 Address / point: Воскресенские ворота\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nLocation 02: Resurrection Gate\n\n📍 Location: Воскресенские ворота\n\n📌 Address / point: Воскресенские ворота у Красной площади\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to Resurrection Gate. When your team arrives, press ARRIVED."
     },
     {
       "id": "L3",
@@ -97,7 +97,7 @@
       "next_directions": "Next stop: GUM. Cross carefully toward the long historic facade on Red Square. If possible, enter briefly and look at the covered passage. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D1%81%D0%BE%D0%B1%D0%BE%D1%80+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D1%81%D0%BE%D0%B1%D0%BE%D1%80+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nStop 3: The Echo of Another City\n\n📍 Location: Kazan Cathedral\n\n📌 Address / point: Казанский собор\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D1%81%D0%BE%D0%B1%D0%BE%D1%80+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nLocation 03: Kazan Cathedral\n\n📍 Location: Казанский собор\n\n📌 Address / point: Казанский собор на Красной площади\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D1%81%D0%BE%D0%B1%D0%BE%D1%80+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nFind Kazan Cathedral near Red Square. When your team arrives, press ARRIVED."
     },
     {
       "id": "L4",
@@ -130,7 +130,7 @@
       "next_directions": "Next stop: Monument to Minin and Pozharsky. Walk toward the monument in front of St Basil’s Cathedral. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%93%D0%A3%D0%9C+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+3+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%93%D0%A3%D0%9C+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+3+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nStop 4: The Covered Passage\n\n📍 Location: GUM\n\n📌 Address / point: ГУМ\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%93%D0%A3%D0%9C+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+3+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nLocation 04: GUM\n\n📍 Location: ГУМ\n\n📌 Address / point: Красная площадь, 3\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%93%D0%A3%D0%9C+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C+3+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove toward GUM. When your team arrives, press ARRIVED."
     },
     {
       "id": "L5",
@@ -161,7 +161,7 @@
       "next_directions": "Next stop: Varvarka Street. Leave Red Square toward the beginning of Varvarka near the Church of St Barbara. Look for a street plaque. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD%D1%83+%D0%B8+%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%BC%D1%83+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD%D1%83+%D0%B8+%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%BC%D1%83+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nStop 5: The Bronze Witnesses\n\n📍 Location: Monument to Minin and Pozharsky\n\n📌 Address / point: Памятник Минину и Пожарскому\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD%D1%83+%D0%B8+%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%BC%D1%83+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nLocation 05: Minin and Pozharsky\n\n📍 Location: Памятник Минину и Пожарскому\n\n📌 Address / point: Красная площадь\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA+%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD%D1%83+%D0%B8+%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%BC%D1%83+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nFind the monument to Minin and Pozharsky. When your team arrives, press ARRIVED."
     },
     {
       "id": "L6",
@@ -193,7 +193,7 @@
       "next_directions": "Next stop: Romanov Boyars’ Chambers. Continue along Varvarka toward house 10 and find the museum sign. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D1%8B+%D0%BD%D0%B0+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D1%8B+%D0%BD%D0%B0+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nStop 6: The Street’s Memory\n\n📍 Location: Varvarka Street / Church of St Barbara\n\n📌 Address / point: Варварка / церковь Варвары\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D1%8B+%D0%BD%D0%B0+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nLocation 06: Varvarka\n\n📍 Location: Церковь Варвары на Варварке\n\n📌 Address / point: улица Варварка\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D1%8B+%D0%BD%D0%B0+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove toward Varvarka Street and the Church of St Barbara. When your team arrives, press ARRIVED."
     },
     {
       "id": "L7",
@@ -225,7 +225,7 @@
       "next_directions": "Next stop: Church of St Maximus the Blessed. Walk back toward Varvarka 4 and find the smaller church sign near the final area. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BB%D0%B0%D1%82%D1%8B+%D0%B1%D0%BE%D1%8F%D1%80+%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B%D1%85+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BB%D0%B0%D1%82%D1%8B+%D0%B1%D0%BE%D1%8F%D1%80+%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B%D1%85+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nStop 7: The House of Deep Time\n\n📍 Location: Romanov Boyars’ Chambers\n\n📌 Address / point: Палаты бояр Романовых\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BB%D0%B0%D1%82%D1%8B+%D0%B1%D0%BE%D1%8F%D1%80+%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B%D1%85+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nLocation 07: Romanov Chambers\n\n📍 Location: Палаты бояр Романовых\n\n📌 Address / point: улица Варварка\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%BB%D0%B0%D1%82%D1%8B+%D0%B1%D0%BE%D1%8F%D1%80+%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B%D1%85+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nFind the Romanov Boyars’ Chambers on Varvarka. When your team arrives, press ARRIVED."
     },
     {
       "id": "L8",
@@ -258,7 +258,7 @@
       "next_directions": "Final stop: Old English Court. Walk a few steps toward Varvarka 4A. Look at the museum and its name. Type ARRIVED when your team is ready.",
       "map_url": "https://yandex.ru/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B0+%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B0+%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nStop 8: The Quiet Clue\n\n📍 Location: Church of St Maximus the Blessed\n\n📌 Address / point: Церковь Максима Блаженного\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B0+%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nLocation 08: St Maximus\n\n📍 Location: Церковь Максима Блаженного\n\n📌 Address / point: улица Варварка\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B0+%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove toward the Church of St Maximus the Blessed. When your team arrives, press ARRIVED."
     },
     {
       "id": "L9",
@@ -290,7 +290,7 @@
       "next_directions": "This is the final stop. The case is complete.",
       "map_url": "https://yandex.ru/maps/?text=%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9+%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D0%B4%D0%B2%D0%BE%D1%80+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9+%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D0%B4%D0%B2%D0%BE%D1%80+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nStop 9: The Last English Address\n\n📍 Location: Old English Court\n\n📌 Address / point: Старый Английский двор\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9+%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D0%B4%D0%B2%D0%BE%D1%80+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove to the point shown on the map. When your team arrives, press ARRIVED."
+      "destination_message": "NEXT DESTINATION\n\nLocation 09: Old English Court\n\n📍 Location: Старый Английский двор\n\n📌 Address / point: улица Варварка\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9+%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D0%B4%D0%B2%D0%BE%D1%80+%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%BA%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nFind the Old English Court. This is the final route point. When your team arrives, press ARRIVED."
     }
   ]
 }
