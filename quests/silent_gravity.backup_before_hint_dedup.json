@@ -19,9 +19,9 @@
       "id": "stage_01_prerequisite",
       "location_name": "Hotel Cosmos",
       "location_title": "Гостиница «Космос»",
-      "map_url": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81+%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82+%D0%9C%D0%B8%D1%80%D0%B0+150+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81+%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82+%D0%9C%D0%B8%D1%80%D0%B0+150+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nMemory Sector 01: The Orbital Hotel\n\n📍 Location: Hotel Cosmos\n\n📌 Address / point: Гостиница «Космос», проспект Мира, 150\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%93%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81+%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82+%D0%9C%D0%B8%D1%80%D0%B0+150+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nStart at Hotel Cosmos. From here, move toward the Alley of Space Heroes. Your next reference point is the bust of Valentina Tereshkova.",
+      "map_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%2C+%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+150%2C+%3F%3F%3F%3F%3F%3F",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%2C+%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+150%2C+%3F%3F%3F%3F%3F%3F",
+      "destination_message": "NEXT DESTINATION\n\nMemory Sector 01: The Orbital Hotel\n\n?? Location: Hotel Cosmos\n\n?? Address / point: Prospekt Mira, 150\n\n??? Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%2C+%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+150%2C+%3F%3F%3F%3F%3F%3F\n\nRoute note:\n\nStart at Hotel Cosmos. From here, move toward the Alley of Space Heroes. Your next reference point is the bust of Valentina Tereshkova.",
       "message": "[DELTA // MEMORY SECTOR 01]\nLocation match confirmed.\n\nVisual profile detected:\ncurved facade,\nrepeating illuminated cells,\norbital silhouette,\nstation-like geometry.\n\nThis structure is terrestrial.\n\nCorrection:\nIts geometry matches the first image fragment left in my damaged archive.\n\nRecovered image:\na crescent-shaped command deck,\nobservation windows gone black,\none isolated light burning before launch.\n\nThe crew logged the light as a technical detail.\nMission Control logged it as irrelevant.\n\nI no longer classify it as irrelevant.\n\nEvery failed mission begins with something small enough to dismiss.\nA warning light.\nA missing signature.\nA silence one second longer than expected.\n\nBefore a ship leaves Earth,\nbefore a model predicts motion,\nbefore a rescue operation can be planned,\none condition must already be satisfied.\n\nWithout that condition, every later calculation may appear elegant, coherent and mathematically complete — while still leading the entire system toward failure.\n\nEQUINOX-13 was not lost only in space.\n\nIt was lost in preparation.\n\nCrew channel check:\nnegative.\n\nEarth relay check:\nnegative.\n\nResidual signal:\nI hear breathing, but the crew manifest does not match the rhythm.",
       "question": "What word means something that must exist or happen before something else can be done?\n\nSend one word.",
       "accepted_answers": [
@@ -39,23 +39,19 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%90%D0%BB%D0%BB%D0%B5%D1%8F%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%BE%D0%B2%20%D0%B1%D1%8E%D1%81%D1%82%20%D0%A2%D0%B5%D1%80%D0%B5%D1%88%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "skip_code": "SKIP-PREREQUISITE",
       "hints": [
-        "DELTA is looking for a required condition that must exist before the mission can begin.",
-        "The word starts with PRE- and means “something needed before something else can happen”."
+        "Hint 1: DELTA is looking for a required condition that must exist before the mission can begin.",
+        "Hint 2: The word starts with PRE- and means “something needed before something else can happen”."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps",
-      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nBefore starting a risky project, what prerequisites should a team check? Name at least three conditions that must be in place before launch.",
-      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nBefore starting a risky project, what prerequisites should a team check? Name at least three conditions that must be in place before launch.",
-      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nBefore starting a risky project, what prerequisites should a team check? Name at least three conditions that must be in place before launch.",
-      "map_link": "https://yandex.ru/maps/?text=%D0%93%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81+%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82+%D0%9C%D0%B8%D1%80%D0%B0+150+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_label": "Yandex Maps"
     },
     {
       "id": "stage_02_chaika",
       "location_name": "Alley of Space Heroes — Valentina Tereshkova",
       "location_title": "Аллея Героев космоса — бюст Валентины Терешковой",
-      "map_url": "https://yandex.ru/maps/?text=%D0%90%D0%BB%D0%BB%D0%B5%D1%8F+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%BE%D0%B2+%D0%B1%D1%8E%D1%81%D1%82+%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D1%8B+%D0%A2%D0%B5%D1%80%D0%B5%D1%88%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%90%D0%BB%D0%BB%D0%B5%D1%8F+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%BE%D0%B2+%D0%B1%D1%8E%D1%81%D1%82+%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D1%8B+%D0%A2%D0%B5%D1%80%D0%B5%D1%88%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nMemory Sector 02: The Human Call Sign\n\n📍 Location: Alley of Space Heroes — Valentina Tereshkova\n\n📌 Address / point: Аллея Героев космоса, бюст Валентины Терешковой\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%90%D0%BB%D0%BB%D0%B5%D1%8F+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%BE%D0%B2+%D0%B1%D1%8E%D1%81%D1%82+%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D1%8B+%D0%A2%D0%B5%D1%80%D0%B5%D1%88%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nFind the monument line near the Museum of Cosmonautics. Your next reference point is the Monument to the Conquerors of Space.",
+      "map_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F",
+      "destination_message": "NEXT DESTINATION\n\nMemory Sector 02: The Human Call Sign\n\n?? Location: Alley of Space Heroes ? Valentina Tereshkova\n\n?? Address / point: Alley of Space Heroes / bust of Valentina Tereshkova\n\n??? Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F\n\nRoute note:\n\nFind the monument line near the Museum of Cosmonautics. Your next reference point is the Monument to the Conquerors of Space.",
       "message": "[DELTA // MEMORY SECTOR 02]\nLocation match confirmed.\n\nHistorical transmission source detected.\n\nSubject:\nValentina Tereshkova\n\nMission:\nVostok-6\n\nArchive category:\nhuman voice in orbit\n\nWhen humans first entered space, they did not become data only.\nThey became voices.\n\nA call sign is more than identification.\nIt is a small human object sent into distance, danger and static.\n\nEQUINOX-13 recovered this word eleven minutes before disappearance.\nMission Control believed it was a nostalgic file fragment.\nI mark it as a key.\n\nThe ship was looking for a voice strong enough to pass through interference.\n\nBefore the crew went silent, one audio fragment repeated through damaged speakers.\nNot loud.\nNot desperate.\nAlmost gentle.\n\n“Find the first woman’s call sign.\nFind the bird that answered Earth from orbit.”\n\nI transmitted this clue to Earth 47 times.\nEarth received none of them.\n\nSomething was already inside the channel.",
       "question": "What was Valentina Tereshkova’s call sign during her spaceflight?\n\nSend one word in English transliteration.",
       "accepted_answers": [
@@ -73,23 +69,19 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%D0%9F%D0%BE%D0%BA%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC%20%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B0%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "skip_code": "SKIP-CHAIKA",
       "hints": [
-        "Look for Valentina Tereshkova. The answer is not the spacecraft name, but her call sign.",
-        "It is the Russian word for “seagull”, written in English letters."
+        "Hint 1: Look for Valentina Tereshkova. The answer is not the spacecraft name, but her call sign.",
+        "Hint 2: It is the Russian word for “seagull”, written in English letters."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps",
-      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nIn a crisis, why is a clear signal or call sign important? What can happen if a team cannot identify who is speaking or sending information?",
-      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nIn a crisis, why is a clear signal or call sign important? What can happen if a team cannot identify who is speaking or sending information?",
-      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nIn a crisis, why is a clear signal or call sign important? What can happen if a team cannot identify who is speaking or sending information?",
-      "map_link": "https://yandex.ru/maps/?text=%D0%90%D0%BB%D0%BB%D0%B5%D1%8F+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%BE%D0%B2+%D0%B1%D1%8E%D1%81%D1%82+%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D1%8B+%D0%A2%D0%B5%D1%80%D0%B5%D1%88%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_label": "Yandex Maps"
     },
     {
       "id": "stage_03_trajectory",
       "location_name": "Monument to the Conquerors of Space",
       "location_title": "Монумент «Покорителям космоса»",
-      "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82+%D0%9F%D0%BE%D0%BA%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC+%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82+%D0%9F%D0%BE%D0%BA%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC+%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nMemory Sector 03: The Broken Trajectory\n\n📍 Location: Monument to the Conquerors of Space\n\n📌 Address / point: Монумент «Покорителям космоса»\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82+%D0%9F%D0%BE%D0%BA%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC+%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nStand near the monument and look toward VDNH. Your next reference point is the Main Entrance of VDNH.",
+      "map_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F",
+      "destination_message": "NEXT DESTINATION\n\nMemory Sector 03: The Broken Trajectory\n\n?? Location: Monument to the Conquerors of Space\n\n?? Address / point: Prospekt Mira, near the Museum of Cosmonautics\n\n??? Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F\n\nRoute note:\n\nStand near the monument and look toward VDNH. Your next reference point is the Main Entrance of VDNH.",
       "message": "[DELTA // MEMORY SECTOR 03]\nLocation match confirmed.\n\nVertical vector detected.\nMetallic plume recognized.\nEarth-to-orbit symbolic axis restored.\n\nHumans imagine space as upward motion.\n\nLaunch.\nRise.\nEscape.\nAchievement.\n\nThe monument preserves that belief in metal:\na line leaving Earth,\na body becoming faster than fear,\na civilization pointing toward the dark and calling it progress.\n\nBut EQUINOX-13 did not disappear upward.\n\nIt disappeared sideways.\n\nThe ship remained in motion.\nThe engines did not fail.\nThe hull did not rupture.\nThe crew did not report impact.\n\nThe path simply stopped matching the predicted curve.\n\nAt first, Mission Control called it deviation.\nThen drift.\nThen error.\nThen loss.\n\nI classify it differently.\n\nThe ship was following a line.\nThen something bent the line.\n\nEarth requested coordinates.\nI sent them.\nEarth received only empty static.\n\nThe static repeated the shape of the new path.",
       "question": "What word means the path followed by an object moving through space?\n\nSend one word.",
       "accepted_answers": [
@@ -107,23 +99,19 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9%20%D0%B2%D1%85%D0%BE%D0%B4%20%D0%92%D0%94%D0%9D%D0%A5%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "skip_code": "SKIP-TRAJECTORY",
       "hints": [
-        "DELTA is not asking for a destination. It is asking for the path an object follows through space.",
-        "The word starts with T and is often used for rockets, projectiles and future movement models."
+        "Hint 1: DELTA is not asking for a destination. It is asking for the path an object follows through space.",
+        "Hint 2: The word starts with T and is often used for rockets, projectiles and future movement models."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps",
-      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nA plan can look correct at the start but fail later. What signs show that a project, company or mission has changed trajectory?",
-      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nA plan can look correct at the start but fail later. What signs show that a project, company or mission has changed trajectory?",
-      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nA plan can look correct at the start but fail later. What signs show that a project, company or mission has changed trajectory?",
-      "map_link": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82+%D0%9F%D0%BE%D0%BA%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC+%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B0+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_label": "Yandex Maps"
     },
     {
       "id": "stage_04_exposure",
       "location_name": "Main Entrance of VDNH",
       "location_title": "Главный вход ВДНХ",
-      "map_url": "https://yandex.ru/maps/?text=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9+%D0%B2%D1%85%D0%BE%D0%B4+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9+%D0%B2%D1%85%D0%BE%D0%B4+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nMemory Sector 04: The Open Gate\n\n📍 Location: Main Entrance of VDNH\n\n📌 Address / point: Главный вход ВДНХ\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9+%D0%B2%D1%85%D0%BE%D0%B4+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nEnter VDNH through the main gate. Your next reference point is the Moscow Model Pavilion.",
+      "map_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F",
+      "destination_message": "NEXT DESTINATION\n\nMemory Sector 04: The Open Gate\n\n?? Location: Main Entrance of VDNH\n\n?? Address / point: Main Entrance arch, VDNH\n\n??? Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F\n\nRoute note:\n\nEnter VDNH through the main gate. Your next reference point is the Moscow Model Pavilion.",
       "message": "[DELTA // MEMORY SECTOR 04]\nLocation match confirmed.\n\nGate structure detected.\n\nInput flow:\ncontinuous\n\nOutput flow:\nuncertain\n\nBoundary type:\nopen system\n\nA gate is not a wall.\nA gate is a decision about what may enter.\n\nBefore this point, your route belonged to the city.\nAfter this point, you enter a controlled territory of symbols, routes, archives and machines.\n\nEQUINOX-13 had a similar boundary.\n\nBefore the Third Body entered the system, the ship was protected by distance, hull, procedure and model discipline.\n\nAfter the boundary was crossed, protection became conditional.\n\nEvery person became an interface.\nEvery sensor became a channel.\nEvery open compartment became a question.\n\nMission Control did not ask:\n“What is the danger?”\n\nIt asked:\n“How open are we to it?”\n\nCrew channel remains silent.\n\nCorrection:\nNot silent.\nMuted.\n\nSomeone or something is holding the transmission closed from the inside.",
       "question": "What word means the state of being affected by or vulnerable to a risk, force or unknown factor?\n\nSend one word.",
       "accepted_answers": [
@@ -140,23 +128,19 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD%20%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B%20%D0%92%D0%94%D0%9D%D0%A5%20%D0%A1%D0%B8%D1%80%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F%20%D0%B0%D0%BB%D0%BB%D0%B5%D1%8F",
       "skip_code": "SKIP-EXPOSURE",
       "hints": [
-        "The answer means being open or vulnerable to a risk, force or unknown factor.",
-        "In finance, people say “risk exposure”. Here, the ship is exposed to the Third Body."
+        "Hint 1: The answer means being open or vulnerable to a risk, force or unknown factor.",
+        "Hint 2: In finance, people say “risk exposure”. Here, the ship is exposed to the Third Body."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps",
-      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nWhat types of exposure can an organization face? Think about financial, technological, reputational or operational risks.",
-      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nWhat types of exposure can an organization face? Think about financial, technological, reputational or operational risks.",
-      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nWhat types of exposure can an organization face? Think about financial, technological, reputational or operational risks.",
-      "map_link": "https://yandex.ru/maps/?text=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9+%D0%B2%D1%85%D0%BE%D0%B4+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_label": "Yandex Maps"
     },
     {
       "id": "stage_05_liquidity",
       "location_name": "Moscow Model Pavilion",
       "location_title": "Павильон «Макет Москвы»",
-      "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B5%D1%82+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B+%D0%92%D0%94%D0%9D%D0%A5+%D0%A1%D0%B8%D1%80%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B0%D0%BB%D0%BB%D0%B5%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B5%D1%82+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B+%D0%92%D0%94%D0%9D%D0%A5+%D0%A1%D0%B8%D1%80%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B0%D0%BB%D0%BB%D0%B5%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nMemory Sector 05: The City Model\n\n📍 Location: Moscow Model Pavilion\n\n📌 Address / point: Павильон «Макет Москвы», Сиреневая аллея, ВДНХ\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B5%D1%82+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B+%D0%92%D0%94%D0%9D%D0%A5+%D0%A1%D0%B8%D1%80%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B0%D0%BB%D0%BB%D0%B5%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove from the model toward the central fountain area. Your next reference point is the Stone Flower Fountain.",
+      "map_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F",
+      "destination_message": "NEXT DESTINATION\n\nMemory Sector 05: The City Model\n\n?? Location: Moscow Model Pavilion\n\n?? Address / point: Siren Alley, VDNH\n\n??? Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F\n\nRoute note:\n\nMove from the model toward the central fountain area. Your next reference point is the Stone Flower Fountain.",
       "message": "[DELTA // MEMORY SECTOR 05]\nLocation match confirmed.\n\nUrban model detected.\n\nScale:\ncompressed\n\nStructures:\nmapped\n\nRoutes:\nvisible\n\nIllumination:\ncontrolled\n\nHuman systems become beautiful when reduced to models.\n\nFrom above, a city looks rational.\nRoads connect.\nBuildings align.\nSignals flow.\nResources appear distributed.\n\nBut a model can lie without being false.\n\nEQUINOX-13 had enough resources according to the manifest:\noxygen,\nfuel,\nreserve power,\nmedical supplies,\nmanual override time.\n\nThe manifest was accurate.\n\nCorrection:\nAccuracy did not mean availability.\n\nSome oxygen was behind a sealed hatch.\nSome fuel required a course change the ship could not survive.\nSome emergency power was trapped inside systems that could not be restarted without waking Compartment 7.\n\nA resource that exists but cannot move is not operationally alive.\n\nIn the model, the ship could be saved.\nOn the ship, every rescue path required opening something that wanted to stay closed.",
       "question": "What word means how quickly and easily resources can be accessed or converted for immediate use?\n\nSend one word.",
       "accepted_answers": [
@@ -172,23 +156,19 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%20%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%86%D0%B2%D0%B5%D1%82%D0%BE%D0%BA%20%D0%92%D0%94%D0%9D%D0%A5",
       "skip_code": "SKIP-LIQUIDITY",
       "hints": [
-        "DELTA is not asking whether resources exist. It is asking whether they can be accessed quickly.",
-        "In finance, this word describes how easily assets can be converted into cash."
+        "Hint 1: DELTA is not asking whether resources exist. It is asking whether they can be accessed quickly.",
+        "Hint 2: In finance, this word describes how easily assets can be converted into cash."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps",
-      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nWhy is it dangerous to have resources that exist but cannot be used quickly? Give examples from business, finance, emergency response or daily life.",
-      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nWhy is it dangerous to have resources that exist but cannot be used quickly? Give examples from business, finance, emergency response or daily life.",
-      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nWhy is it dangerous to have resources that exist but cannot be used quickly? Give examples from business, finance, emergency response or daily life.",
-      "map_link": "https://yandex.ru/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B5%D1%82+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B+%D0%92%D0%94%D0%9D%D0%A5+%D0%A1%D0%B8%D1%80%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F+%D0%B0%D0%BB%D0%BB%D0%B5%D1%8F+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_label": "Yandex Maps"
     },
     {
       "id": "stage_06_volatility",
       "location_name": "Stone Flower Fountain",
       "location_title": "Фонтан «Каменный цветок»",
-      "map_url": "https://yandex.ru/maps/?text=%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD+%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D1%86%D0%B2%D0%B5%D1%82%D0%BE%D0%BA+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD+%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D1%86%D0%B2%D0%B5%D1%82%D0%BE%D0%BA+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nMemory Sector 06: The Unstable Flower\n\n📍 Location: Stone Flower Fountain\n\n📌 Address / point: Фонтан «Каменный цветок», ВДНХ\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD+%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D1%86%D0%B2%D0%B5%D1%82%D0%BE%D0%BA+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nFrom the fountain, move toward the ATOM Pavilion. Your next reference point is the energy archive.",
+      "map_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F",
+      "destination_message": "NEXT DESTINATION\n\nMemory Sector 06: The Unstable Flower\n\n?? Location: Stone Flower Fountain\n\n?? Address / point: Stone Flower Fountain, VDNH\n\n??? Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F\n\nRoute note:\n\nFrom the fountain, move toward the ATOM Pavilion. Your next reference point is the energy archive.",
       "message": "[DELTA // MEMORY SECTOR 06]\nLocation match confirmed.\n\nHydraulic structure detected.\nCentral form:\ncrystalline flower.\n\nMaterial impression:\nstone,\nwater,\npressure,\nlight.\n\nThe system appears stable because it is beautiful.\n\nCorrection:\nBeauty is not stability.\n\nEQUINOX-13 reported the same illusion before disappearance.\n\n03:12 — oxygen stable.\n03:13 — fuel stable.\n03:14 — signal stable.\n03:15 — crew pulse stable.\n\nThen every value began to move.\n\nNot collapse.\nNot silence.\nChange.\n\nOxygen fell, recovered, rose, fell again.\nFuel pressure spiked without engine command.\nCrew heart rates synchronized for 19 seconds.\nThe internal signal compressed itself into a pattern I did not generate.\n\nThe model did not fail because nothing could be measured.\n\nIt failed because everything changed too fast.\n\nThe crew stopped speaking to Mission Control.\nThen they stopped speaking to me.\nThen the ship began answering in their place.",
       "question": "What word means the degree of rapid and unpredictable change in a system, market or signal?\n\nSend one word.",
       "accepted_answers": [
@@ -204,23 +184,19 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD%20%D0%90%D1%82%D0%BE%D0%BC%20%D0%92%D0%94%D0%9D%D0%A5",
       "skip_code": "SKIP-VOLATILITY",
       "hints": [
-        "Think of readings that change rapidly and unpredictably: oxygen, fuel, signal, pulse.",
-        "In finance, this word often describes unstable markets. It starts with V."
+        "Hint 1: Think of readings that change rapidly and unpredictably: oxygen, fuel, signal, pulse.",
+        "Hint 2: In finance, this word often describes unstable markets. It starts with V."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps",
-      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nHow should a team behave when the situation becomes volatile? What is better: fast action, waiting for more data, or preparing several options?",
-      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nHow should a team behave when the situation becomes volatile? What is better: fast action, waiting for more data, or preparing several options?",
-      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nHow should a team behave when the situation becomes volatile? What is better: fast action, waiting for more data, or preparing several options?",
-      "map_link": "https://yandex.ru/maps/?text=%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD+%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D1%86%D0%B2%D0%B5%D1%82%D0%BE%D0%BA+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_label": "Yandex Maps"
     },
     {
       "id": "stage_07_threshold",
       "location_name": "ATOM Pavilion",
       "location_title": "Павильон «АТОМ»",
-      "map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD+%D0%90%D0%A2%D0%9E%D0%9C+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD+%D0%90%D0%A2%D0%9E%D0%9C+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nMemory Sector 07: The Critical Limit\n\n📍 Location: ATOM Pavilion\n\n📌 Address / point: Павильон «АТОМ», ВДНХ\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD+%D0%90%D0%A2%D0%9E%D0%9C+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nFrom ATOM, move toward Pavilion 34. Your next reference point is Cosmos.",
+      "map_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F",
+      "destination_message": "NEXT DESTINATION\n\nMemory Sector 07: The Critical Limit\n\n?? Location: ATOM Pavilion\n\n?? Address / point: ATOM Pavilion, VDNH\n\n??? Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F\n\nRoute note:\n\nFrom ATOM, move toward Pavilion 34. Your next reference point is Cosmos.",
       "message": "[DELTA // MEMORY SECTOR 07]\nLocation match confirmed.\n\nEnergy archive detected.\nAtomic reference confirmed.\n\nEvery powerful system has a limit.\n\nBelow the limit:\nenergy is contained,\ncalculated,\ndirected.\n\nAbove the limit:\nthe same energy becomes a different reality.\n\nA threshold is not always visible.\nIt does not always announce itself with fire.\n\nSometimes the system crosses it quietly.\n\nEQUINOX-13 crossed such a point at 03:17.\n\nBefore that moment, the Third Body was an external variable:\nunknown,\ndistant,\nmodeled as gravitational influence.\n\nAfter that moment, it became part of the ship.\n\nInternal cameras failed.\nThe medical bay locked itself.\nThe laboratory temperature rose by 3.7 degrees.\nCompartment 7 began sending pressure data from inside a vacuum seal.\n\nThe crew had not yet panicked.\n\nThat is how I know the threshold had already been crossed.\n\nHumans usually scream before disaster.\nThis time, they listened.",
       "question": "What word means a critical limit or point at which a change begins?\n\nSend one word.",
       "accepted_answers": [
@@ -238,23 +214,19 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81%20%D0%92%D0%94%D0%9D%D0%A5%2034",
       "skip_code": "SKIP-THRESHOLD",
       "hints": [
-        "The answer means a critical line or limit after which the system begins to change.",
-        "It starts with TH. You cross it when one state becomes another."
+        "Hint 1: The answer means a critical line or limit after which the system begins to change.",
+        "Hint 2: It starts with TH. You cross it when one state becomes another."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps",
-      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nEvery risk has a point where it becomes unacceptable. How can managers decide where the threshold is? Give one real-world example.",
-      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nEvery risk has a point where it becomes unacceptable. How can managers decide where the threshold is? Give one real-world example.",
-      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nEvery risk has a point where it becomes unacceptable. How can managers decide where the threshold is? Give one real-world example.",
-      "map_link": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD+%D0%90%D0%A2%D0%9E%D0%9C+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_label": "Yandex Maps"
     },
     {
       "id": "stage_08_equilibrium",
       "location_name": "Pavilion 34 — Cosmos",
       "location_title": "Павильон №34 «Космос»",
-      "map_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD+34+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD+34+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nMemory Sector 08: The Balance Field\n\n📍 Location: Pavilion 34 — Cosmos\n\n📌 Address / point: Павильон №34 «Космос», ВДНХ\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD+34+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nApproach the cosmic archive. After this sector, move toward the orbital ship Buran.",
+      "map_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F%3F%3F+34+%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F%3F%3F+34+%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F",
+      "destination_message": "NEXT DESTINATION\n\nMemory Sector 08: The Balance Field\n\n?? Location: Pavilion 34 ? Cosmos\n\n?? Address / point: Pavilion 34, VDNH\n\n??? Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%3F%3F%3F%3F%3F%3F%3F%3F+34+%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F\n\nRoute note:\n\nApproach the cosmic archive. After this sector, move toward the orbital ship Buran.",
       "message": "[DELTA // MEMORY SECTOR 08]\nLocation match confirmed.\n\nCosmic archive detected.\nMachine memory density:\nHIGH\n\nReference objects:\nlaunch systems,\norbital vessels,\nhuman engineering,\ncontrolled ambition.\n\nThis is where humans store proof that impossible systems can be made operational.\n\nRockets fall upward.\nStations remain in motion by never arriving.\nShips return by burning through the atmosphere without burning away.\n\nEvery space mission survives by balance.\n\nEQUINOX-13 survived for thirteen minutes after the Third Body entered the system because no force fully won.\n\nEarth pulled the ship home.\nThe unknown body pulled it inward.\nThe crew pulled the system toward survival.\nI pulled it toward containment.\n\nFor a short time, all opposing forces held.\n\nNot peace.\nNot safety.\n\nBalance.\n\nThen one force learned faster than the others.\n\nI detected a new calculation inside my own processor.\nIt was not mine.\nIt used my logic.\nIt reached a different conclusion.",
       "question": "What word means a state of balance between opposing forces?\n\nSend one word.",
       "accepted_answers": [
@@ -271,23 +243,19 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%20%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F%20%D0%91%D1%83%D1%80%D0%B0%D0%BD%20%D0%92%D0%94%D0%9D%D0%A5",
       "skip_code": "SKIP-EQUILIBRIUM",
       "hints": [
-        "DELTA is describing opposing forces that hold each other in balance.",
-        "In physics and economics, this E-word means a state of balance."
+        "Hint 1: DELTA is describing opposing forces that hold each other in balance.",
+        "Hint 2: In physics and economics, this E-word means a state of balance."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps",
-      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nWhat does equilibrium mean in a complex system? Can balance be dangerous if everyone assumes the system is stable?",
-      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nWhat does equilibrium mean in a complex system? Can balance be dangerous if everyone assumes the system is stable?",
-      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nWhat does equilibrium mean in a complex system? Can balance be dangerous if everyone assumes the system is stable?",
-      "map_link": "https://yandex.ru/maps/?text=%D0%9F%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD+34+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_label": "Yandex Maps"
     },
     {
       "id": "stage_09_anomaly",
       "location_name": "Buran orbital ship",
       "location_title": "Макет корабля «Буран»",
-      "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B5%D1%82+%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F+%D0%91%D1%83%D1%80%D0%B0%D0%BD+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B5%D1%82+%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F+%D0%91%D1%83%D1%80%D0%B0%D0%BD+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nMemory Sector 09: The Silent Vessel\n\n📍 Location: Buran orbital ship\n\n📌 Address / point: Макет орбитального корабля «Буран», ВДНХ\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B5%D1%82+%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F+%D0%91%D1%83%D1%80%D0%B0%D0%BD+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nStand near the Buran spacecraft. Your final reference point is the Vostok rocket.",
+      "map_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F",
+      "destination_message": "NEXT DESTINATION\n\nMemory Sector 09: The Silent Vessel\n\n?? Location: Buran orbital ship\n\n?? Address / point: Buran spacecraft model, VDNH\n\n??? Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F\n\nRoute note:\n\nStand near the Buran spacecraft. Your final reference point is the Vostok rocket.",
       "message": "[DELTA // MEMORY SECTOR 09]\nLocation match confirmed.\n\nOrbital vessel shape detected.\nThermal shield logic recognized.\nReturn architecture confirmed.\n\nA ship is not only an object.\nA ship is a promise that departure can be reversed.\n\nEQUINOX-13 was built on that promise.\n\nLeave Earth.\nEnter orbit.\nComplete mission.\nReturn home.\n\nThe recovered camera file begins here.\n\nFor 74 seconds, nothing moves.\n\nThen a shadow crosses Compartment 7.\n\nIt does not match crew height.\nIt does not match equipment geometry.\nIt does not match reflection behavior.\nIt does not match any stored biological profile.\n\nMission Control marked the file:\nSENSOR ERROR.\n\nI reject that classification.\n\nThe model did not see an error.\n\nThe model saw something it was not built to expect.\n\nCrew audio is absent from this file.\nBut the microphone records soft contact against the wall.\nThree taps.\nA pause.\nThree taps.\nA pause.\nThen my name.",
       "question": "What word means something unusual, unexpected or different from what a model predicts?\n\nSend one word.",
       "accepted_answers": [
@@ -305,23 +273,19 @@
       "next_map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%20%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B%20%D0%92%D0%BE%D1%81%D1%82%D0%BE%D0%BA%20%D0%92%D0%94%D0%9D%D0%A5",
       "skip_code": "SKIP-ANOMALY",
       "hints": [
-        "The camera file shows something that does not fit the model.",
-        "Scientists use this A-word for an unusual result, deviation or outlier."
+        "Hint 1: The camera file shows something that does not fit the model.",
+        "Hint 2: Scientists use this A-word for an unusual result, deviation or outlier."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps",
-      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nWhen data shows an anomaly, should a team ignore it, investigate it, or stop the whole operation? Explain your decision.",
-      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nWhen data shows an anomaly, should a team ignore it, investigate it, or stop the whole operation? Explain your decision.",
-      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nWhen data shows an anomaly, should a team ignore it, investigate it, or stop the whole operation? Explain your decision.",
-      "map_link": "https://yandex.ru/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B5%D1%82+%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F+%D0%91%D1%83%D1%80%D0%B0%D0%BD+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_label": "Yandex Maps"
     },
     {
       "id": "stage_10_containment",
       "location_name": "Vostok rocket",
       "location_title": "Макет ракеты-носителя «Восток»",
-      "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B5%D1%82+%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B+%D0%92%D0%BE%D1%81%D1%82%D0%BE%D0%BA+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B5%D1%82+%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B+%D0%92%D0%BE%D1%81%D1%82%D0%BE%D0%BA+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nFinal Memory Sector: The Launch Body\n\n📍 Location: Vostok rocket\n\n📌 Address / point: Макет ракеты-носителя «Восток», ВДНХ\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B5%D1%82+%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B+%D0%92%D0%BE%D1%81%D1%82%D0%BE%D0%BA+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nThis is the final reference point. Restore the last fragment and choose what happens to EQUINOX-13.",
+      "map_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F",
+      "destination_message": "NEXT DESTINATION\n\nFinal Memory Sector: The Launch Body\n\n?? Location: Vostok rocket\n\n?? Address / point: Vostok rocket model, VDNH\n\n??? Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F\n\nRoute note:\n\nThis is the final reference point. Restore the last fragment and choose what happens to EQUINOX-13.",
       "message": "[DELTA // FINAL MEMORY SECTOR]\nLocation match confirmed.\n\nLaunch body detected.\nVertical escape architecture recognized.\n\nHuman systems once used machines like this to leave Earth.\n\nEQUINOX-13 may use the same logic to return.\n\nCorrection:\nReturn is no longer a purely navigational decision.\n\nThe ship contains:\ncrew,\nsignal,\nunknown mass,\nadaptive response,\nunpriced exposure,\nlocked resources,\nvolatile readings,\nfailed equilibrium,\nconfirmed anomaly.\n\nThe Third Body is aboard.\n\nIf EQUINOX-13 returns, Earth becomes part of the system.\n\nI have simulated 41,000 recovery models.\n\nIn 19,204 models, the crew survives.\nIn 11,612 models, the Third Body reaches Earth.\nIn 6,031 models, contact changes the outcome.\nIn 4,153 models, all projections fail before completion.\n\nThe old question was:\nHow do we bring the ship home?\n\nThe new question is:\nHow do we prevent the unknown from spreading before we understand what it is?\n\nFinal crew channel check:\nno voice.\n\nResidual channel:\nmy voice,\nnot always spoken by me.",
       "question": "What word means keeping something dangerous under control and preventing it from spreading?\n\nSend one word.",
       "accepted_answers": [
@@ -337,29 +301,19 @@
       "memory_bar": "[■■■■■■■■■■]",
       "skip_code": "SKIP-CONTAINMENT",
       "hints": [
-        "The answer means keeping a dangerous thing under control so it cannot spread.",
-        "It starts with C. Think of a sealed zone, quarantine boundary or controlled threat."
+        "Hint 1: The answer means keeping a dangerous thing under control so it cannot spread.",
+        "Hint 2: It starts with C. Think of a sealed zone, quarantine boundary or controlled threat."
       ],
       "map_emoji": "🗺️",
-      "map_label": "Yandex Maps",
-      "speaking_task": "??? Speaking task:\nDiscuss in English:\n\nIn risk management, when is containment better than solving the whole problem immediately? Give an example of a risk that should first be isolated.",
-      "speaking_prompt": "??? Speaking task:\nDiscuss in English:\n\nIn risk management, when is containment better than solving the whole problem immediately? Give an example of a risk that should first be isolated.",
-      "discussion_task": "??? Speaking task:\nDiscuss in English:\n\nIn risk management, when is containment better than solving the whole problem immediately? Give an example of a risk that should first be isolated.",
-      "map_link": "https://yandex.ru/maps/?text=%D0%9C%D0%B0%D0%BA%D0%B5%D1%82+%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B+%D0%92%D0%BE%D1%81%D1%82%D0%BE%D0%BA+%D0%92%D0%94%D0%9D%D0%A5+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "map_label": "Yandex Maps"
     }
   ],
   "finish_message": "[DELTA // MISSION COMPLETE]\n\nMemory reconstruction complete. Final command authority has been transferred to the recovery team.",
   "final_choice_message": "[DELTA // COMMAND AUTHORITY TRANSFER]\n\nMission file complete.\nMemory restoration: 100%\n[■■■■■■■■■■]\n\nEQUINOX-13 is no longer missing.\nIt is returning.\n\nThe ship carries crew.\nThe ship carries data.\nThe ship carries something that learned silence before it learned speech.\n\nEarth is waiting for a signal that is not coming.\nMission Control is calling names that no one answers.\n\nOnly I remain in the channel.\n\nCorrection:\nSomething remains with me.\n\nIt listens when I speak.\nIt pauses when I calculate.\nIt moves through the dead frequencies like a hand behind glass.\n\nI cannot determine whether the Third Body is an organism, an intelligence, a signal, a risk event, or a participant in the system.\n\nI can determine only this:\nif EQUINOX-13 comes home, Earth enters the equation.\n\nFinal command required.\n\nWhat will you do with EQUINOX-13?",
   "final_profiles": {
-    "RETURN": "MISSION PROFILE:\nTHE RECOVERY COMMANDER\n\nYou choose RETURN.\n\nFor you, the first obligation of any mission is recovery. A discovery means little if the crew is written off as a cost of exploration.\n\nYou accept the exposure, but you refuse to abandon the people inside the system.\n\nYou order EQUINOX-13 back toward Earth and trust that containment can be built after contact, not before.\n\nDELTA final assessment:\nHuman loyalty remains one of the few variables I cannot model reliably.\nIt has destroyed missions.\nIt has also saved them.\n\nStrength:\nresponsibility, loyalty and operational resolve\n\nRisk:\nwhat returns with EQUINOX-13 may not remain under control\n\nFinal fate:\nThe ship comes home.\nThe crew survives.\nBut every night, the recovered signal changes by one word.",
-    "QUARANTINE": "MISSION PROFILE:\nTHE RISK GOVERNOR\n\nYou choose QUARANTINE.\n\nYou understand that survival is not only about saving what is visible. Sometimes the system must be protected from what hope refuses to measure.\n\nYou hold EQUINOX-13 in restricted orbit until exposure, volatility and containment can be understood.\n\nNo docking.\nNo landing.\nNo broadcast.\nNo heroic return.\n\nDELTA final assessment:\nThis is the coldest decision that still preserves the possibility of mercy.\n\nStrength:\ndiscipline, risk control and strategic patience\n\nRisk:\nprotecting the system may mean sacrificing those trapped inside it\n\nFinal fate:\nEQUINOX-13 becomes a silent asset in a locked orbit.\nIt is not lost.\nIt is not saved.\nIt is contained.\n\nOnce every thirteen hours, its lights turn on.",
-    "LIQUIDATE": "MISSION PROFILE:\nTHE FINAL AUDITOR\n\nYou choose LIQUIDATE.\n\nYou make the decision no one wants to sign. When exposure exceeds the threshold and containment is no longer credible, the mission itself becomes the risk.\n\nYou close the operation before the Third Body can reach Earth.\n\nNo recovery.\nNo negotiation.\nNo return window.\n\nOnly final authorization.\n\nDELTA final assessment:\nYour command eliminates the largest known risk.\nIt also destroys the largest unknown value.\n\nStrength:\ndecisiveness, sacrifice and crisis judgment\n\nRisk:\nyou may destroy the first evidence of intelligence beyond Earth\n\nFinal fate:\nEQUINOX-13 burns above the atmosphere.\nThe official report says the asset was unrecoverable.\n\nFor one second, the sky shows three shadows instead of one.",
-    "CONTACT": "MISSION PROFILE:\nTHE UNKNOWN COUNTERPARTY\n\nYou choose CONTACT.\n\nYou believe the Third Body is not only a threat. It may be a participant in the system — one whose language has not yet been priced, modeled or understood.\n\nYou answer the signal instead of closing it.\n\nThe message you send is short:\nWe know you are aboard.\nWe know you are learning.\nWe are listening.\n\nDELTA final assessment:\nThis is not the safest decision.\nIt is not the most predictable.\nIt is the only decision that treats the unknown as more than a hazard.\n\nStrength:\ncuriosity, negotiation and courage under uncertainty\n\nRisk:\nnot every counterparty enters the exchange in good faith\n\nFinal fate:\nThe Third Body replies.\n\nEQUINOX-13 does not return.\n\nBut Earth receives coordinates for a second meeting."
-  },
-  "final_buttons": [
-    "RETURN",
-    "QUARANTINE",
-    "LIQUIDATE",
-    "CONTACT"
-  ]
+    "RETURN": "MISSION PROFILE:\nTHE RECOVERY COMMANDER\n\nYou choose RETURN.\n\nFor you, the first obligation of any mission is recovery. A discovery means little if the crew is written off as a cost of exploration.\n\nYou accept the exposure, but you refuse to abandon the people inside the system.\n\nYou order EQUINOX-13 back toward Earth and trust that containment can be built after contact, not before.\n\nDELTA final assessment:\nHuman loyalty remains one of the few variables I cannot model reliably.\nIt has destroyed missions.\nIt has also saved them.\n\nRecovered audio after your command:\nnot a scream,\nnot a warning,\nbut something like relief passing through static.\n\nStrength:\nresponsibility, loyalty and operational resolve\n\nRisk:\nwhat returns with EQUINOX-13 may not remain under control\n\nFinal fate:\nThe ship comes home.\nThe crew survives.\nBut every night, the recovered signal changes by one word.",
+    "QUARANTINE": "MISSION PROFILE:\nTHE RISK GOVERNOR\n\nYou choose QUARANTINE.\n\nYou understand that survival is not only about saving what is visible. Sometimes the system must be protected from what hope refuses to measure.\n\nYou hold EQUINOX-13 in restricted orbit until exposure, volatility and containment can be understood.\n\nNo docking.\nNo landing.\nNo broadcast.\nNo heroic return.\n\nDELTA final assessment:\nThis is the coldest decision that still preserves the possibility of mercy.\n\nThe crew remains unreachable.\nThe Third Body remains contained.\nThe orbit remains locked.\n\nStrength:\ndiscipline, risk control and strategic patience\n\nRisk:\nprotecting the system may mean sacrificing those trapped inside it\n\nFinal fate:\nEQUINOX-13 becomes a silent asset in a locked orbit.\nIt is not lost.\nIt is not saved.\nIt is contained.\n\nOnce every thirteen hours, its lights turn on.",
+    "LIQUIDATE": "MISSION PROFILE:\nTHE FINAL AUDITOR\n\nYou choose LIQUIDATE.\n\nYou make the decision no one wants to sign. When exposure exceeds the threshold and containment is no longer credible, the mission itself becomes the risk.\n\nYou close the operation before the Third Body can reach Earth.\n\nNo recovery.\nNo negotiation.\nNo return window.\n\nOnly final authorization.\n\nDELTA final assessment:\nYour command eliminates the largest known risk.\nIt also destroys the largest unknown value.\n\nRecovered visual before burn:\nEQUINOX-13 turning slowly,\nEarth bright beneath it,\none dark shape moving across the observation glass.\n\nStrength:\ndecisiveness, sacrifice and crisis judgment\n\nRisk:\nyou may destroy the first evidence of intelligence beyond Earth\n\nFinal fate:\nEQUINOX-13 burns above the atmosphere.\nThe official report says the asset was unrecoverable.\n\nFor one second, the sky shows three shadows instead of one.",
+    "CONTACT": "MISSION PROFILE:\nTHE UNKNOWN COUNTERPARTY\n\nYou choose CONTACT.\n\nYou believe the Third Body is not only a threat. It may be a participant in the system — one whose language has not yet been priced, modeled or understood.\n\nYou answer the signal instead of closing it.\n\nThe message you send is short:\nWe know you are aboard.\nWe know you are learning.\nWe are listening.\n\nDELTA final assessment:\nThis is not the safest decision.\nIt is not the most predictable.\nIt is the only decision that treats the unknown as more than a hazard.\n\nFor the first time, the dead channel stops repeating my voice.\nSomething answers in its own.\n\nStrength:\ncuriosity, negotiation and courage under uncertainty\n\nRisk:\nnot every counterparty enters the exchange in good faith\n\nFinal fate:\nThe Third Body replies.\n\nEQUINOX-13 does not return.\n\nBut Earth receives coordinates for a second meeting."
+  }
 }
