@@ -30,7 +30,10 @@
       "wrong_reply": "Too fast. That is how The Feed wins.\n\nLook again at the building’s former function. The answer is not about art yet. It is about what powered the modern city.",
       "success_reply": "Correct.\n\nFrame 1 restored: SOURCE.\n\nThe Feed depends on this force, but it wants you to forget the real infrastructure behind the screen.\n\nFragment 1 unlocked:\n\nKEEP",
       "speaking_task": "Discuss in English:\n\nWhat real-world systems does the digital world depend on? Name at least three.",
-      "next_directions": "Next frame: stay near GES-2. Move to a point where you can see the roofline and the vertical industrial elements of the building. Type ARRIVED when your team is ready."
+      "next_directions": "Next frame: stay near GES-2. Move to a point where you can see the roofline and the vertical industrial elements of the building. Type ARRIVED when your team is ready.",
+      "map_url": "https://yandex.ru/maps/?text=GES-2+House+of+Culture%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=GES-2+House+of+Culture%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nGES-2 House of Culture\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=GES-2+House+of+Culture%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "L2",
@@ -63,7 +66,10 @@
       "wrong_reply": "The Feed has cropped your view too low.\n\nRaise your eyes and look for the parts of the building that point upward.",
       "success_reply": "Correct.\n\nFrame 2 restored: MEMORY.\n\nThe Feed cuts off the top of the picture. You looked up and found what the image usually hides.\n\nFragment 2 unlocked:\n\nTHE",
       "speaking_task": "Describe what people usually miss when they look at buildings only through a phone camera.",
-      "next_directions": "Next frame: move to the embankment / waterline near GES-2, where you can see the building and the water. Type ARRIVED when your team is ready."
+      "next_directions": "Next frame: move to the embankment / waterline near GES-2, where you can see the building and the water. Type ARRIVED when your team is ready.",
+      "map_url": "https://yandex.ru/maps/?text=GES-2+Roofline+%2F+Industrial+Elements%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=GES-2+Roofline+%2F+Industrial+Elements%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nGES-2 Roofline / Industrial Elements\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=GES-2+Roofline+%2F+Industrial+Elements%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "L3",
@@ -91,7 +97,10 @@
       "wrong_reply": "The Feed gives you copies and hopes you forget the original.\n\nLook at the water again. Name the visual effect, not the building.",
       "success_reply": "Correct.\n\nFrame 3 restored: COPY.\n\nThe Feed gives you copies. The real world gives you the source.\n\nFragment 3 unlocked:\n\nCITY",
       "speaking_task": "Discuss:\n\nCan an online image ever show the full reality of a place? Why or why not?",
-      "next_directions": "Next frame: go to the Patriarchal Bridge, the pedestrian bridge over the river. Type ARRIVED when your team is ready."
+      "next_directions": "Next frame: go to the Patriarchal Bridge, the pedestrian bridge over the river. Type ARRIVED when your team is ready.",
+      "map_url": "https://yandex.ru/maps/?text=Embankment+%2F+Waterline+near+GES-2%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Embankment+%2F+Waterline+near+GES-2%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nEmbankment / Waterline near GES-2\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Embankment+%2F+Waterline+near+GES-2%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "L4",
@@ -118,7 +127,10 @@
       "wrong_reply": "That answer moves too quickly.\n\nThink about the physical structure that makes this crossing possible.",
       "success_reply": "Correct.\n\nFrame 4 restored: CONNECTION.\n\nThe Feed skips distance. You crossed it.\n\nFragment 4 unlocked:\n\nREAL",
       "speaking_task": "Explain the difference between “skipping” and “crossing” using this place as an example.",
-      "next_directions": "Next frame: move to a safe viewing point where you can see the large monument rising above the river. Type ARRIVED when your team is ready."
+      "next_directions": "Next frame: move to a safe viewing point where you can see the large monument rising above the river. Type ARRIVED when your team is ready.",
+      "map_url": "https://yandex.ru/maps/?text=Patriarchal+Bridge%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Patriarchal+Bridge%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nPatriarchal Bridge\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Patriarchal+Bridge%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "L5",
@@ -147,7 +159,10 @@
       "wrong_reply": "The Feed wants an instant reaction to the monument.\n\nI need slower looking. Do not focus only on the person. Notice what carries the story.",
       "success_reply": "Correct.\n\nFrame 5 restored: SCALE.\n\nThe Feed wants instant reaction. You gave careful attention.\n\nFragment 5 unlocked:\n\nBEFORE",
       "speaking_task": "Discuss:\n\nWhy do large public monuments often create arguments? Use the phrase “because they…”",
-      "next_directions": "Next frame: continue toward Krymskaya Embankment until you can see different pedestrian routes or levels. Type ARRIVED when your team is ready."
+      "next_directions": "Next frame: continue toward Krymskaya Embankment until you can see different pedestrian routes or levels. Type ARRIVED when your team is ready.",
+      "map_url": "https://yandex.ru/maps/?text=View+toward+the+Large+Monument+on+the+River%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=View+toward+the+Large+Monument+on+the+River%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nView toward the Large Monument on the River\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=View+toward+the+Large+Monument+on+the+River%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "L6",
@@ -178,7 +193,10 @@
       "wrong_reply": "The Feed gives one endless path.\n\nThe city gives alternatives. Look again at how people can move through this space.",
       "success_reply": "Correct.\n\nFrame 6 restored: CHOICE.\n\nThe Feed gives one endless path. The city gives alternatives.\n\nFragment 6 unlocked:\n\nTHE",
       "speaking_task": "Discuss:\n\nHow does your route change what you notice in a city? Give one example from this embankment.",
-      "next_directions": "Next frame: enter Muzeon Park of Arts and find the area with sculptures. Type ARRIVED when your team is ready."
+      "next_directions": "Next frame: enter Muzeon Park of Arts and find the area with sculptures. Type ARRIVED when your team is ready.",
+      "map_url": "https://yandex.ru/maps/?text=Krymskaya+Embankment%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Krymskaya+Embankment%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nKrymskaya Embankment\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Krymskaya+Embankment%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "L7",
@@ -207,7 +225,10 @@
       "wrong_reply": "The Feed has made you think in flat images.\n\nLook for objects with volume, weight and space around them.",
       "success_reply": "Correct.\n\nFrame 7 restored: PRESENCE.\n\nThe Feed gives flat images. The real world gives bodies, weight and space.\n\nFragment 7 unlocked:\n\nFEED",
       "speaking_task": "Choose one object nearby.\n\nDescribe it in three sentences:\n1. What do you see?\n2. How does it make you feel?\n3. Why would a photo of it be incomplete?",
-      "next_directions": "Next frame: find a physical map, board or navigation sign in Muzeon. Type ARRIVED when your team is ready."
+      "next_directions": "Next frame: find a physical map, board or navigation sign in Muzeon. Type ARRIVED when your team is ready.",
+      "map_url": "https://yandex.ru/maps/?text=Muzeon+Park+of+Arts+%2F+Sculptures%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Muzeon+Park+of+Arts+%2F+Sculptures%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nMuzeon Park of Arts / Sculptures\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Muzeon+Park+of+Arts+%2F+Sculptures%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "L8",
@@ -238,7 +259,10 @@
       "wrong_reply": "The Feed wants you to open an app.\n\nI need you to find the offline guide that helps people orient themselves in real space.",
       "success_reply": "Correct.\n\nFrame 8 restored: ORIENTATION.\n\nThe Feed tracks you. The city can guide you without watching you.\n\nFragment 8 unlocked:\n\nMAKES",
       "speaking_task": "Discuss:\n\nWhat is the difference between using a phone map and using a physical map? Mention privacy, attention and memory.",
-      "next_directions": "Next frame: go to the New Tretyakov Gallery and stand where you can see the building name. Type ARRIVED when your team is ready."
+      "next_directions": "Next frame: go to the New Tretyakov Gallery and stand where you can see the building name. Type ARRIVED when your team is ready.",
+      "map_url": "https://yandex.ru/maps/?text=Muzeon+Map+%2F+Navigation+Board%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Muzeon+Map+%2F+Navigation+Board%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nMuzeon Map / Navigation Board\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Muzeon+Map+%2F+Navigation+Board%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "L9",
@@ -266,7 +290,10 @@
       "wrong_reply": "The Feed is a stream.\n\nThis place is not a stream. It selects, keeps and presents visual art. Look again at the type of institution.",
       "success_reply": "Correct.\n\nFrame 9 restored: CURATED MEMORY.\n\nThe Feed remembers your reactions. A cultural institution remembers works, contexts and meanings.\n\nFragment 9 unlocked:\n\nIT",
       "speaking_task": "Discuss:\n\nWhat is the difference between an algorithmic feed and a curated collection? Use the words “attention” and “memory”.",
-      "next_directions": "Next frame: move to the final point near Gorky Park. Type ARRIVED when your team is ready."
+      "next_directions": "Next frame: move to the final point near Gorky Park. Type ARRIVED when your team is ready.",
+      "map_url": "https://yandex.ru/maps/?text=New+Tretyakov+Gallery%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=New+Tretyakov+Gallery%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nNew Tretyakov Gallery\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=New+Tretyakov+Gallery%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "L10",
@@ -296,7 +323,10 @@
       "wrong_reply": "That answer is close, but my warning is about depth.\n\nThe Feed does not only make the city faster or louder. It can remove space, weight and volume.\n\nTry one word that describes a world without depth.",
       "success_reply": "You restored the missing reel.\n\nKEEP THE CITY REAL BEFORE THE FEED MAKES IT FLAT.\n\nThe Feed wanted the city to become content. You found depth, distance, weight, memory and space.\n\nYou did not just pass through the city. You read it as a real place.\n\nFinal voice task:\nRecord a 60-second team message in English.\n\nAnswer this question:\nWhat part of today’s route felt most real to you, and what would The Feed probably flatten, crop or hide?",
       "speaking_task": "Final team task:\nRecord a 60-second voice message in English answering the final question.",
-      "next_directions": "The quest is complete."
+      "next_directions": "The quest is complete.",
+      "map_url": "https://yandex.ru/maps/?text=Gorky+Park+%2F+Final+Point%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Gorky+Park+%2F+Final+Point%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nGorky Park / Final Point\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Gorky+Park+%2F+Final+Point%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     }
   ],
   "quest_id": "missing_reel",

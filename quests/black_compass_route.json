@@ -40,7 +40,10 @@
       "next_directions": "Proceed to the Upper Cable Car Station / viewpoint area. You do not need to ride the cable car; use the view and the route as your clue.",
       "fragment": "INVENTORY",
       "skip_code": "SKIP01",
-      "speaking_task": ""
+      "speaking_task": "",
+      "map_url": "https://yandex.ru/maps/?text=Vorobyovy+Gory+Observation+Deck%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Vorobyovy+Gory+Observation+Deck%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nVorobyovy Gory Observation Deck\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Vorobyovy+Gory+Observation+Deck%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "stage_02_delay",
@@ -65,7 +68,10 @@
       "next_directions": "Go down toward Andreevskaya Embankment and find the river path.",
       "fragment": "DELAY",
       "skip_code": "SKIP02",
-      "speaking_task": ""
+      "speaking_task": "",
+      "map_url": "https://yandex.ru/maps/?text=Upper+Cable+Car+Station+%2F+Viewpoint+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Upper+Cable+Car+Station+%2F+Viewpoint+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nUpper Cable Car Station / Viewpoint Area\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Upper+Cable+Car+Station+%2F+Viewpoint+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "stage_03_freight",
@@ -90,7 +96,10 @@
       "next_directions": "Continue toward Andreevsky / Pushkinsky Pedestrian Bridge.",
       "fragment": "FREIGHT",
       "skip_code": "SKIP03",
-      "speaking_task": ""
+      "speaking_task": "",
+      "map_url": "https://yandex.ru/maps/?text=Andreevskaya+Embankment%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Andreevskaya+Embankment%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nAndreevskaya Embankment\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Andreevskaya+Embankment%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "stage_04_bottleneck",
@@ -115,7 +124,10 @@
       "next_directions": "Enter the Neskuchny Garden side and head toward the Hunting Lodge area.",
       "fragment": "BOTTLENECK",
       "skip_code": "SKIP04",
-      "speaking_task": ""
+      "speaking_task": "",
+      "map_url": "https://yandex.ru/maps/?text=Andreevsky+%2F+Pushkinsky+Pedestrian+Bridge%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Andreevsky+%2F+Pushkinsky+Pedestrian+Bridge%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nAndreevsky / Pushkinsky Pedestrian Bridge\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Andreevsky+%2F+Pushkinsky+Pedestrian+Bridge%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "stage_05_procurement",
@@ -139,7 +151,10 @@
       "next_directions": "Continue through Neskuchny Garden paths. The False Merchant waits somewhere among the trees.",
       "fragment": "PROCUREMENT",
       "skip_code": "SKIP05",
-      "speaking_task": ""
+      "speaking_task": "",
+      "map_url": "https://yandex.ru/maps/?text=Neskuchny+Garden%2C+Hunting+Lodge+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Neskuchny+Garden%2C+Hunting+Lodge+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nNeskuchny Garden, Hunting Lodge Area\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Neskuchny+Garden%2C+Hunting+Lodge+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "stage_06_supplier",
@@ -163,7 +178,10 @@
       "next_directions": "Move toward Pushkinskaya Embankment / river pier area.",
       "fragment": "SUPPLIER",
       "skip_code": "SKIP06",
-      "speaking_task": ""
+      "speaking_task": "",
+      "map_url": "https://yandex.ru/maps/?text=Neskuchny+Garden+Paths%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Neskuchny+Garden+Paths%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nNeskuchny Garden Paths\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Neskuchny+Garden+Paths%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "stage_07_warehouse",
@@ -187,7 +205,10 @@
       "next_directions": "Proceed to Golitsyn Pond in Gorky Park.",
       "fragment": "WAREHOUSE",
       "skip_code": "SKIP07",
-      "speaking_task": ""
+      "speaking_task": "",
+      "map_url": "https://yandex.ru/maps/?text=Pushkinskaya+Embankment+%2F+River+Pier+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Pushkinskaya+Embankment+%2F+River+Pier+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nPushkinskaya Embankment / River Pier Area\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Pushkinskaya+Embankment+%2F+River+Pier+Area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "stage_08_distribution",
@@ -211,7 +232,10 @@
       "next_directions": "Walk toward Krymskaya Embankment / Muzeon waterfront.",
       "fragment": "DISTRIBUTION",
       "skip_code": "SKIP08",
-      "speaking_task": ""
+      "speaking_task": "",
+      "map_url": "https://yandex.ru/maps/?text=Golitsyn+Pond%2C+Gorky+Park%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Golitsyn+Pond%2C+Gorky+Park%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nGolitsyn Pond, Gorky Park\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Golitsyn+Pond%2C+Gorky+Park%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "stage_09_logistics",
@@ -235,7 +259,10 @@
       "next_directions": "Go to the Monument to Peter I for the final route trial.",
       "fragment": "LOGISTICS",
       "skip_code": "SKIP09",
-      "speaking_task": ""
+      "speaking_task": "",
+      "map_url": "https://yandex.ru/maps/?text=Krymskaya+Embankment+%2F+Muzeon+Waterfront%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Krymskaya+Embankment+%2F+Muzeon+Waterfront%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nKrymskaya Embankment / Muzeon Waterfront\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Krymskaya+Embankment+%2F+Muzeon+Waterfront%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "stage_10_tariffs",
@@ -262,7 +289,10 @@
       "next_directions": "Stay near the Monument to Peter I. The Captain’s Trial begins here.",
       "fragment": "TARIFFS",
       "skip_code": "SKIP10",
-      "speaking_task": ""
+      "speaking_task": "",
+      "map_url": "https://yandex.ru/maps/?text=Monument+to+Peter+I%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Monument+to+Peter+I%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nMonument to Peter I\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Monument+to+Peter+I%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     }
   ],
   "finish_message": "The route has been restored. Now choose what your crew will do with the Cargo of Eternity.",

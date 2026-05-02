@@ -32,7 +32,10 @@
       "wrong_reply": "INPUT REJECTED.\n\nThe system does not require the name of a building, a bank or a policy rate. It requires the type of property-backed loan that can turn private debt into systemic pressure.",
       "success_reply": "INPUT ACCEPTED.\n\nVECTOR_01 RESTORED:\nMORTGAGE.\n\nCrisis Constructor analysis:\nThe first vector has been identified. The crisis chain often begins where debt looks safest, because the most dangerous leverage is the kind that society has learned to call normal.\n\nThreat chain progress: 12.5%.\n\nMIDAS RESPONSE:\n“They found the door before the house began to burn. Adjusting sequence.”\n\nFragment unlocked: TRUST",
       "speaking_task": "While walking, discuss: Why can a mortgage look safe for one family but dangerous when millions of similar loans exist in the system? Use at least three words: property, debt, income, rate, risk.",
-      "next_directions": "Next stage: currency pressure zone near Neglinnaya Street / Kuznetsky Most. Move towards the nearby bank and exchange-service facades where currency and banking signals are visible. Type ARRIVED when your analytical unit is ready."
+      "next_directions": "Next stage: currency pressure zone near Neglinnaya Street / Kuznetsky Most. Move towards the nearby bank and exchange-service facades where currency and banking signals are visible. Type ARRIVED when your analytical unit is ready.",
+      "map_url": "https://yandex.ru/maps/?text=Bank+of+Russia%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Bank+of+Russia%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nBank of Russia\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Bank+of+Russia%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "B2",
@@ -60,7 +63,10 @@
       "wrong_reply": "INPUT REJECTED.\n\nThe system does not require USD, EUR or RUB. It requires the term for the gap that appears when confidence becomes more expensive to maintain.",
       "success_reply": "INPUT ACCEPTED.\n\nVECTOR_02 RESTORED:\nSPREAD.\n\nCrisis Constructor analysis:\nThe currency itself has not collapsed, but the market has begun charging extra for uncertainty, and that is often how fear enters the price system before it enters the headlines.\n\nThreat chain progress: 25%.\n\nMIDAS TRACE:\n“The gap spoke before the crowd knew it was listening.”\n\nFragment unlocked: IS",
       "speaking_task": "Discuss: Why might a widening gap between buy and sell prices make ordinary people more nervous, even if they do not fully understand market mechanics?",
-      "next_directions": "Next stage: Moscow Exchange. Walk to Bolshoy Kislovsky Lane, 13. Stand outside the building; do not enter. Type ARRIVED when ready."
+      "next_directions": "Next stage: Moscow Exchange. Walk to Bolshoy Kislovsky Lane, 13. Stand outside the building; do not enter. Type ARRIVED when ready.",
+      "map_url": "https://yandex.ru/maps/?text=Bank+and+currency+signage+zone%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Bank+and+currency+signage+zone%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nBank and currency signage zone\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Bank+and+currency+signage+zone%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "B3",
@@ -87,7 +93,10 @@
       "wrong_reply": "INPUT REJECTED.\n\nThe answer is not a stock, bond or option. The target is a contract whose purpose is to exchange exposure between parties.",
       "success_reply": "INPUT ACCEPTED.\n\nVECTOR_03 RESTORED:\nSWAP.\n\nCrisis Constructor analysis:\nThe first hidden obligation has been mapped. Exposure remains dangerous, but it is no longer invisible, and invisibility is the condition under which Midas prefers risk to grow.\n\nThreat chain progress: 37.5%.\n\nMIDAS TRACE:\n“They insured the fire, then forgot who sold the water.”\n\nFragment unlocked: THE",
       "speaking_task": "Discuss: Why can a hidden promise be more dangerous than a visible loss? Use the words contract, risk, obligation.",
-      "next_directions": "Next stage: Central Telegraph. Walk to Tverskaya Street, 7. Use safe crossings and stand aside from entrances. Type ARRIVED when ready."
+      "next_directions": "Next stage: Central Telegraph. Walk to Tverskaya Street, 7. Use safe crossings and stand aside from entrances. Type ARRIVED when ready.",
+      "map_url": "https://yandex.ru/maps/?text=Moscow+Exchange+office",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Moscow+Exchange+office",
+      "destination_message": "Destination:\nMoscow Exchange office\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Moscow+Exchange+office"
     },
     {
       "id": "B4",
@@ -114,7 +123,10 @@
       "wrong_reply": "INPUT REJECTED.\n\nMidas is not attacking cash directly at this stage. He is attacking behaviour, because behaviour can move faster than regulation.",
       "success_reply": "INPUT ACCEPTED.\n\nVECTOR_04 RESTORED:\nPANIC.\n\nCrisis Constructor analysis:\nThe behavioural trigger has been identified before release, which reduces the probability of a withdrawal cascade, although the system remains vulnerable while the final vectors are still active.\n\nThreat chain progress: 50%.\n\nMIDAS LIVE INTERRUPTION:\n“You keep stopping the mechanisms. You have not stopped the reason they work.”\n\nFragment unlocked: LAST",
       "speaking_task": "Discuss: Why can an individually rational decision become collectively destructive when everyone makes it at once?",
-      "next_directions": "Next stage: digital reserves layer. Stay near the Central Telegraph area, but move to a safe place where your team can read and discuss without blocking the pavement. Type ARRIVED when ready."
+      "next_directions": "Next stage: digital reserves layer. Stay near the Central Telegraph area, but move to a safe place where your team can read and discuss without blocking the pavement. Type ARRIVED when ready.",
+      "map_url": "https://yandex.ru/maps/?text=Central+Telegraph%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Central+Telegraph%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nCentral Telegraph\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Central+Telegraph%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "B5",
@@ -142,7 +154,10 @@
       "wrong_reply": "INPUT REJECTED.\n\nThe answer is not crypto, token, blockchain or dollar. The system requests the backing that makes the promise credible.",
       "success_reply": "INPUT ACCEPTED.\n\nVECTOR_05 RESTORED:\nRESERVES.\n\nCrisis Constructor analysis:\nThe digital promise has been connected to the material support required to make it credible. The reserve attack is contained, but the confidence layer remains unstable.\n\nThreat chain progress: 62.5%.\n\nMIDAS TRACE:\n“A coin is stable until everyone asks the same question at the same time.”\n\nFragment unlocked: RESERVE",
       "speaking_task": "Discuss: Why is the sentence “trust me” never enough in finance?",
-      "next_directions": "Next stage: Ministry of Finance. Walk to Ilyinka Street, 9. Do not enter the building; solve the vector from outside. Type ARRIVED when ready."
+      "next_directions": "Next stage: Ministry of Finance. Walk to Ilyinka Street, 9. Do not enter the building; solve the vector from outside. Type ARRIVED when ready.",
+      "map_url": "https://yandex.ru/maps/?text=Tverskaya+Square+%2F+Moscow+City+Duma+area",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Tverskaya+Square+%2F+Moscow+City+Duma+area",
+      "destination_message": "Destination:\nTverskaya Square / Moscow City Duma area\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Tverskaya+Square+%2F+Moscow+City+Duma+area"
     },
     {
       "id": "B6",
@@ -169,7 +184,10 @@
       "wrong_reply": "INPUT REJECTED.\n\nThe answer is not wealth, profit or capital. The crisis variable is the speed with which value can become usable cash.",
       "success_reply": "INPUT ACCEPTED.\n\nVECTOR_06 RESTORED:\nLIQUIDITY.\n\nCrisis Constructor analysis:\nThe freeze point has been identified, and the emergency timing window has reopened. The system can still move, but only if the final macroeconomic vector is contained.\n\nThreat chain progress: 75%.\n\nMIDAS RESPONSE:\n“You found the water before the fire reached the vault. Proceed while the pipes still hold.”\n\nFragment unlocked: IS",
       "speaking_task": "Discuss: What is the difference between being rich and being able to pay today?",
-      "next_directions": "Next stage: historical Exchange building. Walk to Ilyinka Street, 6/1, building 1 / Birzhevaya Square area. Type ARRIVED when ready."
+      "next_directions": "Next stage: historical Exchange building. Walk to Ilyinka Street, 6/1, building 1 / Birzhevaya Square area. Type ARRIVED when ready.",
+      "map_url": "https://yandex.ru/maps/?text=Ministry+of+Finance+of+the+Russian+Federation%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Ministry+of+Finance+of+the+Russian+Federation%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nMinistry of Finance of the Russian Federation\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Ministry+of+Finance+of+the+Russian+Federation%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "B7",
@@ -199,7 +217,10 @@
       "wrong_reply": "INPUT REJECTED.\n\nThe submitted answer describes market stress, but the system now requires the term for the wider economic damage that follows when financial pressure reaches households, firms and employment.",
       "success_reply": "INPUT ACCEPTED.\n\nVECTOR_07 RESTORED:\nRECESSION.\n\nCrisis Constructor analysis:\nThe crisis has crossed from financial architecture into the real economy. Midas was not trying to crash a screen; he was trying to make the damage leave the screen and enter ordinary life.\n\nThreat chain progress: 87.5%.\n\nMIDAS LIVE CHANNEL:\n“You found the fall. Now tell me what keeps people from jumping first.”\n\nFragment unlocked: THE",
       "speaking_task": "Discuss: Why is a recession more frightening than a market correction? Use at least three words: jobs, spending, credit, companies, households, confidence.",
-      "next_directions": "Final stage: Zero Kilometre / Manezhnaya Square area. Return towards the symbolic starting point near Resurrection Gate. Type ARRIVED when ready."
+      "next_directions": "Final stage: Zero Kilometre / Manezhnaya Square area. Return towards the symbolic starting point near Resurrection Gate. Type ARRIVED when ready.",
+      "map_url": "https://yandex.ru/maps/?text=Historical+Exchange+Building%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Historical+Exchange+Building%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nHistorical Exchange Building\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Historical+Exchange+Building%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     },
     {
       "id": "B8",
@@ -226,7 +247,10 @@
       "wrong_reply": "INPUT REJECTED.\n\nMidas expected a technical answer. The final reserve is not stored in a vault, written in code or printed by authority.",
       "success_reply": "INPUT ACCEPTED.\n\nVECTOR_08 RESTORED:\nTRUST.\n\nCRISIS PROTOCOL: BALANCE ACTIVATED.\n\nFINAL MESSAGE RESTORED:\n\nTRUST IS THE LAST RESERVE.\n\nEcho-Zero execution interrupted.\nMarket panic cascade: contained.\nDigital reserve attack: isolated.\nLiquidity freeze: delayed.\nRecession trigger: neutralised.\n\nMIDAS CONNECTION LOST.\n\nLast intercepted line:\n“You have delayed the collapse, not because the system is invincible, but because someone still believes promises can be kept. For now.”\n\nFragment unlocked: RESERVE",
       "speaking_task": "Final team report: Which vector was the most dangerous, and why? Use at least four terms: mortgage, spread, swap, panic, reserves, liquidity, recession, trust.",
-      "next_directions": "The protocol is complete."
+      "next_directions": "The protocol is complete.",
+      "map_url": "https://yandex.ru/maps/?text=Zero+Kilometre+%2F+Manezhnaya+Square+area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=Zero+Kilometre+%2F+Manezhnaya+Square+area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "Destination:\nZero Kilometre / Manezhnaya Square area\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=Zero+Kilometre+%2F+Manezhnaya+Square+area%2C+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
     }
   ]
 }
