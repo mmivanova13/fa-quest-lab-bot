@@ -119,10 +119,10 @@
     {
       "id": "B5",
       "title": "Stage 5: Stability Claim",
-      "location_name": "Central Telegraph / digital infrastructure zone",
-      "address": "Tverskaya Street, 7",
+      "location_name": "Tverskaya Square / Moscow City Duma area",
+      "address": "Tverskaya Street, 13 / Tverskaya Square",
       "coordinates": "55.7586, 37.6109",
-      "map_link": "https://yandex.ru/maps/?text=Central%20Telegraph%20/%20digital%20infrastructure%20zone%2C%20Tverskaya%20Street%2C%207%2C%20Stage%205%3A%20Stability%20Claim",
+      "map_link": "https://yandex.ru/maps/?text=Tverskaya%20Street%2013%20Tverskaya%20Square%20Moscow",
       "expected_answer": "reserves",
       "accepted_answers": [
         "reserves",
