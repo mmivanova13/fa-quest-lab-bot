@@ -40,10 +40,10 @@
     {
       "id": "B2",
       "title": "Stage 2: Currency Mirror",
-      "location_name": "Bank and currency signage zone",
+      "location_name": "Neglinnaya Street, 10",
       "address": "Neglinnaya Street / Kuznetsky Most area",
       "coordinates": "55.7632, 37.6226",
-      "map_link": "https://yandex.ru/maps/?text=%D0%9D%D0%B5%D0%B3%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0+%D0%B1%D0%B0%D0%BD%D0%BA%D0%B8+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "map_link": "https://yandex.ru/maps/?text=%D0%9D%D0%B5%D0%B3%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0+10+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
       "expected_answer": "spread",
       "accepted_answers": [
         "spread",
@@ -64,9 +64,10 @@
       "success_reply": "INPUT ACCEPTED.\n\nVECTOR_02 RESTORED:\nSPREAD.\n\nCrisis Constructor analysis:\nThe currency itself has not collapsed, but the market has begun charging extra for uncertainty, and that is often how fear enters the price system before it enters the headlines.\n\nThreat chain progress: 25%.\n\nMIDAS TRACE:\n“The gap spoke before the crowd knew it was listening.”\n\nFragment unlocked: IS",
       "speaking_task": "Discuss: Why might a widening gap between buy and sell prices make ordinary people more nervous, even if they do not fully understand market mechanics?",
       "next_directions": "Next stage: Moscow Exchange. Walk to Bolshoy Kislovsky Lane, 13. Stand outside the building; do not enter. Type ARRIVED when ready.",
-      "map_url": "https://yandex.ru/maps/?text=%D0%9D%D0%B5%D0%B3%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0+%D0%B1%D0%B0%D0%BD%D0%BA%D0%B8+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9D%D0%B5%D0%B3%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0+%D0%B1%D0%B0%D0%BD%D0%BA%D0%B8+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
-      "destination_message": "NEXT DESTINATION\n\nPoint B2: Currency Signage Zone\n\n📍 Location: Банковская зона на Неглинной улице\n\n📌 Address / point: Неглинная улица, зона банков и валютных вывесок\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9D%D0%B5%D0%B3%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0+%D0%B1%D0%B0%D0%BD%D0%BA%D0%B8+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove along Neglinnaya Street and look for the banking / currency signage zone. When your team arrives, press ARRIVED."
+      "map_url": "https://yandex.ru/maps/?text=%D0%9D%D0%B5%D0%B3%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0+10+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9D%D0%B5%D0%B3%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0+10+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "destination_message": "NEXT DESTINATION\n\nPoint B2: Market Signals\n\n📍 Location: Неглинная улица\n\n📌 Address / point: Неглинная улица, 10\n\n🗺️ Yandex Maps:\n\nhttps://yandex.ru/maps/?text=%D0%9D%D0%B5%D0%B3%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0+10+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0\n\nRoute note:\n\nMove from the Bank of Russia toward Neglinnaya Street, 10. This point represents the visible city layer of finance: signs, payments, prices, currency, customer flow and market signals. When your team arrives, press ARRIVED.",
+      "name": "Neglinnaya Street, 10"
     },
     {
       "id": "B3",
