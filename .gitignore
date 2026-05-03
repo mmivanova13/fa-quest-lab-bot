@@ -1,0 +1,5 @@
+
+# Telegram bot runtime state
+bot_state.pickle
+*.pickle
+*.pkl
