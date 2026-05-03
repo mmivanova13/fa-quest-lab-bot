@@ -3,3 +3,7 @@
 bot_state.pickle
 *.pickle
 *.pkl
+
+# Quest backup files
+quests/*backup*
+*.backup*
