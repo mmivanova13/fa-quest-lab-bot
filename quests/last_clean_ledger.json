@@ -1,0 +1,255 @@
+{
+  "quest_id": "last_clean_ledger",
+  "code": "LEDGER2026",
+  "title": "The Last Clean Ledger",
+  "subtitle": "Every bottle left a number. Every number left a trail.",
+  "cover": "covers/the_last_clean_ledger.png",
+  "cover_image": "covers/the_last_clean_ledger.png",
+  "language": "en",
+  "theme": "Prohibition-era Chicago noir finance mystery",
+  "description": "A noir walking quest through Bauman and Lefortovo, where Moscow locations become scenes from 1920s Chicago and students restore financial terms from a missing ledger.",
+  "intro": "THE LAST CLEAN LEDGER\n\nChicago, 1928.\n\nThe city is dry by law.\nBy midnight, it is soaked in cash.\n\nThe papers say Prohibition closed the market. The alleys know better. Desire did not disappear; it found back doors, false invoices, quiet drivers, and men who could make a delivery look like a repair bill.\n\nOne book still told the truth.\n\nThe Last Clean Ledger.\n\nEvery permit, debt, shortage, shipment, payment, and name the city wanted buried was written there in clean ink.\n\nMy name is Vincent “Velvet” Vale. I kept books for men who hated records and needed them anyway. Before my signal went dark, I split the ledger into fragments and left the trail where only a sharp crew could follow it.\n\nTonight, you walk through Moscow.\nBut the case belongs to Chicago.\n\nFollow the money.\nRead the streets.\nBring the clean pages home.",
+  "rules": "HOUSE RULES\n\nListen close, crew.\n\nChicago gives mistakes away cheap, but second chances cost more than most people can pay.\n\nKeep to the public side of the city. No restricted buildings, no private property, no locked doors, no fences, no service entrances, and no shortcuts that look like they were designed for people with poor judgment.\n\nNo running.\nNo trespassing.\nNo heroics.\n\nThis is not a chase.\nIt is an audit in a city that hates being counted.\n\nThe streets will show you the front door.\nThe book will show you what was hidden behind it.\nThe rest depends on how clean your crew wants to stay.",
+  "locations": [
+    {
+      "id": "L1",
+      "title": "Chapter 01: The City Gate",
+      "name": "Baumanskaya metro / German Quarter reference point",
+      "address": "Москва, Бауманская улица, 35/1, стр. 9",
+      "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+35%2F1%2C+%D1%81%D1%82%D1%80.+9",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+35%2F1%2C+%D1%81%D1%82%D1%80.+9",
+      "map_link": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+35%2F1%2C+%D1%81%D1%82%D1%80.+9",
+      "destination_message": "NEXT DESTINATION\n\nChapter 01: The City Gate\n\n📍 Location: Baumanskaya metro / German Quarter reference point\n\n📌 Address / point: Москва, Бауманская улица, 35/1, стр. 9\n\nChicago overlay:\nTonight, this Moscow address becomes the entrance to a Prohibition-era city, where every back room needs permission before the music starts.\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+35%2F1%2C+%D1%81%D1%82%D1%80.+9\n\nRoute note:\nStart near Baumanskaya metro station. This is the gate into the old quarter — a place of arrivals, languages, trades, workshops, and private arrangements.\n\nWhen your crew arrives, press ARRIVED.",
+      "message": "Chapter 01: The City Gate\n\nVelvet’s voice comes through like a match struck in a wet alley.\n\n“Chicago was two cities in one coat.\n\nOne city read the papers and pretended the law had dried the night out. The other woke after dark, slipped through side doors, and understood that demand never dies just because a judge says so.\n\nLook at the street around you as if it were wearing another name: brick turned black with rain, lamps throwing weak circles on the pavement, windows watching without admitting they see. Every city has places like this, where the respectable front door is only part of the story.\n\nBut even the shadow city had rules.\n\nBefore the music, before the cash, before the back room learned to smile, somebody had to let you in. Sometimes it was City Hall. Sometimes it was a man in a booth with no name on the receipt.\n\nEither way, the door always asked the same question:\n\nWho gave you permission to do business?”",
+      "task": "Before a regulated business can officially operate, it needs formal permission.\n\nIn business English, what is this permission called?",
+      "expected_answer": "license",
+      "accepted_answers": [
+        "license",
+        "licence"
+      ],
+      "wrong_reply": "Velvet exhales through the static.\n\n“That answer has shoes, kid, but it walked into the wrong room. Before the cash moves and the door opens, the city wants one thing first: official permission.”",
+      "hints": [
+        "Hint 1:\n\nThink of a business that cannot legally operate just because it wants to. Banks, taxis, bars, brokers, and pharmacies all need official permission before they open the door.\n\nVelvet’s aside:\n“No paper, no room. No room, no music.”",
+        "Hint 2:\n\nThe word starts with L. In American English, it is spelled “license”.\n\nVelvet’s aside:\n“The city may be dirty, kid, but even dirty cities love a stamp.”"
+      ],
+      "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nLICENSE\n\nIn a dry city, permission was never just paperwork. It was the difference between a locked door and a room full of paying customers.\n\nEvidence recovered:\nA folded permit with no official stamp, three initials in the corner, and a coffee stain shaped like a city block.\n\nClean pages recovered: 11%\nThe first door opens in the book.",
+      "fragment": "LICENSE",
+      "speaking_task": "Back-room briefing:\n\nDiscuss in English: Why do some businesses need official permission before they can operate? What risks appear when permission is missing?",
+      "skip_code": "SKIPL1"
+    },
+    {
+      "id": "L2",
+      "title": "Chapter 02: The House of Whispers",
+      "name": "House of Anna Mons",
+      "address": "Москва, Бауманская улица, 53, стр. 8",
+      "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+53%2C+%D1%81%D1%82%D1%80.+8",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+53%2C+%D1%81%D1%82%D1%80.+8",
+      "map_link": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+53%2C+%D1%81%D1%82%D1%80.+8",
+      "destination_message": "NEXT DESTINATION\n\nChapter 02: The House of Whispers\n\n📍 Location: House of Anna Mons\n\n📌 Address / point: Москва, Бауманская улица, 53, стр. 8\n\nChicago overlay:\nTonight, this old Moscow house becomes a Chicago whisper room, where a name can open credit faster than cash and ruin a deal before anyone sits down.\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+53%2C+%D1%81%D1%82%D1%80.+8\n\nRoute note:\nMove deeper into the old quarter. Stay outside and observe the building safely from a public point.\n\nWhen your crew arrives, press ARRIVED.",
+      "message": "Chapter 02: The House of Whispers\n\nThe signal drops low, like Velvet does not want the windows listening.\n\n“In Chicago, a name could move faster than a car.\n\nIt traveled through hotel lobbies, kitchens, coat rooms, and offices where the blinds stayed half-closed. Sometimes a name paid the bill before the man arrived. Sometimes it ruined the deal before he took off his gloves.\n\nThis kind of street does not need neon to keep secrets. A quiet façade, a closed gate, a second-floor window with no light in it — sometimes that is enough to make people lower their voices.\n\nI knew broke men who could borrow on a handshake because the city believed they would settle by Friday. I knew rich men who paid upfront because their smile had defaulted too many times.\n\nMoney never travels alone, kid. It brings a shadow with it.\n\nTrust.\nRumor.\nSuspicion.\nMemory.\n\nAnd in a hidden market, that shadow spends like currency.”",
+      "task": "What do we call the business value of trust, public image, and what people believe about a person or company?",
+      "expected_answer": "reputation",
+      "accepted_answers": [
+        "reputation"
+      ],
+      "wrong_reply": "Velvet lowers his voice.\n\n“That answer has value, but not the kind that follows a man into the room before he arrives. I’m asking about the price of a name.”",
+      "hints": [
+        "Hint 1:\n\nA company can lose money because people stop trusting it. A person can get credit because others believe they will pay.\n\nVelvet’s aside:\n“In Chicago, a clean name could borrow more than a dirty wallet.”",
+        "Hint 2:\n\nThe word starts with R. It means public image, trust, and what people believe about someone.\n\nVelvet’s aside:\n“Some men spend years building it and one careless night burning it down.”"
+      ],
+      "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nREPUTATION\n\nA name can open credit, raise prices, lower suspicion, or kill a deal before the first number is spoken.\n\nEvidence recovered:\nA calling card with one corner torn off and a name written so carefully it looks more like collateral than ink.\n\nClean pages recovered: 22%\nThe name in the margin becomes readable.",
+      "fragment": "REPUTATION",
+      "speaking_task": "Back-room briefing:\n\nDiscuss in English: Why can reputation become a financial asset? Give one example of how trust can affect price, credit, or demand.",
+      "skip_code": "SKIPL2"
+    },
+    {
+      "id": "L3",
+      "title": "Chapter 03: The Debt in the Records",
+      "name": "Lefortovo Palace / Russian State Military Historical Archive",
+      "address": "Москва, 2-я Бауманская улица, 3",
+      "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+2-%D1%8F+%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+3",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+2-%D1%8F+%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+3",
+      "map_link": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+2-%D1%8F+%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+3",
+      "destination_message": "NEXT DESTINATION\n\nChapter 03: The Debt in the Records\n\n📍 Location: Lefortovo Palace / Russian State Military Historical Archive\n\n📌 Address / point: Москва, 2-я Бауманская улица, 3\n\nChicago overlay:\nTonight, this archive becomes a Chicago records room, where debts sit quietly in the files and wait for the right person to deny them.\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+2-%D1%8F+%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+3\n\nRoute note:\nMove toward the Lefortovo Palace area. Do not enter restricted spaces. Observe the building from a public and safe point.\n\nWhen your crew arrives, press ARRIVED.",
+      "message": "Chapter 03: The Debt in the Records\n\nFor a moment, the wire carries only the sound of paper.\n\nThen Velvet speaks.\n\n“Chicago lied beautifully, kid, but it never trusted memory.\n\nMemory could be scared, bought, corrected, or invited to forget. Paper was harder. A date stayed a date. A number stayed hungry. A name sat there in ink, waiting for the room to stop pretending.\n\nAround buildings like this, the air always feels heavier, as if the walls have been trained to keep every file, every whisper, every signature that once passed through them. A city may change its signs, but old records have a way of staying awake.\n\nA favor became dangerous when somebody wrote a figure beside it.\n\nThat is when a promise stopped being air and became weight.\n\nIn the dry years, every back room had two kinds of people: the ones who owed, and the ones who remembered.”",
+      "task": "What do we call a debt or financial obligation that a person or company must pay?",
+      "expected_answer": "liability",
+      "accepted_answers": [
+        "liability",
+        "liabilities"
+      ],
+      "wrong_reply": "Velvet turns a page slowly.\n\n“Not quite, kid. I’m not asking what the man owns. I’m asking what follows him home, waits in the books, and expects to be paid.”",
+      "hints": [
+        "Hint 1:\n\nIn accounting, assets are what you own. This is what you owe.\n\nVelvet’s aside:\n“A debt does not need legs to follow a man.”",
+        "Hint 2:\n\nThe word starts with L. The singular form is “liability”; the plural form is “liabilities”.\n\nVelvet’s aside:\n“Once a promise has a number beside it, it stops being polite.”"
+      ],
+      "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nLIABILITY\n\nA promise with a number beside it stops being polite. It becomes something the books expect you to pay.\n\nEvidence recovered:\nA debt note with the amount scratched out, the due date still visible, and the words “settle before Friday” written underneath.\n\nClean pages recovered: 33%\nThe debt stops hiding between the lines.",
+      "fragment": "LIABILITY",
+      "speaking_task": "Back-room briefing:\n\nDiscuss in English: When does a debt stop being manageable and become a threat to the whole operation?",
+      "skip_code": "SKIPL3"
+    },
+    {
+      "id": "L4",
+      "title": "Chapter 04: The River of Cash",
+      "name": "Lefortovsky Park entrance / park area",
+      "address": "Москва, Красноказарменная улица, 1, стр. 2",
+      "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+1%2C+%D1%81%D1%82%D1%80.+2",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+1%2C+%D1%81%D1%82%D1%80.+2",
+      "map_link": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+1%2C+%D1%81%D1%82%D1%80.+2",
+      "destination_message": "NEXT DESTINATION\n\nChapter 04: The River of Cash\n\n📍 Location: Lefortovsky Park entrance / park area\n\n📌 Address / point: Москва, Красноказарменная улица, 1, стр. 2\n\nChicago overlay:\nTonight, this park becomes a wet Chicago cash route, where money has to move quickly before the wrong envelope comes due.\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+1%2C+%D1%81%D1%82%D1%80.+2\n\nRoute note:\nEnter the park only through public paths. Look for water, movement, and quiet corners where the city seems to lower its voice.\n\nWhen your crew arrives, press ARRIVED.",
+      "message": "Chapter 04: The River of Cash\n\nVelvet lets the silence stretch until the city fills it.\n\n“People think wealth is a vault.\n\nChicago knew better.\n\nWealth is movement. Cash from a club to a driver, from a driver to a supplier, from a supplier to a landlord, from the landlord to a cousin with a bank account that never asked questions.\n\nNotice how a park changes the sound of the city. Footsteps soften, water takes over the conversation, and every path looks like it is carrying something from one place to another. That is how money behaves when the machine is alive: it moves before anyone has time to admire it.\n\nThe money did not need to look clean. It needed to arrive.\n\nA man could own trucks, property, promises, and half a block of respectable addresses. But if he could not pay when the envelope came due, all that ownership became scenery.\n\nThen the city asked its cruelest question:\n\nCan you pay now?”",
+      "task": "What financial term describes how easily an asset can be turned into cash, or how ready a person or company is to meet obligations?",
+      "expected_answer": "liquidity",
+      "accepted_answers": [
+        "liquidity"
+      ],
+      "wrong_reply": "Velvet lets the silence stretch.\n\n“That answer sounds rich, kid, but rich is not enough. I’m asking about money that can move before the clock turns against you.”",
+      "hints": [
+        "Hint 1:\n\nCash has a lot of it. A building usually has less. The question is how quickly value can become money you can use.\n\nVelvet’s aside:\n“A fortune locked in brick cannot pay a driver at midnight.”",
+        "Hint 2:\n\nThe word is connected with liquid and flow. It starts with L.\n\nVelvet’s aside:\n“In a nervous city, money that cannot move is just scenery.”"
+      ],
+      "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nLIQUIDITY\n\nA fortune that cannot move may arrive too late to save the room.\n\nEvidence recovered:\nA cash-flow note marked with arrows, crossed-out times, and one instruction: “Move it before dawn.”\n\nClean pages recovered: 44%\nThe cash trail begins to move again.",
+      "fragment": "LIQUIDITY",
+      "speaking_task": "Back-room briefing:\n\nDiscuss in English: Why can a profitable business still fail if it does not have enough liquidity?",
+      "skip_code": "SKIPL4"
+    },
+    {
+      "id": "L5",
+      "title": "Chapter 05: The Rule Room",
+      "name": "Catherine Palace area",
+      "address": "Москва, 1-й Краснокурсантский проезд, 3/5",
+      "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+1-%D0%B9+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D1%83%D1%80%D1%81%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%2C+3%2F5",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+1-%D0%B9+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D1%83%D1%80%D1%81%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%2C+3%2F5",
+      "map_link": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+1-%D0%B9+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D1%83%D1%80%D1%81%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%2C+3%2F5",
+      "destination_message": "NEXT DESTINATION\n\nChapter 05: The Rule Room\n\n📍 Location: Catherine Palace area\n\n📌 Address / point: Москва, 1-й Краснокурсантский проезд, 3/5\n\nChicago overlay:\nTonight, this palace becomes the rule room of a dry city, where one official law creates a hundred unofficial markets.\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+1-%D0%B9+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D1%83%D1%80%D1%81%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%2C+3%2F5\n\nRoute note:\nMove toward the Catherine Palace area. This is a place of authority, order, and controlled access. Stay outside public boundaries.\n\nWhen your crew arrives, press ARRIVED.",
+      "message": "Chapter 05: The Rule Room\n\nVelvet’s voice sharpens like a pencil before a forged signature.\n\n“Do not let anyone tell you gangsters hated rules.\n\nThey hated other people’s rules.\n\nPlaces like this remind a city how authority likes to dress: stone, symmetry, gates, long approaches, and windows that look down more than they look out. Even before a word is spoken, the building tells you that someone here expects order.\n\nProhibition was one rule written far from the alleys where the money moved. It closed the legal market, and a thousand darker rules grew in its place.\n\nWho entered.\nWho delivered.\nWho got credit.\nWho paid extra.\nWho waited outside.\n\nA rule can protect a market. A rule can twist a market. A rule can create a market where none should exist.\n\nThat was Chicago’s little joke.\n\nThey tried to remove the business.\nThey changed the business model.”",
+      "task": "What is the word for official rules and controls used to manage markets, institutions, and business activity?",
+      "expected_answer": "regulation",
+      "accepted_answers": [
+        "regulation"
+      ],
+      "wrong_reply": "Velvet clicks his tongue.\n\n“That answer knows the shape of order, but not the official name on the door. I need the word for rules that govern the market.”",
+      "hints": [
+        "Hint 1:\n\nBanks, exchanges, insurance companies, and financial markets operate under official rules and controls.\n\nVelvet’s aside:\n“Even the shadows had rules. They just disliked the ones written in daylight.”",
+        "Hint 2:\n\nThe word starts with R and ends with -tion.\n\nVelvet’s aside:\n“One rule can close a market. Another can quietly build a new one behind it.”"
+      ],
+      "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nREGULATION\n\nA market without rules does not stay free for long. It starts selling rules to whoever can afford them.\n\nEvidence recovered:\nA copied notice with three signatures, two crossed-out clauses, and a margin note reading: “When the law closes the door, count the windows.”\n\nClean pages recovered: 55%\nThe rules behind the market come into focus.",
+      "fragment": "REGULATION",
+      "speaking_task": "Back-room briefing:\n\nDiscuss in English: Can regulation protect a market and also create new risks? Give one example.",
+      "skip_code": "SKIPL5"
+    },
+    {
+      "id": "L6",
+      "title": "Chapter 06: The Shortage Line",
+      "name": "Red Barracks",
+      "address": "Москва, Красноказарменная улица, 2с3",
+      "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+2%D1%813",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+2%D1%813",
+      "map_link": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+2%D1%813",
+      "destination_message": "NEXT DESTINATION\n\nChapter 06: The Shortage Line\n\n📍 Location: Red Barracks\n\n📌 Address / point: Москва, Красноказарменная улица, 2с3\n\nChicago overlay:\nTonight, these barracks become a shortage line in Prohibition Chicago, where closed supply turns ordinary desire into an expensive problem.\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+2%D1%813\n\nRoute note:\nMove toward the Red Barracks area. Observe the buildings from a public point. This chapter belongs to limits, pressure, and the price of what cannot be found.\n\nWhen your crew arrives, press ARRIVED.",
+      "message": "Chapter 06: The Shortage Line\n\nVelvet gives a dry little laugh.\n\n“When the city went dry, it did not become pure. It became expensive.\n\nEvery missing bottle created a louder buyer. Every closed legal supplier made the hidden one more valuable. Every delayed truck raised the price before it reached the curb.\n\nLook at the lines, the walls, the controlled order of the place. Some parts of a city seem built to say: not everyone enters, not everything moves, not every request is granted. Scarcity begins with that feeling — a limit you can almost see.\n\nThat is what shortage does.\n\nIt makes ordinary things feel rare. It makes patient people restless and reckless people rich. It turns a basement into a market and a side door into a distribution channel.\n\nThe law can ban a product, kid.\n\nIt cannot ban demand.”",
+      "task": "When demand remains high but there is not enough supply, what economic condition appears?",
+      "expected_answer": "scarcity",
+      "accepted_answers": [
+        "scarcity",
+        "shortage"
+      ],
+      "wrong_reply": "Velvet gives a dry little laugh.\n\n“Close enough to smell the alley, kid, but not close enough to open the crate. I’m asking what happens when demand stays hungry and supply comes up short.”",
+      "hints": [
+        "Hint 1:\n\nIt happens when there is not enough of something people still want.\n\nVelvet’s aside:\n“An empty shelf can raise its voice louder than a salesman.”",
+        "Hint 2:\n\nThe word starts with S. Economists use it when demand is greater than available supply.\n\nVelvet’s aside:\n“In a dry city, absence was not silence. It was pricing power.”"
+      ],
+      "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nSCARCITY\n\nWhen there is too little of what people still want, the price starts speaking louder than the law.\n\nEvidence recovered:\nA ration list with half the names crossed out and a price written higher each time it appears.\n\nClean pages recovered: 66%\nThe shortage line returns to the account.",
+      "fragment": "SCARCITY",
+      "speaking_task": "Back-room briefing:\n\nDiscuss in English: How does scarcity change prices, choices, and behavior?",
+      "skip_code": "SKIPL6"
+    },
+    {
+      "id": "L7",
+      "title": "Chapter 07: The Distribution Room",
+      "name": "Gosplan Garage",
+      "address": "Москва, Авиамоторная улица, 63, стр. 1",
+      "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%90%D0%B2%D0%B8%D0%B0%D0%BC%D0%BE%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+63%2C+%D1%81%D1%82%D1%80.+1",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%90%D0%B2%D0%B8%D0%B0%D0%BC%D0%BE%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+63%2C+%D1%81%D1%82%D1%80.+1",
+      "map_link": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%90%D0%B2%D0%B8%D0%B0%D0%BC%D0%BE%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+63%2C+%D1%81%D1%82%D1%80.+1",
+      "destination_message": "NEXT DESTINATION\n\nChapter 07: The Distribution Room\n\n📍 Location: Gosplan Garage\n\n📌 Address / point: Москва, Авиамоторная улица, 63, стр. 1\n\nChicago overlay:\nTonight, this garage becomes a Chicago distribution room, where the real power is not owning the goods but deciding where they go.\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%90%D0%B2%D0%B8%D0%B0%D0%BC%D0%BE%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+63%2C+%D1%81%D1%82%D1%80.+1\n\nRoute note:\nMove toward the Gosplan Garage. Look for the unusual architectural form and the idea of movement, planning, dispatch, and control.\n\nWhen your crew arrives, press ARRIVED.",
+      "message": "Chapter 07: The Distribution Room\n\nThe radio hums like an office light left burning after midnight.\n\n“By 1928, the smart money no longer asked only who owned the goods.\n\nIt asked who controlled the route.\n\nSome buildings look less like destinations and more like machines that once decided where the city’s energy should go. Doors, yards, angles, service lines — all of it feels arranged for movement, storage, dispatch, and control.\n\nA crate in the wrong warehouse was trouble with a label. A truck sent to the wrong district was a promise beginning to rot. A customer served too late became a rumor. A customer served too early became a risk.\n\nWhen supply is limited, distribution becomes judgment.\n\nSomebody decides who gets the last delivery, whose debt can wait, and which promise gets buried in next week’s numbers.\n\nFrom far away, it looks like logistics.\n\nUp close, it looks like power.”",
+      "task": "What is the economic term for distributing limited resources among different people, projects, or uses?",
+      "expected_answer": "allocation",
+      "accepted_answers": [
+        "allocation"
+      ],
+      "wrong_reply": "Velvet hums through the wire.\n\n“That answer moves, but it does not choose. I’m asking about the decision that sends limited resources one way and leaves another door waiting.”",
+      "hints": [
+        "Hint 1:\n\nManagers do it with budgets. Governments do it with resources. Teams do it with time. It means deciding who gets what.\n\nVelvet’s aside:\n“The last truck always tells you who really runs the room.”",
+        "Hint 2:\n\nThe word starts with A. It means distributing limited resources among different uses.\n\nVelvet’s aside:\n“When there is not enough for everyone, choice becomes power.”"
+      ],
+      "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nALLOCATION\n\nA shortage becomes a strategy when someone decides where the limited resources go.\n\nEvidence recovered:\nA delivery map with three routes erased, one route circled, and a note saying: “Send the last crate where it buys the most silence.”\n\nClean pages recovered: 77%\nThe route of the goods is visible again.",
+      "fragment": "ALLOCATION",
+      "speaking_task": "Back-room briefing:\n\nDiscuss in English: When resources are limited, how should a team decide who gets what first?",
+      "skip_code": "SKIPL7"
+    },
+    {
+      "id": "L8",
+      "title": "Chapter 08: The Paper Around the Bottle",
+      "name": "DK Kristall / former Kristall factory area",
+      "address": "Москва, Самокатная улица, 4, стр. 1",
+      "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%A1%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+4%2C+%D1%81%D1%82%D1%80.+1",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%A1%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+4%2C+%D1%81%D1%82%D1%80.+1",
+      "map_link": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%A1%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+4%2C+%D1%81%D1%82%D1%80.+1",
+      "destination_message": "NEXT DESTINATION\n\nChapter 08: The Paper Around the Bottle\n\n📍 Location: DK Kristall / former Kristall factory area\n\n📌 Address / point: Москва, Самокатная улица, 4, стр. 1\n\nChicago overlay:\nTonight, this factory district becomes the paper trail around the bottle, where invoices, stamps, and signatures decide whether a business breathes or becomes evidence.\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%A1%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+4%2C+%D1%81%D1%82%D1%80.+1\n\nRoute note:\nMove toward the Kristall area. This is the final business district of the route: production, control, taxes, records, and rules.\n\nWhen your crew arrives, press ARRIVED.",
+      "message": "Chapter 08: The Paper Around the Bottle\n\nVelvet sounds almost amused.\n\n“The amateurs always stared at the bottle.\n\nThat was their first mistake.\n\nThe bottle was only the shiny part. The real business lived around it: warehouse notes, delivery routes, invoices, stamps, inspections, signatures, and receipts written carefully enough to look boring.\n\nIndustrial streets have their own kind of honesty. Brick, gates, pipes, delivery yards, old walls that remember work before they remember stories. A place like this does not ask what was produced; it asks whether the paperwork can explain where it went.\n\nBoring is useful. Boring walks past suspicious eyes.\n\nBut if one date fails, if one name appears where it should not, if one missing stamp starts asking questions, the whole operation stops being business and becomes evidence.\n\nIn the end, the cleanest operator is not the one with no risk.\n\nIt is the one who can prove what happened.”",
+      "task": "What do we call following laws, rules, standards, and internal procedures — and being able to prove it?",
+      "expected_answer": "compliance",
+      "accepted_answers": [
+        "compliance"
+      ],
+      "wrong_reply": "Velvet sounds almost amused.\n\n“That answer has the suit, kid, but not the paperwork. I’m asking for the word that means following the rules and proving you followed them.”",
+      "hints": [
+        "Hint 1:\n\nBanks and companies often have departments with this name. They check whether the organization follows laws, rules, and standards.\n\nVelvet’s aside:\n“The cleanest operator is not the one without risk. It is the one with proof.”",
+        "Hint 2:\n\nThe word starts with C. It means obeying rules, laws, standards, and internal procedures.\n\nVelvet’s aside:\n“If the papers cannot explain the business, the business starts explaining itself to the wrong people.”"
+      ],
+      "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nCOMPLIANCE\n\nThe cleanest business is not the one with no risk. It is the one that can prove what it did.\n\nEvidence recovered:\nA stack of invoices tied with black string, each page stamped, dated, and clean enough to make a guilty room nervous.\n\nClean pages recovered: 88%\nThe paperwork finally tells the truth.",
+      "fragment": "COMPLIANCE",
+      "speaking_task": "Back-room briefing:\n\nDiscuss in English: Why is proving compliance as important as following the rules themselves?",
+      "skip_code": "SKIPL8"
+    },
+    {
+      "id": "L9",
+      "title": "Final Chapter: The Balance Sheet",
+      "name": "Kristall final point / Alfa Kristall area",
+      "address": "Москва, Самокатная улица, 4, стр. 11",
+      "map_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%A1%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+4%2C+%D1%81%D1%82%D1%80.+11",
+      "yandex_maps_url": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%A1%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+4%2C+%D1%81%D1%82%D1%80.+11",
+      "map_link": "https://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%A1%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+4%2C+%D1%81%D1%82%D1%80.+11",
+      "destination_message": "NEXT DESTINATION\n\nFinal Chapter: The Balance Sheet\n\n📍 Location: Kristall final point / Alfa Kristall area\n\n📌 Address / point: Москва, Самокатная улица, 4, стр. 11\n\nChicago overlay:\nTonight, this final address becomes the back office of Chicago’s hidden market, where the last clean book is opened and the crew must decide what truth is worth.\n\n🗺️ Yandex Maps:\nhttps://yandex.ru/maps/?text=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D0%A1%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%D0%BD%D0%B0%D1%8F+%D1%83%D0%BB%D0%B8%D1%86%D0%B0%2C+4%2C+%D1%81%D1%82%D1%80.+11\n\nRoute note:\nStay in a safe public area near the final point. The ledger is almost whole. One choice remains.\n\nWhen your crew arrives, press ARRIVED.",
+      "message": "Final Chapter: The Balance Sheet\n\nFor the first time, Velvet’s voice comes through clean, without rain in the wire.\n\n“No more static now, crew. No more half-words. No more city pretending it does not recognize its own handwriting.\n\nBy now the streets behind you should feel less like a route and more like a paper trail. Every gate, façade, park path, wall, archive, and factory edge has played its part in the account.\n\nYou traced the permissions that opened locked doors, the names that carried credit through back rooms, the debts that waited in the books, the cash that had to keep moving, the rules that shaped the market, the shortages that raised the price of desire, the choices that sent limited goods one way instead of another, and the paperwork that made every risky deal look almost respectable.\n\nYou thought you were walking between addresses, but the addresses were only the surface. Underneath them was a hidden market, and under the market was a system of trust, obligations, cash movement, control, pressure, distribution, and proof.\n\nThat is what The Last Clean Ledger recorded.\n\nNot innocence.\nNot guilt.\nStructure.\n\nChicago tried to dry the city out, but the market found another glass, another room, another name, another invoice, and another person willing to pretend the numbers were only numbers.\n\nNow the book is almost whole, and the last page does not ask who was right.\n\nIt asks what kind of operator you become when the truth has value.”\n\nEvidence recovered:\nThe final cover of the ledger, dark with rain at the edges, stamped with one line in clean ink:\n\nTHE LAST CLEAN LEDGER\n\nClean pages recovered: 100%\nThe Last Clean Ledger is whole again.",
+      "task": "",
+      "expected_answer": "final",
+      "accepted_answers": [
+        "final",
+        "ready"
+      ],
+      "wrong_reply": "The ledger is already whole. Make the final choice.",
+      "hints": [],
+      "success_reply": "The ledger is whole.",
+      "fragment": "FINAL",
+      "speaking_task": "",
+      "skip_code": "SKIPL9"
+    }
+  ],
+  "final_choice_message": "FINAL CHOICE\n\nThe Last Clean Ledger is whole again.\n\nNot every page is innocent.\nNot every number is legal.\nBut every line is true.\n\nBefore you choose, give your crew one quiet minute.\n\nOut there, Chicago is still pretending the rain can wash the ink away.\n\nIf the book goes public, powerful names start falling before dawn.\nIf the book stays locked, the system keeps breathing behind closed doors.\nIf the book is traded, truth becomes currency in a room with no witnesses.\nIf the book becomes reform, the city may finally learn new rules — whether it wants them or not.\n\nChoose carefully.\n\nThe ledger kept its pages clean through all the dirty years.\nDo not give it a careless ending.\n\nChoose what to do with the ledger:\n\nAUDIT — expose the numbers.\nLOCK — seal the book and protect the record.\nDEAL — use the ledger as leverage.\nREFORM — turn the scandal into new rules.",
+  "final_choices": [
+    "AUDIT",
+    "LOCK",
+    "DEAL",
+    "REFORM"
+  ],
+  "final_profiles": {
+    "AUDIT": "FINAL PROFILE:\n\nTHE CLEAN ACCOUNTANT\n\nYou choose AUDIT.\n\nYou believe the ledger should be read under bright light, line by line, until every payment, favor, debt, and silence has nowhere left to hide.\n\nYou are not impressed by a smooth voice, a fast explanation, or a room full of people suddenly agreeing too quickly. You trust records more than charm and evidence more than confidence.\n\nYour strength:\nYou can find the weak point in a system before it becomes a crisis.\n\nYour risk:\nYou may move slowly when everyone around you wants the uncomfortable truth handled quickly and quietly.\n\nVelvet’s note:\n“Kid, every dirty room fears the person who knows how to count.”",
+    "LOCK": "FINAL PROFILE:\n\nTHE SILENT CUSTODIAN\n\nYou choose LOCK.\n\nYou believe the ledger is too dangerous for careless hands. The truth should not disappear, but it should not be tossed into the street for every opportunist to price, twist, or weaponize.\n\nYou protect records, control access, and understand that timing can be as important as disclosure.\n\nYour strength:\nYou understand confidentiality, information risk, and the value of keeping evidence intact.\n\nYour risk:\nToo much silence can start to look like protection for the wrong people.\n\nVelvet’s note:\n“Some vaults protect the truth, kid, and some bury it. Make sure you know which one you are building.”",
+    "DEAL": "FINAL PROFILE:\n\nTHE MARKET FIXER\n\nYou choose DEAL.\n\nYou see the ledger for what it is: information with weight, timing, and market value. In your hands, truth becomes leverage, and leverage becomes a way to move people who refuse to move for principles.\n\nYou are practical, fast, persuasive, and difficult to surprise.\n\nYour strength:\nYou can turn uncertainty into opportunity and negotiate when everyone else freezes.\n\nYour risk:\nIf every truth becomes a bargaining chip, trust may become the most expensive thing in the room.\n\nVelvet’s note:\n“Kid, you can move a market with the right page. Just do not sell the floor beneath your own feet.”",
+    "REFORM": "FINAL PROFILE:\n\nTHE RULE MAKER\n\nYou choose REFORM.\n\nYou believe the ledger matters because it reveals more than individual deals. It shows how the whole system learned to hide risk, reward silence, and make confusion profitable.\n\nYou want cleaner rules, clearer procedures, better records, and a market where fewer people can profit from darkness.\n\nYour strength:\nYou think beyond one transaction and see the architecture behind the crisis.\n\nYour risk:\nPeople who make money from confusion rarely applaud clarity.\n\nVelvet’s note:\n“You do not just close the book, kid. You make sure the next one is harder to corrupt.”"
+  },
+  "finish_message": "THE LAST CLEAN LEDGER\n\nQuest complete.\n\nChicago tried to dry the city out, but the money kept moving through side doors, quiet rooms, coded receipts, and books that looked harmless until somebody learned how to read them.\n\nYou followed the permits, the whispers, the debts, the cash flow, the rules, the shortages, the distribution lines, and the paperwork that kept the whole machine breathing.\n\nYou did not find a treasure.\n\nYou found the system that moved it.\n\nPress CHANGE QUEST to choose another route.\nPress RESET to start over."
+}

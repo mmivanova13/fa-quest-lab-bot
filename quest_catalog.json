@@ -54,6 +54,17 @@
       "is_active": true,
       "enabled": true,
       "status": "active"
+    },
+    "LEDGER2026": {
+      "title": "The Last Clean Ledger",
+      "subtitle": "Every bottle left a number. Every number left a trail.",
+      "description": "A Prohibition-era financial mystery through Bauman and Lefortovo.",
+      "file": "quests/last_clean_ledger.json",
+      "cover_image": "covers/the_last_clean_ledger.png",
+      "active": true,
+      "is_active": true,
+      "enabled": true,
+      "status": "active"
     }
   }
 }
