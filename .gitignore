@@ -11,3 +11,7 @@ quests/*backup*
 # Python cache
 __pycache__/
 *.pyc
+
+# Local secrets
+.env
+.env.*
