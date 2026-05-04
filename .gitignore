@@ -7,3 +7,7 @@ bot_state.pickle
 # Quest backup files
 quests/*backup*
 *.backup*
+
+# Python cache
+__pycache__/
+*.pyc
