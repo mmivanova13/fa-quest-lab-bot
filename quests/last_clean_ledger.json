@@ -29,14 +29,15 @@
       ],
       "wrong_reply": "Velvet exhales through the static.\n\n“That answer has shoes, kid, but it walked into the wrong room. Before the cash moves and the door opens, the city wants one thing first: official permission.”",
       "hints": [
-        "Hint 1:\n\nThink of a business that cannot legally operate just because it wants to. Banks, taxis, bars, brokers, and pharmacies all need official permission before they open the door.\n\nVelvet’s aside:\n“No paper, no room. No room, no music.”",
-        "Hint 2:\n\nThe word starts with L. In American English, it is spelled “license”.\n\nVelvet’s aside:\n“The city may be dirty, kid, but even dirty cities love a stamp.”"
+        "Think of a business that cannot legally operate just because it wants to. Banks, taxis, bars, brokers, and pharmacies all need official permission before they open the door.\n\nVelvet’s aside:\n“No paper, no room. No room, no music.”",
+        "The word starts with L. In American English, it is spelled “license”.\n\nVelvet’s aside:\n“The city may be dirty, kid, but even dirty cities love a stamp.”"
       ],
       "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nLICENSE\n\nIn a dry city, permission was never just paperwork. It was the difference between a locked door and a room full of paying customers.\n\nEvidence recovered:\nA folded permit with no official stamp, three initials in the corner, and a coffee stain shaped like a city block.\n\nClean pages recovered: 11%\nThe first door opens in the book.",
       "fragment": "LICENSE",
       "speaking_task": "Back-room briefing:\n\nDiscuss in English: Why do some businesses need official permission before they can operate? What risks appear when permission is missing?",
       "skip_code": "SKIPL1",
-      "question": "Before a regulated business can officially operate, it needs formal permission.\n\nIn business English, what is this permission called?"
+      "question": "Before a regulated business can officially operate, it needs formal permission.\n\nIn business English, what is this permission called?",
+      "location_name": "Baumanskaya metro / German Quarter reference point"
     },
     {
       "id": "L2",
@@ -55,14 +56,15 @@
       ],
       "wrong_reply": "Velvet lowers his voice.\n\n“That answer has value, but not the kind that follows a man into the room before he arrives. I’m asking about the price of a name.”",
       "hints": [
-        "Hint 1:\n\nA company can lose money because people stop trusting it. A person can get credit because others believe they will pay.\n\nVelvet’s aside:\n“In Chicago, a clean name could borrow more than a dirty wallet.”",
-        "Hint 2:\n\nThe word starts with R. It means public image, trust, and what people believe about someone.\n\nVelvet’s aside:\n“Some men spend years building it and one careless night burning it down.”"
+        "A company can lose money because people stop trusting it. A person can get credit because others believe they will pay.\n\nVelvet’s aside:\n“In Chicago, a clean name could borrow more than a dirty wallet.”",
+        "The word starts with R. It means public image, trust, and what people believe about someone.\n\nVelvet’s aside:\n“Some men spend years building it and one careless night burning it down.”"
       ],
       "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nREPUTATION\n\nA name can open credit, raise prices, lower suspicion, or kill a deal before the first number is spoken.\n\nEvidence recovered:\nA calling card with one corner torn off and a name written so carefully it looks more like collateral than ink.\n\nClean pages recovered: 22%\nThe name in the margin becomes readable.",
       "fragment": "REPUTATION",
       "speaking_task": "Back-room briefing:\n\nDiscuss in English: Why can reputation become a financial asset? Give one example of how trust can affect price, credit, or demand.",
       "skip_code": "SKIPL2",
-      "question": "What do we call the business value of trust, public image, and what people believe about a person or company?"
+      "question": "What do we call the business value of trust, public image, and what people believe about a person or company?",
+      "location_name": "House of Anna Mons"
     },
     {
       "id": "L3",
@@ -82,14 +84,15 @@
       ],
       "wrong_reply": "Velvet turns a page slowly.\n\n“Not quite, kid. I’m not asking what the man owns. I’m asking what follows him home, waits in the books, and expects to be paid.”",
       "hints": [
-        "Hint 1:\n\nIn accounting, assets are what you own. This is what you owe.\n\nVelvet’s aside:\n“A debt does not need legs to follow a man.”",
-        "Hint 2:\n\nThe word starts with L. The singular form is “liability”; the plural form is “liabilities”.\n\nVelvet’s aside:\n“Once a promise has a number beside it, it stops being polite.”"
+        "In accounting, assets are what you own. This is what you owe.\n\nVelvet’s aside:\n“A debt does not need legs to follow a man.”",
+        "The word starts with L. The singular form is “liability”; the plural form is “liabilities”.\n\nVelvet’s aside:\n“Once a promise has a number beside it, it stops being polite.”"
       ],
       "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nLIABILITY\n\nA promise with a number beside it stops being polite. It becomes something the books expect you to pay.\n\nEvidence recovered:\nA debt note with the amount scratched out, the due date still visible, and the words “settle before Friday” written underneath.\n\nClean pages recovered: 33%\nThe debt stops hiding between the lines.",
       "fragment": "LIABILITY",
       "speaking_task": "Back-room briefing:\n\nDiscuss in English: When does a debt stop being manageable and become a threat to the whole operation?",
       "skip_code": "SKIPL3",
-      "question": "What do we call a debt or financial obligation that a person or company must pay?"
+      "question": "What do we call a debt or financial obligation that a person or company must pay?",
+      "location_name": "Lefortovo Palace / Russian State Military Historical Archive"
     },
     {
       "id": "L4",
@@ -108,14 +111,15 @@
       ],
       "wrong_reply": "Velvet lets the silence stretch.\n\n“That answer sounds rich, kid, but rich is not enough. I’m asking about money that can move before the clock turns against you.”",
       "hints": [
-        "Hint 1:\n\nCash has a lot of it. A building usually has less. The question is how quickly value can become money you can use.\n\nVelvet’s aside:\n“A fortune locked in brick cannot pay a driver at midnight.”",
-        "Hint 2:\n\nThe word is connected with liquid and flow. It starts with L.\n\nVelvet’s aside:\n“In a nervous city, money that cannot move is just scenery.”"
+        "Cash has a lot of it. A building usually has less. The question is how quickly value can become money you can use.\n\nVelvet’s aside:\n“A fortune locked in brick cannot pay a driver at midnight.”",
+        "The word is connected with liquid and flow. It starts with L.\n\nVelvet’s aside:\n“In a nervous city, money that cannot move is just scenery.”"
       ],
       "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nLIQUIDITY\n\nA fortune that cannot move may arrive too late to save the room.\n\nEvidence recovered:\nA cash-flow note marked with arrows, crossed-out times, and one instruction: “Move it before dawn.”\n\nClean pages recovered: 44%\nThe cash trail begins to move again.",
       "fragment": "LIQUIDITY",
       "speaking_task": "Back-room briefing:\n\nDiscuss in English: Why can a profitable business still fail if it does not have enough liquidity?",
       "skip_code": "SKIPL4",
-      "question": "What financial term describes how easily an asset can be turned into cash, or how ready a person or company is to meet obligations?"
+      "question": "What financial term describes how easily an asset can be turned into cash, or how ready a person or company is to meet obligations?",
+      "location_name": "Lefortovsky Park entrance / park area"
     },
     {
       "id": "L5",
@@ -134,14 +138,15 @@
       ],
       "wrong_reply": "Velvet clicks his tongue.\n\n“That answer knows the shape of order, but not the official name on the door. I need the word for rules that govern the market.”",
       "hints": [
-        "Hint 1:\n\nBanks, exchanges, insurance companies, and financial markets operate under official rules and controls.\n\nVelvet’s aside:\n“Even the shadows had rules. They just disliked the ones written in daylight.”",
-        "Hint 2:\n\nThe word starts with R and ends with -tion.\n\nVelvet’s aside:\n“One rule can close a market. Another can quietly build a new one behind it.”"
+        "Banks, exchanges, insurance companies, and financial markets operate under official rules and controls.\n\nVelvet’s aside:\n“Even the shadows had rules. They just disliked the ones written in daylight.”",
+        "The word starts with R and ends with -tion.\n\nVelvet’s aside:\n“One rule can close a market. Another can quietly build a new one behind it.”"
       ],
       "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nREGULATION\n\nA market without rules does not stay free for long. It starts selling rules to whoever can afford them.\n\nEvidence recovered:\nA copied notice with three signatures, two crossed-out clauses, and a margin note reading: “When the law closes the door, count the windows.”\n\nClean pages recovered: 55%\nThe rules behind the market come into focus.",
       "fragment": "REGULATION",
       "speaking_task": "Back-room briefing:\n\nDiscuss in English: Can regulation protect a market and also create new risks? Give one example.",
       "skip_code": "SKIPL5",
-      "question": "What is the word for official rules and controls used to manage markets, institutions, and business activity?"
+      "question": "What is the word for official rules and controls used to manage markets, institutions, and business activity?",
+      "location_name": "Catherine Palace area"
     },
     {
       "id": "L6",
@@ -161,14 +166,15 @@
       ],
       "wrong_reply": "Velvet gives a dry little laugh.\n\n“Close enough to smell the alley, kid, but not close enough to open the crate. I’m asking what happens when demand stays hungry and supply comes up short.”",
       "hints": [
-        "Hint 1:\n\nIt happens when there is not enough of something people still want.\n\nVelvet’s aside:\n“An empty shelf can raise its voice louder than a salesman.”",
-        "Hint 2:\n\nThe word starts with S. Economists use it when demand is greater than available supply.\n\nVelvet’s aside:\n“In a dry city, absence was not silence. It was pricing power.”"
+        "It happens when there is not enough of something people still want.\n\nVelvet’s aside:\n“An empty shelf can raise its voice louder than a salesman.”",
+        "The word starts with S. Economists use it when demand is greater than available supply.\n\nVelvet’s aside:\n“In a dry city, absence was not silence. It was pricing power.”"
       ],
       "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nSCARCITY\n\nWhen there is too little of what people still want, the price starts speaking louder than the law.\n\nEvidence recovered:\nA ration list with half the names crossed out and a price written higher each time it appears.\n\nClean pages recovered: 66%\nThe shortage line returns to the account.",
       "fragment": "SCARCITY",
       "speaking_task": "Back-room briefing:\n\nDiscuss in English: How does scarcity change prices, choices, and behavior?",
       "skip_code": "SKIPL6",
-      "question": "When demand remains high but there is not enough supply, what economic condition appears?"
+      "question": "When demand remains high but there is not enough supply, what economic condition appears?",
+      "location_name": "Red Barracks"
     },
     {
       "id": "L7",
@@ -187,14 +193,15 @@
       ],
       "wrong_reply": "Velvet hums through the wire.\n\n“That answer moves, but it does not choose. I’m asking about the decision that sends limited resources one way and leaves another door waiting.”",
       "hints": [
-        "Hint 1:\n\nManagers do it with budgets. Governments do it with resources. Teams do it with time. It means deciding who gets what.\n\nVelvet’s aside:\n“The last truck always tells you who really runs the room.”",
-        "Hint 2:\n\nThe word starts with A. It means distributing limited resources among different uses.\n\nVelvet’s aside:\n“When there is not enough for everyone, choice becomes power.”"
+        "Managers do it with budgets. Governments do it with resources. Teams do it with time. It means deciding who gets what.\n\nVelvet’s aside:\n“The last truck always tells you who really runs the room.”",
+        "The word starts with A. It means distributing limited resources among different uses.\n\nVelvet’s aside:\n“When there is not enough for everyone, choice becomes power.”"
       ],
       "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nALLOCATION\n\nA shortage becomes a strategy when someone decides where the limited resources go.\n\nEvidence recovered:\nA delivery map with three routes erased, one route circled, and a note saying: “Send the last crate where it buys the most silence.”\n\nClean pages recovered: 77%\nThe route of the goods is visible again.",
       "fragment": "ALLOCATION",
       "speaking_task": "Back-room briefing:\n\nDiscuss in English: When resources are limited, how should a team decide who gets what first?",
       "skip_code": "SKIPL7",
-      "question": "What is the economic term for distributing limited resources among different people, projects, or uses?"
+      "question": "What is the economic term for distributing limited resources among different people, projects, or uses?",
+      "location_name": "Gosplan Garage"
     },
     {
       "id": "L8",
@@ -213,14 +220,15 @@
       ],
       "wrong_reply": "Velvet sounds almost amused.\n\n“That answer has the suit, kid, but not the paperwork. I’m asking for the word that means following the rules and proving you followed them.”",
       "hints": [
-        "Hint 1:\n\nBanks and companies often have departments with this name. They check whether the organization follows laws, rules, and standards.\n\nVelvet’s aside:\n“The cleanest operator is not the one without risk. It is the one with proof.”",
-        "Hint 2:\n\nThe word starts with C. It means obeying rules, laws, standards, and internal procedures.\n\nVelvet’s aside:\n“If the papers cannot explain the business, the business starts explaining itself to the wrong people.”"
+        "Banks and companies often have departments with this name. They check whether the organization follows laws, rules, and standards.\n\nVelvet’s aside:\n“The cleanest operator is not the one without risk. It is the one with proof.”",
+        "The word starts with C. It means obeying rules, laws, standards, and internal procedures.\n\nVelvet’s aside:\n“If the papers cannot explain the business, the business starts explaining itself to the wrong people.”"
       ],
       "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nCOMPLIANCE\n\nThe cleanest business is not the one with no risk. It is the one that can prove what it did.\n\nEvidence recovered:\nA stack of invoices tied with black string, each page stamped, dated, and clean enough to make a guilty room nervous.\n\nClean pages recovered: 88%\nThe paperwork finally tells the truth.",
       "fragment": "COMPLIANCE",
       "speaking_task": "Back-room briefing:\n\nDiscuss in English: Why is proving compliance as important as following the rules themselves?",
       "skip_code": "SKIPL8",
-      "question": "What do we call following laws, rules, standards, and internal procedures — and being able to prove it?"
+      "question": "What do we call following laws, rules, standards, and internal procedures — and being able to prove it?",
+      "location_name": "DK Kristall / former Kristall factory area"
     },
     {
       "id": "L9",
@@ -243,7 +251,8 @@
       "success_reply": "The ledger is whole.",
       "fragment": "FINAL",
       "speaking_task": "",
-      "skip_code": "SKIPL9"
+      "skip_code": "SKIPL9",
+      "location_name": "Kristall final point / Alfa Kristall area"
     }
   ],
   "final_choice_message": "FINAL CHOICE\n\nThe Last Clean Ledger is whole again.\n\nNot every page is innocent.\nNot every number is legal.\nBut every line is true.\n\nBefore you choose, give your crew one quiet minute.\n\nOut there, Chicago is still pretending the rain can wash the ink away.\n\nIf the book goes public, powerful names start falling before dawn.\nIf the book stays locked, the system keeps breathing behind closed doors.\nIf the book is traded, truth becomes currency in a room with no witnesses.\nIf the book becomes reform, the city may finally learn new rules — whether it wants them or not.\n\nChoose carefully.\n\nThe ledger kept its pages clean through all the dirty years.\nDo not give it a careless ending.\n\nChoose what to do with the ledger:\n\nAUDIT — expose the numbers.\nLOCK — seal the book and protect the record.\nDEAL — use the ledger as leverage.\nREFORM — turn the scandal into new rules.",
