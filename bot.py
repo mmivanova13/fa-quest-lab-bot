@@ -617,7 +617,15 @@ async def hint(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
     if used < len(hints):
         progress["hints_used"] = used + 1
-        await update.effective_message.reply_text(f"Hint {used + 1}: {hints[used]}")
+
+        raw_hint = str(hints[used]).strip()
+
+        if re.match(r"^(hint|?????????)\\s*\\d+\\s*:", raw_hint, flags=re.IGNORECASE):
+            hint_text = raw_hint
+        else:
+            hint_text = f"Hint {used + 1}: {raw_hint}"
+
+        await update.effective_message.reply_text(hint_text)
     else:
         await update.effective_message.reply_text(
             "No more hints for this frame. Ask your teacher for help or check the place again."
