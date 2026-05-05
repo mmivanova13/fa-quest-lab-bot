@@ -35,7 +35,8 @@
       "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nLICENSE\n\nIn a dry city, permission was never just paperwork. It was the difference between a locked door and a room full of paying customers.\n\nEvidence recovered:\nA folded permit with no official stamp, three initials in the corner, and a coffee stain shaped like a city block.\n\nClean pages recovered: 11%\nThe first door opens in the book.",
       "fragment": "LICENSE",
       "speaking_task": "Back-room briefing:\n\nDiscuss in English: Why do some businesses need official permission before they can operate? What risks appear when permission is missing?",
-      "skip_code": "SKIPL1"
+      "skip_code": "SKIPL1",
+      "question": "Before a regulated business can officially operate, it needs formal permission.\n\nIn business English, what is this permission called?"
     },
     {
       "id": "L2",
@@ -60,7 +61,8 @@
       "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nREPUTATION\n\nA name can open credit, raise prices, lower suspicion, or kill a deal before the first number is spoken.\n\nEvidence recovered:\nA calling card with one corner torn off and a name written so carefully it looks more like collateral than ink.\n\nClean pages recovered: 22%\nThe name in the margin becomes readable.",
       "fragment": "REPUTATION",
       "speaking_task": "Back-room briefing:\n\nDiscuss in English: Why can reputation become a financial asset? Give one example of how trust can affect price, credit, or demand.",
-      "skip_code": "SKIPL2"
+      "skip_code": "SKIPL2",
+      "question": "What do we call the business value of trust, public image, and what people believe about a person or company?"
     },
     {
       "id": "L3",
@@ -86,7 +88,8 @@
       "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nLIABILITY\n\nA promise with a number beside it stops being polite. It becomes something the books expect you to pay.\n\nEvidence recovered:\nA debt note with the amount scratched out, the due date still visible, and the words “settle before Friday” written underneath.\n\nClean pages recovered: 33%\nThe debt stops hiding between the lines.",
       "fragment": "LIABILITY",
       "speaking_task": "Back-room briefing:\n\nDiscuss in English: When does a debt stop being manageable and become a threat to the whole operation?",
-      "skip_code": "SKIPL3"
+      "skip_code": "SKIPL3",
+      "question": "What do we call a debt or financial obligation that a person or company must pay?"
     },
     {
       "id": "L4",
@@ -111,7 +114,8 @@
       "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nLIQUIDITY\n\nA fortune that cannot move may arrive too late to save the room.\n\nEvidence recovered:\nA cash-flow note marked with arrows, crossed-out times, and one instruction: “Move it before dawn.”\n\nClean pages recovered: 44%\nThe cash trail begins to move again.",
       "fragment": "LIQUIDITY",
       "speaking_task": "Back-room briefing:\n\nDiscuss in English: Why can a profitable business still fail if it does not have enough liquidity?",
-      "skip_code": "SKIPL4"
+      "skip_code": "SKIPL4",
+      "question": "What financial term describes how easily an asset can be turned into cash, or how ready a person or company is to meet obligations?"
     },
     {
       "id": "L5",
@@ -136,7 +140,8 @@
       "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nREGULATION\n\nA market without rules does not stay free for long. It starts selling rules to whoever can afford them.\n\nEvidence recovered:\nA copied notice with three signatures, two crossed-out clauses, and a margin note reading: “When the law closes the door, count the windows.”\n\nClean pages recovered: 55%\nThe rules behind the market come into focus.",
       "fragment": "REGULATION",
       "speaking_task": "Back-room briefing:\n\nDiscuss in English: Can regulation protect a market and also create new risks? Give one example.",
-      "skip_code": "SKIPL5"
+      "skip_code": "SKIPL5",
+      "question": "What is the word for official rules and controls used to manage markets, institutions, and business activity?"
     },
     {
       "id": "L6",
@@ -162,7 +167,8 @@
       "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nSCARCITY\n\nWhen there is too little of what people still want, the price starts speaking louder than the law.\n\nEvidence recovered:\nA ration list with half the names crossed out and a price written higher each time it appears.\n\nClean pages recovered: 66%\nThe shortage line returns to the account.",
       "fragment": "SCARCITY",
       "speaking_task": "Back-room briefing:\n\nDiscuss in English: How does scarcity change prices, choices, and behavior?",
-      "skip_code": "SKIPL6"
+      "skip_code": "SKIPL6",
+      "question": "When demand remains high but there is not enough supply, what economic condition appears?"
     },
     {
       "id": "L7",
@@ -187,7 +193,8 @@
       "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nALLOCATION\n\nA shortage becomes a strategy when someone decides where the limited resources go.\n\nEvidence recovered:\nA delivery map with three routes erased, one route circled, and a note saying: “Send the last crate where it buys the most silence.”\n\nClean pages recovered: 77%\nThe route of the goods is visible again.",
       "fragment": "ALLOCATION",
       "speaking_task": "Back-room briefing:\n\nDiscuss in English: When resources are limited, how should a team decide who gets what first?",
-      "skip_code": "SKIPL7"
+      "skip_code": "SKIPL7",
+      "question": "What is the economic term for distributing limited resources among different people, projects, or uses?"
     },
     {
       "id": "L8",
@@ -212,7 +219,8 @@
       "success_reply": "Correct.\n\nA clean page slides back into the book:\n\nCOMPLIANCE\n\nThe cleanest business is not the one with no risk. It is the one that can prove what it did.\n\nEvidence recovered:\nA stack of invoices tied with black string, each page stamped, dated, and clean enough to make a guilty room nervous.\n\nClean pages recovered: 88%\nThe paperwork finally tells the truth.",
       "fragment": "COMPLIANCE",
       "speaking_task": "Back-room briefing:\n\nDiscuss in English: Why is proving compliance as important as following the rules themselves?",
-      "skip_code": "SKIPL8"
+      "skip_code": "SKIPL8",
+      "question": "What do we call following laws, rules, standards, and internal procedures — and being able to prove it?"
     },
     {
       "id": "L9",
