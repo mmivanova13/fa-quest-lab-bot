@@ -602,34 +602,49 @@ async def whereami(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 async def hint(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     progress = get_progress(context.chat_data)
     locations = get_locations(context.chat_data)
+    quest = get_current_quest(context.chat_data)
 
-    if not get_current_quest(context.chat_data):
+    if not quest:
         await update.effective_message.reply_text("No quest selected yet. Enter your quest code first.")
         return
 
-    if progress.get("phase") != ANSWERING:
-        await update.effective_message.reply_text("No active question right now. Type ARRIVED when you reach the next point.")
+    phase = progress.get("phase", WAITING_CODE)
+
+    if phase != ANSWERING:
+        await update.effective_message.reply_text(
+            "No active question right now. Press ARRIVED first, then use HINT after the task appears."
+        )
         return
 
-    location = locations[progress["location_index"]]
+    index = progress.get("location_index", 0)
+
+    if index >= len(locations):
+        await update.effective_message.reply_text("The quest is already at the final stage.")
+        return
+
+    location = locations[index]
     hints = location.get("hints", [])
     used = progress.get("hints_used", 0)
 
+    if not isinstance(hints, list) or not hints:
+        await update.effective_message.reply_text("No hints are configured for this frame.")
+        return
+
     if used < len(hints):
+        raw_hint = str(hints[used]).strip()
         progress["hints_used"] = used + 1
 
-        raw_hint = str(hints[used]).strip()
-
-        if re.match(r"^(hint|?????????)\\s*\\d+\\s*:", raw_hint, flags=re.IGNORECASE):
+        if re.match(r"^hint\s*\d+\s*:", raw_hint, flags=re.IGNORECASE):
             hint_text = raw_hint
         else:
             hint_text = f"Hint {used + 1}: {raw_hint}"
 
         await update.effective_message.reply_text(hint_text)
-    else:
-        await update.effective_message.reply_text(
-            "No more hints for this frame. Ask your teacher for help or check the place again."
-        )
+        return
+
+    await update.effective_message.reply_text(
+        "No more hints for this frame. Ask your teacher for help or check the place again."
+    )
 
 
 async def handle_correct_answer(update: Update, context: ContextTypes.DEFAULT_TYPE, skipped: bool = False) -> None:
