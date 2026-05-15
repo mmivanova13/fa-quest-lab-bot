@@ -148,6 +148,8 @@ def set_waiting_for_code(chat_data: Dict[str, Any]) -> None:
         "hints_used": 0,
         "fragments": [],
         "completed": [],
+            "total_hints_used": 0,
+            "wrong_answers": 0,
     }
 
 
@@ -159,6 +161,8 @@ def init_quest_progress(chat_data: Dict[str, Any], code: str) -> Dict[str, Any]:
         "hints_used": 0,
         "fragments": [],
         "completed": [],
+            "total_hints_used": 0,
+            "wrong_answers": 0,
     }
     return chat_data["progress"]
 
@@ -280,6 +284,16 @@ def final_profile_keyboard(quest: Optional[Dict[str, Any]] = None) -> ReplyKeybo
     if quest:
         final_buttons = quest.get("final_buttons")
         final_profiles = quest.get("final_profiles", {})
+
+    if quest.get("auto_profile"):
+        profile_key = calculate_auto_profile(progress, quest)
+        profile_text = quest.get("auto_profiles", {}).get(profile_key, "")
+        final_text = quest.get("finish_message", "The quest is complete.")
+        if profile_text:
+            final_text += "\n\n" + profile_text
+        progress["phase"] = FINISHED
+        await update.effective_message.reply_text(final_text, reply_markup=finished_keyboard())
+        return
 
         if isinstance(final_buttons, list) and final_buttons:
             buttons = [str(button).upper() for button in final_buttons]
@@ -453,6 +467,22 @@ async def progress_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -
         f"Unlocked fragments: {fragments}"
     )
 
+
+
+
+def calculate_auto_profile(progress: Dict[str, Any], quest: Dict[str, Any]) -> str:
+    """Calculate final investigator profile from completed locations, hints and wrong answers."""
+    completed_count = len(progress.get("completed", []))
+    hints_count = int(progress.get("total_hints_used", 0))
+    wrong_count = int(progress.get("wrong_answers", 0))
+
+    if completed_count >= 8 and hints_count <= 1 and wrong_count <= 1:
+        return "ARCHIVE_MASTER"
+    if completed_count >= 7 and hints_count <= 3 and wrong_count <= 3:
+        return "MOSCOW_INVESTIGATOR"
+    if completed_count >= 5:
+        return "URBAN_DECODER"
+    return "ROOKIE_OBSERVER"
 
 
 async def send_finish(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -633,6 +663,7 @@ async def hint(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     if used < len(hints):
         raw_hint = str(hints[used]).strip()
         progress["hints_used"] = used + 1
+        progress["total_hints_used"] = progress.get("total_hints_used", 0) + 1
 
         if re.match(r"^hint\s*\d+\s*:", raw_hint, flags=re.IGNORECASE):
             hint_text = raw_hint
@@ -799,6 +830,7 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
             await handle_correct_answer(update, context)
             return
 
+        progress["wrong_answers"] = progress.get("wrong_answers", 0) + 1
         await message.reply_text(location["wrong_reply"])
         await hint(update, context)
         return
