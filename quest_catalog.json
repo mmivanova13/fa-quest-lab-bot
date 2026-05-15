@@ -64,7 +64,7 @@
       "description": "A declassified historical investigation through central Moscow.",
       "file": "quests/top_secret_moscow_file.json",
       "cover_image": "assets/top_secret_the_moscow_file.png",
-      "cover_caption": "TOP SECRET: THE MOSCOW FILE\n\nDo not trust the official version.\n\nCase No. 1703-M\nDeclassified Field Investigation",
+      "cover_caption": "TOP SECRET: THE MOSCOW FILE\n\nDo not trust the official version.\n\nCase No. 1147-M\nDeclassified Field Investigation",
       "active": true,
       "is_active": true,
       "enabled": true,
