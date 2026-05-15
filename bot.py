@@ -733,7 +733,7 @@ async def handle_correct_answer(update: Update, context: ContextTypes.DEFAULT_TY
     await update.effective_message.reply_text(prefix + location["success_reply"])
 
     if location.get("speaking_task"):
-        await update.effective_message.reply_text("рџЋ™ Speaking task:\n" + location["speaking_task"])
+        await update.effective_message.reply_text(str(location["speaking_task"]).strip())
 
     progress["location_index"] += 1
     progress["hints_used"] = 0
