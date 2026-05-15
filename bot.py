@@ -1,4 +1,4 @@
-﻿"""Multi-quest Telegram bot for FA Quest Lab.
+"""Multi-quest Telegram bot for FA Quest Lab.
 
 One Telegram bot can run many walking quests.
 Students unlock a quest by entering a teacher-provided code, for example:
@@ -61,13 +61,12 @@ def normalize(text: str) -> str:
     """Normalize user input for forgiving matching."""
     text = unicodedata.normalize("NFKC", text or "")
     text = text.lower().strip()
-    text = text.replace("С‘", "Рµ")
-    text = text.replace("вЂ™", "'").replace("`", "'")
+    text = text.replace("ё", "е")
+    text = text.replace("’", "'").replace("`", "'")
     text = re.sub(r"[\u2010-\u2015]", "-", text)
-    text = re.sub(r"[^\w\s\-Р°-СЏРђ-РЇ]", "", text, flags=re.UNICODE)
+    text = re.sub(r"[^\w\s\-]", "", text, flags=re.UNICODE)
     text = re.sub(r"\s+", " ", text).strip()
     return text
-
 
 def normalize_code(text: str) -> str:
     """Normalize quest codes: remove spaces/hyphens and compare uppercase."""
