@@ -1,4 +1,4 @@
-"""Multi-quest Telegram bot for FA Quest Lab.
+﻿"""Multi-quest Telegram bot for FA Quest Lab.
 
 One Telegram bot can run many walking quests.
 Students unlock a quest by entering a teacher-provided code, for example:
@@ -61,10 +61,10 @@ def normalize(text: str) -> str:
     """Normalize user input for forgiving matching."""
     text = unicodedata.normalize("NFKC", text or "")
     text = text.lower().strip()
-    text = text.replace("ё", "е")
-    text = text.replace("’", "'").replace("`", "'")
+    text = text.replace("С‘", "Рµ")
+    text = text.replace("вЂ™", "'").replace("`", "'")
     text = re.sub(r"[\u2010-\u2015]", "-", text)
-    text = re.sub(r"[^\w\s\-а-яА-Я]", "", text, flags=re.UNICODE)
+    text = re.sub(r"[^\w\s\-Р°-СЏРђ-РЇ]", "", text, flags=re.UNICODE)
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
@@ -148,8 +148,8 @@ def set_waiting_for_code(chat_data: Dict[str, Any]) -> None:
         "hints_used": 0,
         "fragments": [],
         "completed": [],
-            "total_hints_used": 0,
-            "wrong_answers": 0,
+    "total_hints_used": 0,
+        "wrong_answers": 0,
     }
 
 
@@ -161,8 +161,8 @@ def init_quest_progress(chat_data: Dict[str, Any], code: str) -> Dict[str, Any]:
         "hints_used": 0,
         "fragments": [],
         "completed": [],
-            "total_hints_used": 0,
-            "wrong_answers": 0,
+    "total_hints_used": 0,
+        "wrong_answers": 0,
     }
     return chat_data["progress"]
 
@@ -285,16 +285,6 @@ def final_profile_keyboard(quest: Optional[Dict[str, Any]] = None) -> ReplyKeybo
         final_buttons = quest.get("final_buttons")
         final_profiles = quest.get("final_profiles", {})
 
-    if quest.get("auto_profile"):
-        profile_key = calculate_auto_profile(progress, quest)
-        profile_text = quest.get("auto_profiles", {}).get(profile_key, "")
-        final_text = quest.get("finish_message", "The quest is complete.")
-        if profile_text:
-            final_text += "\n\n" + profile_text
-        progress["phase"] = FINISHED
-        await update.effective_message.reply_text(final_text, reply_markup=finished_keyboard())
-        return
-
         if isinstance(final_buttons, list) and final_buttons:
             buttons = [str(button).upper() for button in final_buttons]
         elif isinstance(final_profiles, dict) and final_profiles:
@@ -407,14 +397,14 @@ async def reset(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.effective_message.reply_text(
         "Commands:\n"
-        "/start — enter a quest code and begin\n"
-        "/start CODE — begin with a specific quest code\n"
-        "/code — change quest code\n"
-        "/reset — reset the current quest\n"
-        "/hint — get the next hint for the current frame\n"
-        "/whereami — show your current frame and directions\n"
-        "/progress — show unlocked fragments\n"
-        "/quest — show current quest\n"
+        "/start вЂ” enter a quest code and begin\n"
+        "/start CODE вЂ” begin with a specific quest code\n"
+        "/code вЂ” change quest code\n"
+        "/reset вЂ” reset the current quest\n"
+        "/hint вЂ” get the next hint for the current frame\n"
+        "/whereami вЂ” show your current frame and directions\n"
+        "/progress вЂ” show unlocked fragments\n"
+        "/quest вЂ” show current quest\n"
         "Cover images are sent automatically after a valid quest code.\n\n"
         "You can also type HINT, WHERE AM I?, RESET, CHANGE QUEST or ARRIVED."
     )
@@ -424,7 +414,7 @@ async def quest_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> N
     code = get_selected_code(context.chat_data)
     quest = get_current_quest(context.chat_data)
     if not code or not quest:
-        await update.effective_message.reply_text("No quest selected yet. Use /code and enter your teacher’s code.")
+        await update.effective_message.reply_text("No quest selected yet. Use /code and enter your teacherвЂ™s code.")
         return
 
     entry = CATALOG["quests"][code]
@@ -446,7 +436,7 @@ async def quests_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
         if title not in unique_titles:
             unique_titles.append(title)
 
-    text = "Available quest titles:\n" + "\n".join(f"• {title}" for title in unique_titles)
+    text = "Available quest titles:\n" + "\n".join(f"вЂў {title}" for title in unique_titles)
     text += "\n\nQuest codes are provided by your teacher."
     await update.effective_message.reply_text(text)
 
@@ -493,8 +483,22 @@ async def send_finish(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
         await ask_for_code(update, context)
         return
 
-    final_profiles = quest.get("final_profiles", {})
+    if quest.get("auto_profile"):
+        profile_key = calculate_auto_profile(progress, quest)
+        profile_text = quest.get("auto_profiles", {}).get(profile_key, "")
 
+        final_text = quest.get("finish_message", "The quest is complete.")
+        if profile_text:
+            final_text += "\n\n" + profile_text
+
+        progress["phase"] = FINISHED
+        await update.effective_message.reply_text(
+            final_text,
+            reply_markup=finished_keyboard(),
+        )
+        return
+
+    final_profiles = quest.get("final_profiles", {})
     if final_profiles:
         progress["phase"] = FINAL_CHOICE
         await update.effective_message.reply_text(
@@ -508,6 +512,7 @@ async def send_finish(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
         quest.get("finish_message", "The quest is complete."),
         reply_markup=finished_keyboard(),
     )
+
 
 
 async def send_destination(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -619,7 +624,7 @@ async def whereami(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
     location = locations[index]
     await update.effective_message.reply_text(
-        f"Current frame: {location['id']} — {location['title']}\n"
+        f"Current frame: {location['id']} вЂ” {location['title']}\n"
         f"\U0001F4CD Location: {location['location_name']}\n"
         f"\U0001F4CC Address / point: {location['address']}\n"
         f"\U0001F5FA\ufe0f Map: {location['map_link']}\n"
@@ -698,7 +703,7 @@ async def handle_correct_answer(update: Update, context: ContextTypes.DEFAULT_TY
     await update.effective_message.reply_text(prefix + location["success_reply"])
 
     if location.get("speaking_task"):
-        await update.effective_message.reply_text("🎙 Speaking task:\n" + location["speaking_task"])
+        await update.effective_message.reply_text("рџЋ™ Speaking task:\n" + location["speaking_task"])
 
     progress["location_index"] += 1
     progress["hints_used"] = 0
@@ -870,3 +875,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
