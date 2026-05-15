@@ -15,6 +15,7 @@ Tested for the python-telegram-bot v22.x async API pattern.
 
 from __future__ import annotations
 
+import asyncio
 import json
 import os
 import re
@@ -485,14 +486,44 @@ async def send_finish(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
     if quest.get("auto_profile"):
         profile_key = calculate_auto_profile(progress, quest)
         profile_text = quest.get("auto_profiles", {}).get(profile_key, "")
-
-        final_text = quest.get("finish_message", "The quest is complete.")
-        if profile_text:
-            final_text += "\n\n" + profile_text
+        finish_message = quest.get("finish_message", "The quest is complete.")
 
         progress["phase"] = FINISHED
+
+        if profile_text:
+            if finish_message:
+                await update.effective_message.reply_text(finish_message)
+
+            loading_caption = (
+                "ALL PAGES RESTORED.\n\n"
+                "Analyzing protocol...\n"
+                "Counting hints...\n"
+                "Checking incorrect entries...\n"
+                "Assigning investigator status..."
+            )
+
+            loading_path = Path("assets/protocol_loading.gif")
+
+            if loading_path.exists():
+                with loading_path.open("rb") as animation_file:
+                    await context.bot.send_animation(
+                        chat_id=update.effective_chat.id,
+                        animation=animation_file,
+                        caption=loading_caption,
+                    )
+            else:
+                await update.effective_message.reply_text(loading_caption)
+
+            await asyncio.sleep(2.5)
+
+            await update.effective_message.reply_text(
+                profile_text,
+                reply_markup=finished_keyboard(),
+            )
+            return
+
         await update.effective_message.reply_text(
-            final_text,
+            finish_message,
             reply_markup=finished_keyboard(),
         )
         return
