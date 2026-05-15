@@ -12,14 +12,6 @@
       "cover_image": "assets/missing_reel_cover.png",
       "cover_caption": "Quest unlocked: The Missing Reel\n\nThe city kept the backup.\nNow find it."
     },
-    "MR2026FA": {
-      "title": "The Missing Reel",
-      "file": "quests/missing_reel.json",
-      "active": true,
-      "description": "Alias code for Financial University groups.",
-      "cover_image": "assets/missing_reel_cover.png",
-      "cover_caption": "Quest unlocked: The Missing Reel\n\nThe city kept the backup.\nNow find it."
-    },
     "COORDINATE2026": {
       "title": "The Lost Coordinate",
       "file": "quests/lost_coordinate.json",
