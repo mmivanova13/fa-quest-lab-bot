@@ -1,94 +1,100 @@
 {
-    "bot_title":  "FA Quest Lab",
-    "welcome_message":  "Welcome to FA Quest Lab.\n\nThis bot can run different walking quests.\nEnter the quest code from your teacher to begin.",
-    "invalid_code_message":  "I cannot find this quest code.\n\nCheck the code from your teacher and try again.",
-    "inactive_code_message":  "This quest code exists, but it is not active right now.\n\nAsk your teacher whether the quest has already started.",
-    "quests":  {
-                   "MISSING2026":  {
-                                       "title":  "The Missing Reel",
-                                       "file":  "quests/missing_reel.json",
-                                       "active":  true,
-                                       "description":  "Digital world vs real city walking quest.",
-                                       "cover_image":  "assets/missing_reel_cover.png",
-                                       "cover_caption":  "Quest unlocked: The Missing Reel\n\nThe city kept the backup.\nNow find it."
-                                   },
-                   "MR2026FA":  {
-                                    "title":  "The Missing Reel",
-                                    "file":  "quests/missing_reel.json",
-                                    "active":  true,
-                                    "description":  "Alias code for Financial University groups.",
-                                    "cover_image":  "assets/missing_reel_cover.png",
-                                    "cover_caption":  "Quest unlocked: The Missing Reel\n\nThe city kept the backup.\nNow find it."
-                                },
-                   "COORDINATE2026":  {
-                                          "title":  "The Lost Coordinate",
-                                          "file":  "quests/lost_coordinate.json",
-                                          "active":  true,
-                                          "description":  "The past is fading. The city still knows the way.",
-                                          "cover_image":  "assets/lost_coordinate_cover.png",
-                                          "cover_caption":  "Quest unlocked: The Lost Coordinate\n\nThe past is fading.\nThe city still knows the way.\n\nA time-travel mystery through old Moscow."
-                                      },
-                   "BALANCE2026":  {
-                                       "title":  "Crisis Protocol: Balance",
-                                       "file":  "quests/crisis_protocol_balance.json",
-                                       "active":  true,
-                                       "description":  "The crash will not look like an attack.",
-                                       "cover_image":  "assets/crisis_protocol_balance_cover.png",
-                                       "cover_caption":  "CRISIS PROTOCOL: BALANCE\n\nThe crash will not look like an attack.\n\nEcho-Zero detected. Human analysts required."
-                                   },
-                   "COMPASS2026":  {
-                                       "title":  "The Black Compass Route",
-                                       "file":  "quests/black_compass_route.json",
-                                       "active":  true,
-                                       "description":  "Trace the cargo before the river swallows the route.",
-                                       "cover_image":  "assets/black_compass_route_cover.png",
-                                       "cover_caption":  "THE BLACK COMPASS ROUTE\n\nTrace the cargo before the river swallows the route.\n\nA pirate adventure in supply chains and trade"
-                                   },
-                   "GRAVITY2026":  {
-                                       "title":  "The Silent Gravity",
-                                       "subtitle":  "Three bodies entered the system. Only one answered.",
-                                       "description":  "A sci-fi quest about EQUINOX-13, a missing ship, silent gravity, and the final decision about what comes home.",
-                                       "file":  "quests/silent_gravity.json",
-                                       "cover_image":  "covers/silent_gravity_cover.png",
-                                       "active":  true,
-                                       "is_active":  true,
-                                       "enabled":  true,
-                                       "status":  "active"
-                                   },
-                   "LEDGER2026":  {
-                                      "title":  "The Last Clean Ledger",
-                                      "subtitle":  "Every bottle left a number. Every number left a trail.",
-                                      "description":  "A Prohibition-era financial mystery through Bauman and Lefortovo.",
-                                      "file":  "quests/last_clean_ledger.json",
-                                      "cover_image":  "covers/the_last_clean_ledger.png",
-                                      "active":  true,
-                                      "is_active":  true,
-                                      "enabled":  true,
-                                      "status":  "active"
-                                  },
-                   "FILE1703":  {
-                                    "title":  "TOP SECRET: The Moscow File",
-                                    "subtitle":  "Do not trust the official version.",
-                                    "description":  "A declassified historical investigation through central Moscow.",
-                                    "file":  "quests/top_secret_moscow_file.json",
-                                    "cover_image":  "assets/top_secret_the_moscow_file.png",
-                                    "cover_caption":  "TOP SECRET: THE MOSCOW FILE\n\nDo not trust the official version.\n\nCase No. 1703-M\nDeclassified Field Investigation",
-                                    "active":  true,
-                                    "is_active":  true,
-                                    "enabled":  true,
-                                    "status":  "active"
-                                },
-                   "MOSCOWFILE2026":  {
-                                          "title":  "TOP SECRET: The Moscow File",
-                                          "subtitle":  "Do not trust the official version.",
-                                          "description":  "A declassified historical investigation through central Moscow.",
-                                          "file":  "quests/top_secret_moscow_file.json",
-                                          "cover_image":  "assets/top_secret_the_moscow_file.png",
-                                          "cover_caption":  "TOP SECRET: THE MOSCOW FILE\n\nDo not trust the official version.\n\nCase No. 1703-M\nDeclassified Field Investigation",
-                                          "active":  true,
-                                          "is_active":  true,
-                                          "enabled":  true,
-                                          "status":  "active"
-                                      }
-               }
+  "bot_title": "FA Quest Lab",
+  "welcome_message": "Welcome to FA Quest Lab.\n\nThis bot can run different walking quests.\nEnter the quest code from your teacher to begin.",
+  "invalid_code_message": "I cannot find this quest code.\n\nCheck the code from your teacher and try again.",
+  "inactive_code_message": "This quest code exists, but it is not active right now.\n\nAsk your teacher whether the quest has already started.",
+  "quests": {
+    "MISSING2026": {
+      "title": "The Missing Reel",
+      "file": "quests/missing_reel.json",
+      "active": true,
+      "description": "Digital world vs real city walking quest.",
+      "cover_image": "assets/missing_reel_cover.png",
+      "cover_caption": "Quest unlocked: The Missing Reel\n\nThe city kept the backup.\nNow find it."
+    },
+    "MR2026FA": {
+      "title": "The Missing Reel",
+      "file": "quests/missing_reel.json",
+      "active": true,
+      "description": "Alias code for Financial University groups.",
+      "cover_image": "assets/missing_reel_cover.png",
+      "cover_caption": "Quest unlocked: The Missing Reel\n\nThe city kept the backup.\nNow find it."
+    },
+    "COORDINATE2026": {
+      "title": "The Lost Coordinate",
+      "file": "quests/lost_coordinate.json",
+      "active": true,
+      "description": "The past is fading. The city still knows the way.",
+      "cover_image": "assets/lost_coordinate_cover.png",
+      "cover_caption": "Quest unlocked: The Lost Coordinate\n\nThe past is fading.\nThe city still knows the way.\n\nA time-travel mystery through old Moscow."
+    },
+    "BALANCE2026": {
+      "title": "Crisis Protocol: Balance",
+      "file": "quests/crisis_protocol_balance.json",
+      "active": true,
+      "description": "The crash will not look like an attack.",
+      "cover_image": "assets/crisis_protocol_balance_cover.png",
+      "cover_caption": "CRISIS PROTOCOL: BALANCE\n\nThe crash will not look like an attack.\n\nEcho-Zero detected. Human analysts required."
+    },
+    "COMPASS2026": {
+      "title": "The Black Compass Route",
+      "file": "quests/black_compass_route.json",
+      "active": true,
+      "description": "Trace the cargo before the river swallows the route.",
+      "cover_image": "assets/black_compass_route_cover.png",
+      "cover_caption": "THE BLACK COMPASS ROUTE\n\nTrace the cargo before the river swallows the route.\n\nA pirate adventure in supply chains and trade"
+    },
+    "GRAVITY2026": {
+      "title": "The Silent Gravity",
+      "subtitle": "Three bodies entered the system. Only one answered.",
+      "description": "A sci-fi quest about EQUINOX-13, a missing ship, silent gravity, and the final decision about what comes home.",
+      "file": "quests/silent_gravity.json",
+      "cover_image": "covers/silent_gravity_cover.png",
+      "active": true,
+      "is_active": true,
+      "enabled": true,
+      "status": "active"
+    },
+    "LEDGER2026": {
+      "title": "The Last Clean Ledger",
+      "subtitle": "Every bottle left a number. Every number left a trail.",
+      "description": "A Prohibition-era financial mystery through Bauman and Lefortovo.",
+      "file": "quests/last_clean_ledger.json",
+      "cover_image": "covers/the_last_clean_ledger.png",
+      "active": true,
+      "is_active": true,
+      "enabled": true,
+      "status": "active"
+    },
+    "FILE1703": {
+      "title": "TOP SECRET: The Moscow File",
+      "subtitle": "Do not trust the official version.",
+      "description": "A declassified historical investigation through central Moscow.",
+      "file": "quests/top_secret_moscow_file.json",
+      "cover_image": "assets/top_secret_the_moscow_file.png",
+      "cover_caption": "TOP SECRET: THE MOSCOW FILE\n\nDo not trust the official version.\n\nCase No. 1703-M\nDeclassified Field Investigation",
+      "active": true,
+      "is_active": true,
+      "enabled": true,
+      "status": "active"
+    },
+    "MOSCOWFILE2026": {
+      "title": "TOP SECRET: The Moscow File",
+      "subtitle": "Do not trust the official version.",
+      "description": "A declassified historical investigation through central Moscow.",
+      "file": "quests/top_secret_moscow_file.json",
+      "cover_image": "assets/top_secret_the_moscow_file.png",
+      "cover_caption": "TOP SECRET: THE MOSCOW FILE\n\nDo not trust the official version.\n\nCase No. 1703-M\nDeclassified Field Investigation",
+      "active": true,
+      "is_active": true,
+      "enabled": true,
+      "status": "active"
+    }
+  },
+  "MOSCOW2026": {
+    "title": "TOP SECRET: The Moscow File",
+    "file": "quests/top_secret_moscow_file.json",
+    "cover_image": "assets/top_secret_the_moscow_file.png",
+    "cover_caption": "TOP SECRET: The Moscow File\n\nDo not trust the official version."
+  }
 }
