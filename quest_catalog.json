@@ -66,19 +66,7 @@
       "enabled": true,
       "status": "active"
     },
-    "FILE1703": {
-      "title": "TOP SECRET: The Moscow File",
-      "subtitle": "Do not trust the official version.",
-      "description": "A declassified historical investigation through central Moscow.",
-      "file": "quests/top_secret_moscow_file.json",
-      "cover_image": "assets/top_secret_the_moscow_file.png",
-      "cover_caption": "TOP SECRET: THE MOSCOW FILE\n\nDo not trust the official version.\n\nCase No. 1703-M\nDeclassified Field Investigation",
-      "active": true,
-      "is_active": true,
-      "enabled": true,
-      "status": "active"
-    },
-    "MOSCOWFILE2026": {
+    "MOSCOW2026": {
       "title": "TOP SECRET: The Moscow File",
       "subtitle": "Do not trust the official version.",
       "description": "A declassified historical investigation through central Moscow.",
@@ -90,11 +78,5 @@
       "enabled": true,
       "status": "active"
     }
-  },
-  "MOSCOW2026": {
-    "title": "TOP SECRET: The Moscow File",
-    "file": "quests/top_secret_moscow_file.json",
-    "cover_image": "assets/top_secret_the_moscow_file.png",
-    "cover_caption": "TOP SECRET: The Moscow File\n\nDo not trust the official version."
   }
 }
