@@ -10,7 +10,8 @@
       "active": true,
       "description": "Digital world vs real city walking quest.",
       "cover_image": "assets/missing_reel_cover.jpg",
-      "cover_caption": "Quest unlocked: The Missing Reel\n\nThe city kept the backup.\nNow find it."
+      "cover_caption": "Quest unlocked: The Missing Reel\n\nThe city kept the backup.\nNow find it.",
+      "headline": "The city kept the backup. Now find it."
     },
     "COORDINATE2026": {
       "title": "The Lost Coordinate",
@@ -18,7 +19,8 @@
       "active": true,
       "description": "The past is fading. The city still knows the way.",
       "cover_image": "assets/lost_coordinate_cover.jpg",
-      "cover_caption": "Quest unlocked: The Lost Coordinate\n\nThe past is fading.\nThe city still knows the way.\n\nA time-travel mystery through old Moscow."
+      "cover_caption": "Quest unlocked: The Lost Coordinate\n\nThe past is fading.\nThe city still knows the way.\n\nA time-travel mystery through old Moscow.",
+      "headline": "When time forgets the road, follow the address that remembers."
     },
     "BALANCE2026": {
       "title": "Crisis Protocol: Balance",
@@ -26,7 +28,8 @@
       "active": true,
       "description": "The crash will not look like an attack.",
       "cover_image": "assets/crisis_protocol_balance_cover.jpg",
-      "cover_caption": "CRISIS PROTOCOL: BALANCE\n\nThe crash will not look like an attack.\n\nEcho-Zero detected. Human analysts required."
+      "cover_caption": "CRISIS PROTOCOL: BALANCE\n\nThe crash will not look like an attack.\n\nEcho-Zero detected. Human analysts required.",
+      "headline": "Trust is the last reserve."
     },
     "COMPASS2026": {
       "title": "The Black Compass Route",
@@ -34,7 +37,8 @@
       "active": true,
       "description": "Trace the cargo before the river swallows the route.",
       "cover_image": "assets/black_compass_route_cover.jpg",
-      "cover_caption": "THE BLACK COMPASS ROUTE\n\nTrace the cargo before the river swallows the route.\n\nA pirate adventure in supply chains and trade"
+      "cover_caption": "THE BLACK COMPASS ROUTE\n\nTrace the cargo before the river swallows the route.\n\nA pirate adventure in supply chains and trade",
+      "headline": "A route for those who know that trade is never just movement."
     },
     "GRAVITY2026": {
       "title": "The Silent Gravity",
@@ -45,7 +49,8 @@
       "active": true,
       "is_active": true,
       "enabled": true,
-      "status": "active"
+      "status": "active",
+      "headline": "When the system drifts, find the force that still holds it together."
     },
     "LEDGER2026": {
       "title": "The Last Clean Ledger",
@@ -56,7 +61,8 @@
       "active": true,
       "is_active": true,
       "enabled": true,
-      "status": "active"
+      "status": "active",
+      "headline": "Every clean record hides a risk that someone tried to control."
     },
     "MOSCOW2026": {
       "title": "TOP SECRET: The Moscow File",
@@ -68,7 +74,8 @@
       "active": true,
       "is_active": true,
       "enabled": true,
-      "status": "active"
+      "status": "active",
+      "headline": "Do not trust the official version."
     }
   }
 }
