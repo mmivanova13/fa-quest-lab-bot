@@ -124,7 +124,7 @@ async def send_quest_cover_if_available(update: Update, entry: Dict[str, Any], t
         )
         return
 
-    caption = entry.get("cover_caption") or f"Quest unlocked: {title}"
+    caption = f"Quest unlocked: {title}"
 
     try:
         with image_path.open("rb") as photo:
