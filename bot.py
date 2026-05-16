@@ -25,6 +25,7 @@ from typing import Any, Dict, List, Optional
 
 from dotenv import load_dotenv
 from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove, Update
+from telegram.error import TelegramError
 from telegram.ext import (
     Application,
     ApplicationBuilder,
@@ -105,7 +106,11 @@ def load_quest_for_code(code: str) -> Dict[str, Any]:
 
 
 async def send_quest_cover_if_available(update: Update, entry: Dict[str, Any], title: str) -> None:
-    """Send a quest cover image after a valid code, if cover_image is configured."""
+    """Send a quest cover image after a valid code, if cover_image is configured.
+
+    If Telegram times out while uploading/sending the cover, continue the quest
+    instead of blocking the start message.
+    """
     cover_image = entry.get("cover_image")
     if not cover_image:
         return
@@ -120,8 +125,16 @@ async def send_quest_cover_if_available(update: Update, entry: Dict[str, Any], t
         return
 
     caption = entry.get("cover_caption") or f"Quest unlocked: {title}"
-    with image_path.open("rb") as photo:
-        await update.effective_message.reply_photo(photo=photo, caption=caption)
+
+    try:
+        with image_path.open("rb") as photo:
+            await update.effective_message.reply_photo(photo=photo, caption=caption)
+    except TelegramError:
+        await update.effective_message.reply_text(
+            f"Quest unlocked: {title}\n\n"
+            "Cover loading took too long. The quest will continue without the cover."
+        )
+        return
 
 
 def get_selected_code(chat_data: Dict[str, Any]) -> Optional[str]:
